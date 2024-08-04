@@ -1,0 +1,2187 @@
+{
+    "id": "[實戰]+1凌陽+1擎淵怒濤,+2散華,+0維里奈+1奇幻變奏-無常凶鷺(20240610回音之塔第四層)",
+    "test_resonator_id_1": "1鏈 70凌陽 1振 70擎淵怒濤 ftiKjqQjNTw",
+    "test_resonator_id_2": "2鏈 50散華 1振 44西升 ftiKjqQjNTw",
+    "test_resonator_id_3": "0鏈 50維里奈 1振 70奇幻變奏 ftiKjqQjNTw",
+    "monster_id": "無常凶鷺(20240610回音之塔第四層)",
+    "description": "角色導電傷害加成提升30%\n\n角色施放共鳴技能後，自身攻擊力提升20%，持續7秒，最多疊加2次，重複觸發刷新持續時間\n\nhttps://youtu.be/ftiKjqQjNTw",
+    "resonators": [
+        {
+            "resonator_name": "凌陽",
+            "resonator_chain": "1",
+            "resonator_weapon_name": "擎淵怒濤",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_echo_1": "輝螢軍勢",
+            "resonator_echo_sonata_1": "凝夜白霜",
+            "resonator_echo_sonata_2": "凝夜白霜",
+            "resonator_echo_sonata_3": "凝夜白霜",
+            "resonator_echo_sonata_4": "凝夜白霜",
+            "resonator_echo_sonata_5": "凝夜白霜"
+        },
+        {
+            "resonator_name": "散華",
+            "resonator_chain": "2",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": false,
+            "resonator_inherent_skill_2": false,
+            "resonator_echo_1": "無常凶鷺",
+            "resonator_echo_sonata_1": "輕雲出月",
+            "resonator_echo_sonata_2": "輕雲出月",
+            "resonator_echo_sonata_3": "輕雲出月",
+            "resonator_echo_sonata_4": "輕雲出月",
+            "resonator_echo_sonata_5": "輕雲出月"
+        },
+        {
+            "resonator_name": "維里奈",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "奇幻變奏",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": false,
+            "resonator_echo_1": "鳴鐘之龜",
+            "resonator_echo_sonata_1": "隱世回光",
+            "resonator_echo_sonata_2": "隱世回光",
+            "resonator_echo_sonata_3": "隱世回光",
+            "resonator_echo_sonata_4": "隱世回光",
+            "resonator_echo_sonata_5": "隱世回光"
+        }
+    ],
+    "rows": [
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "入場",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "1581",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "出洞·睡獅蟄醒-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-固有1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "3478",
+            "action": "變奏",
+            "skill_id": "出洞·睡獅蟄醒-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-固有1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "7520",
+            "action": "聲骸",
+            "skill_id": "五星 輝螢軍勢-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "4015",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 輝螢軍勢-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 輝螢軍勢-3",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "入場",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "4050",
+            "action": "變奏",
+            "skill_id": "出洞·睡獅蟄醒-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-固有1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "4050",
+            "action": "變奏",
+            "skill_id": "出洞·睡獅蟄醒-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-固有1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "8463",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "奮進·獅子奮迅，俱足萬行",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "7994",
+            "action": "重擊",
+            "skill_id": "起勢·縱地金光傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "8800",
+            "real_dmg_crit": "16843",
+            "action": "普攻",
+            "skill_id": "狂態·搖光金獅舞第一段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "4152",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q共鳴技能",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "6227",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q共鳴技能",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "6582",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "狂態·搖光金獅舞第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "8694",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q共鳴技能",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "6813",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "輝螢軍勢-Q共鳴技能",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "20249",
+            "action": "普攻",
+            "skill_id": "狂態·搖光金獅舞第一段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "輝螢軍勢-Q冷凝",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "4294",
+            "real_dmg_crit": "8218",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "12325",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "6762",
+            "real_dmg_crit": "12936",
+            "action": "普攻",
+            "skill_id": "狂態·搖光金獅舞第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "4064",
+            "real_dmg_crit": "7776",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "6094",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "飛身式·翻山越澗傷害-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "擎淵怒濤-共鳴技能",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "16117",
+            "real_dmg_crit": "30849",
+            "action": "普攻",
+            "skill_id": "凌雲式·腿打連環傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "11233",
+            "action": "空中攻擊",
+            "skill_id": "登樓·尾墜千斤傷害-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "18974",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "留痕·踏雪點星",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "輕雲出月-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "無常凶鷺-Q",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "7572",
+            "action": "空中攻擊",
+            "skill_id": "登樓·尾墜千斤傷害-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "擎淵怒濤-普攻",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "凝夜白霜-(5/5)",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        }
+    ]
+}
