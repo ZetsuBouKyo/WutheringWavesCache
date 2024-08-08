@@ -1,0 +1,1414 @@
+{
+    "id": "[腦測]徹空+6相里要+1諸方玄樞-90等抗性20白板-算Q傷,不算Q增益",
+    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 徹空-暴傷頭-1屬1攻",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "",
+    "monster_id": "90等抗性20白板",
+    "description": "",
+    "resonators": [
+        {
+            "resonator_name": "相里要",
+            "resonator_chain": "6",
+            "resonator_weapon_name": "諸方玄樞",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_echo_1": "雲閃之鱗",
+            "resonator_echo_sonata_1": "徹空冥雷",
+            "resonator_echo_sonata_2": "徹空冥雷",
+            "resonator_echo_sonata_3": "徹空冥雷",
+            "resonator_echo_sonata_4": "徹空冥雷",
+            "resonator_echo_sonata_5": "徹空冥雷"
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": ""
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": ""
+        }
+    ],
+    "rows": [
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-3",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "正理",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "群星的止境",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第一段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "坊市的煙火",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈3-邃古的遺墟",
+                    "type": "加成",
+                    "value": "0.63",
+                    "stack": "1",
+                    "duration": "24"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "卓異的門生",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "衍構模體",
+                    "type": "倍率",
+                    "value": "1",
+                    "stack": "5",
+                    "duration": ""
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第一段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "坊市的煙火",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈3-邃古的遺墟",
+                    "type": "加成",
+                    "value": "0.63",
+                    "stack": "1",
+                    "duration": "24"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "卓異的門生",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第一段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "坊市的煙火",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈3-邃古的遺墟",
+                    "type": "加成",
+                    "value": "0.63",
+                    "stack": "1",
+                    "duration": "24"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "卓異的門生",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
+                },
+                {
+                    "name": "諸方玄樞-1諧振-共鳴解放",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "衍構模體",
+                    "type": "倍率",
+                    "value": "1",
+                    "stack": "5",
+                    "duration": ""
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈4-再塑的軀骸",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "鏈式",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "徹空冥雷-導電(5/5)",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "相里要-固有1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "相里要-共鳴鏈5-群星的止境",
+                    "type": "招式倍率",
+                    "value": "2.22",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        }
+    ]
+}
