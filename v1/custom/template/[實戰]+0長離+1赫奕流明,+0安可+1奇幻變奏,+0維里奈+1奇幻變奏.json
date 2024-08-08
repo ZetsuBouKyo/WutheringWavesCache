@@ -376,7 +376,64 @@
             "action": "入場",
             "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -391,7 +448,64 @@
             "action": "",
             "skill_id": "心眼·征傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -406,7 +520,57 @@
             "action": "共鳴技能",
             "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -421,7 +585,57 @@
             "action": "",
             "skill_id": "心眼·劫傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "13",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -436,7 +650,57 @@
             "action": "",
             "skill_id": "心眼·劫傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "13",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -451,7 +715,57 @@
             "action": "",
             "skill_id": "心眼·劫傷害-4",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -466,7 +780,64 @@
             "action": "空中攻擊",
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -481,7 +852,64 @@
             "action": "",
             "skill_id": "心眼·衝傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -554,9 +982,52 @@
             "real_dmg_no_crit": "434",
             "real_dmg_crit": "",
             "action": "變奏",
-            "skill_id": "",
+            "skill_id": "天道持樞-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -569,9 +1040,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "641",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -584,9 +1105,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "641",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -599,9 +1170,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "641",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -614,9 +1235,59 @@
             "real_dmg_no_crit": "291",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -629,9 +1300,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3902",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -644,9 +1379,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "5852",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·衝傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -659,9 +1458,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4111",
             "action": "重擊",
-            "skill_id": "",
+            "skill_id": "空中重擊",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -674,9 +1523,66 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4196",
             "action": "共鳴技能",
-            "skill_id": "",
+            "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -689,9 +1595,66 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4196",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·劫傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -704,9 +1667,66 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4196",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·劫傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -719,9 +1739,66 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "8390",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·劫傷害-4",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -731,12 +1808,62 @@
         },
         {
             "resonator_name": "安可",
-            "real_dmg_no_crit": "402",
-            "real_dmg_crit": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "402",
             "action": "入場",
-            "skill_id": "",
+            "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "0",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -749,9 +1876,66 @@
             "real_dmg_no_crit": "2016",
             "real_dmg_crit": "3976",
             "action": "共鳴技能",
-            "skill_id": "",
+            "skill_id": "熱力羊咩傷害",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -764,9 +1948,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3212",
             "action": "入場",
-            "skill_id": "",
+            "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -779,9 +2027,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3212",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·征傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -794,9 +2106,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4497",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·征傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -809,9 +2185,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "5140",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·征傷害-4",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -824,9 +2264,80 @@
             "real_dmg_no_crit": "974",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -839,9 +2350,80 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2144",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -854,9 +2436,80 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2144",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -869,9 +2522,80 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2144",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -884,9 +2608,80 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2144",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -899,9 +2694,80 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "25008",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -914,9 +2780,73 @@
             "real_dmg_no_crit": "28241",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "",
+            "skill_id": "離火照丹心",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -929,9 +2859,87 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2378",
             "action": "重擊",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -944,9 +2952,87 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -959,9 +3045,87 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -974,9 +3138,87 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -989,9 +3231,87 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "鳴鐘之龜-Q",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "赫奕流明-1諧振-共鳴技能(灼羽)",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1004,9 +3324,73 @@
             "real_dmg_no_crit": "10107",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "焚身以火-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-固有2-散勢(熱熔)",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-固有2-散勢(忽視防禦)",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1034,9 +3418,66 @@
             "real_dmg_no_crit": "727",
             "real_dmg_crit": "",
             "action": "變奏",
-            "skill_id": "",
+            "skill_id": "咩咩幫手",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1049,9 +3490,66 @@
             "real_dmg_no_crit": "374",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第一段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1064,9 +3562,66 @@
             "real_dmg_no_crit": "374",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第一段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1079,9 +3634,59 @@
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1094,9 +3699,59 @@
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1109,9 +3764,59 @@
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1124,9 +3829,59 @@
             "real_dmg_no_crit": "259",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1139,9 +3894,59 @@
             "real_dmg_no_crit": "259",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1154,9 +3959,59 @@
             "real_dmg_no_crit": "259",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1169,9 +4024,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "512",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-4",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1181,12 +4086,62 @@
         },
         {
             "resonator_name": "安可",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "761",
+            "real_dmg_no_crit": "761",
+            "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1196,12 +4151,62 @@
         },
         {
             "resonator_name": "安可",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "761",
+            "real_dmg_no_crit": "761",
+            "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1214,9 +4219,59 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1229,9 +4284,66 @@
             "real_dmg_no_crit": "374",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第一段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1244,9 +4356,66 @@
             "real_dmg_no_crit": "374",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第一段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "熔山裂谷-(5/5)",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1259,9 +4428,66 @@
             "real_dmg_no_crit": "210",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1274,9 +4500,66 @@
             "real_dmg_no_crit": "210",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1289,9 +4572,66 @@
             "real_dmg_no_crit": "210",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第二段傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1304,9 +4644,66 @@
             "real_dmg_no_crit": "246",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1319,9 +4716,66 @@
             "real_dmg_no_crit": "246",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-2",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "長離-延奏技能-奇正相生(熱熔)",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1331,12 +4785,62 @@
         },
         {
             "resonator_name": "安可",
-            "real_dmg_no_crit": "413",
-            "real_dmg_crit": "",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "413",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-3",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1349,7 +4853,72 @@
             "real_dmg_no_crit": "209",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第三段傷害-4",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-固有1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "隱世回光-(5/5)",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "安可-固有1-生氣的黑咩",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "安可-固有2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": ""
+        },
+        {
+            "resonator_name": "安可",
+            "real_dmg_no_crit": "614",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1364,22 +4933,7 @@
             "real_dmg_no_crit": "614",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": ""
-        },
-        {
-            "resonator_name": "安可",
-            "real_dmg_no_crit": "614",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1394,7 +4948,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·胡鬧第四段傷害-3",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1409,7 +4963,7 @@
             "real_dmg_no_crit": "192",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "",
+            "skill_id": "黑咩·狂熱傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1424,7 +4978,7 @@
             "real_dmg_no_crit": "192",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·狂熱傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1439,7 +4993,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·狂熱傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1454,7 +5008,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "378",
             "action": "",
-            "skill_id": "",
+            "skill_id": "黑咩·狂熱傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1469,7 +5023,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "836",
             "action": "變奏",
-            "skill_id": "",
+            "skill_id": "天道持樞-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1484,7 +5038,7 @@
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1499,7 +5053,7 @@
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1514,7 +5068,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "488",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1529,7 +5083,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "488",
             "action": "",
-            "skill_id": "",
+            "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1544,7 +5098,7 @@
             "real_dmg_no_crit": "1136",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "",
+            "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1559,7 +5113,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3816",
             "action": "",
-            "skill_id": "",
+            "skill_id": "心眼·衝傷害-2",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
@@ -1574,7 +5128,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3172",
             "action": "重擊",
-            "skill_id": "",
+            "skill_id": "空中重擊",
             "skill_bonus_type": "",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
