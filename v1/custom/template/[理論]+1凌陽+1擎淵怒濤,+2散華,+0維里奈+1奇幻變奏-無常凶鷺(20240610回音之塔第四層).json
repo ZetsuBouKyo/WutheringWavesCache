@@ -278,7 +278,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "變奏",
+            "action": "",
             "skill_id": "出洞·睡獅蟄醒-1",
             "skill_bonus_type": "",
             "buffs": [
@@ -622,7 +622,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "變奏",
+            "action": "",
             "skill_id": "出洞·睡獅蟄醒-1",
             "skill_bonus_type": "",
             "buffs": [
@@ -1010,7 +1010,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
+            "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "buffs": [
@@ -1268,7 +1268,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
+            "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "buffs": [
@@ -1512,7 +1512,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
+            "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "buffs": [
@@ -1728,7 +1728,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
+            "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "buffs": [
