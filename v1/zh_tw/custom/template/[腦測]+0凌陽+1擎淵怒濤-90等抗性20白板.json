@@ -59,7 +59,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "1",
@@ -82,7 +82,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "2",
@@ -105,7 +105,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -150,7 +150,7 @@
                     "duration": "0"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -180,7 +180,7 @@
                     "duration": "0"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -203,7 +203,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -233,7 +233,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -270,7 +270,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -307,14 +307,14 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q共鳴技能",
+                    "name": "[共鳴技能-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -358,14 +358,14 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q共鳴技能",
+                    "name": "[共鳴技能-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -409,7 +409,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -453,14 +453,14 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q共鳴技能",
+                    "name": "[共鳴技能-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -504,14 +504,14 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q共鳴技能",
+                    "name": "[共鳴技能-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
                 },
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
@@ -555,7 +555,7 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "輝螢軍勢-Q冷凝",
+                    "name": "[冷凝-自己]輝螢軍勢",
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
