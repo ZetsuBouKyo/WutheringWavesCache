@@ -692,13 +692,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -718,20 +711,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -751,13 +730,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -777,20 +749,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -810,13 +768,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -836,20 +787,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -869,13 +806,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -895,20 +825,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -928,13 +844,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -954,20 +863,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1003,13 +898,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1029,20 +917,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1078,13 +952,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1104,20 +971,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1137,13 +990,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1163,20 +1009,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1196,13 +1028,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1222,20 +1047,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1255,13 +1066,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1281,20 +1085,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1362,13 +1152,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1388,20 +1171,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1428,13 +1197,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1454,20 +1216,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1494,13 +1242,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1520,20 +1261,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1560,13 +1287,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1586,20 +1306,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1642,13 +1348,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1668,20 +1367,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1724,13 +1409,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1750,20 +1428,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1806,13 +1470,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1832,20 +1489,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1872,13 +1515,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1898,20 +1534,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1938,13 +1560,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1964,20 +1579,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2004,13 +1605,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2030,20 +1624,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2070,13 +1650,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2096,20 +1669,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2136,13 +1695,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2162,20 +1714,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2202,13 +1740,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2228,20 +1759,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2284,13 +1801,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2310,20 +1820,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2350,13 +1846,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2376,20 +1865,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2416,13 +1891,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2442,20 +1910,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2482,13 +1936,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2508,20 +1955,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2564,13 +1997,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2590,20 +2016,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2630,13 +2042,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2656,20 +2061,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2696,13 +2087,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2722,20 +2106,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2762,13 +2132,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2788,20 +2151,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2828,13 +2177,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2854,20 +2196,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2894,13 +2222,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2920,20 +2241,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2976,13 +2283,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3002,20 +2302,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3042,13 +2328,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3068,20 +2347,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3124,13 +2389,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3150,20 +2408,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3190,13 +2434,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3216,20 +2453,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3256,13 +2479,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3282,20 +2498,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3370,13 +2572,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3396,20 +2591,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3471,13 +2652,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3497,20 +2671,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3537,13 +2697,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3563,20 +2716,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3645,13 +2784,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3671,20 +2803,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3753,13 +2871,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3779,20 +2890,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3861,13 +2958,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3887,20 +2977,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3927,13 +3003,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3953,20 +3022,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4035,13 +3090,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -4061,20 +3109,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4143,13 +3177,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4162,20 +3189,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4244,13 +3257,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4263,20 +3269,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4366,13 +3358,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4385,20 +3370,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4488,13 +3459,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4507,20 +3471,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4610,13 +3560,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4629,20 +3572,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4669,13 +3598,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4688,20 +3610,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4777,13 +3685,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4796,20 +3697,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4885,13 +3772,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4904,20 +3784,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -4993,13 +3859,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5012,20 +3871,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5101,13 +3946,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5120,20 +3958,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5209,13 +4033,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5228,20 +4045,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5268,13 +4071,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5287,20 +4083,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5376,13 +4158,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5395,20 +4170,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5498,13 +4259,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5517,20 +4271,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5620,13 +4360,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5639,20 +4372,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5679,13 +4398,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5698,20 +4410,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5801,13 +4499,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5820,20 +4511,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -5909,13 +4586,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -5928,20 +4598,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6010,13 +4666,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6029,20 +4678,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6069,13 +4704,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6088,20 +4716,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6170,13 +4784,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6189,20 +4796,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6278,13 +4871,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6297,20 +4883,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6386,13 +4958,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6405,20 +4970,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6494,13 +5045,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6513,20 +5057,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6553,13 +5083,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6572,20 +5095,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6654,13 +5163,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6673,20 +5175,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6755,13 +5243,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6774,20 +5255,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6856,13 +5323,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6875,20 +5335,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -6957,13 +5403,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -6976,20 +5415,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7058,13 +5483,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7077,20 +5495,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7159,13 +5563,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7178,20 +5575,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7218,13 +5601,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7237,20 +5613,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7326,13 +5688,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7345,20 +5700,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7385,13 +5726,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7404,20 +5738,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7476,13 +5796,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7495,20 +5808,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7584,13 +5883,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7603,20 +5895,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7692,13 +5970,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7711,20 +5982,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7793,13 +6050,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7812,20 +6062,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -7926,13 +6162,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -7945,20 +6174,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8027,13 +6242,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -8046,20 +6254,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8128,32 +6322,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8231,32 +6404,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8318,32 +6470,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8405,32 +6536,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8492,32 +6602,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -8595,32 +6684,11 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果3",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
