@@ -136,7 +136,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "重擊可以在共鳴解放動畫期間預按。"
         },
         {
             "resonator_name": "維里奈",
@@ -909,7 +909,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "第三次Q，跳到最頂點之後，落下一點點切人，時機點太早的話，第三段Q可能會沒打出來。"
         },
         {
             "resonator_name": "維里奈",
@@ -1111,7 +1111,7 @@
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "200",
             "real_dmg_crit": "",
-            "action": "普攻",
+            "action": "空中攻擊",
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "buffs": [
@@ -1177,7 +1177,7 @@
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "69",
             "real_dmg_crit": "",
-            "action": "普攻",
+            "action": "空中攻擊",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
             "buffs": [

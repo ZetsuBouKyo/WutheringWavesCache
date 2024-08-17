@@ -277,7 +277,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
         },
         {
             "resonator_name": "維里奈",
@@ -1626,7 +1626,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
         },
         {
             "resonator_name": "折枝",
