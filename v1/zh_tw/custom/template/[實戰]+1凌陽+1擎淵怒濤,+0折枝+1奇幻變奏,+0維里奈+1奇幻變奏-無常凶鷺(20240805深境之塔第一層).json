@@ -8945,8 +8945,8 @@
         },
         {
             "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "9079",
+            "real_dmg_no_crit": "9079",
+            "real_dmg_crit": "",
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-3",
             "skill_bonus_type": "",
