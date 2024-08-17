@@ -242,6 +242,22 @@
             "comment": ""
         },
         {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第五段傷害",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
             "resonator_name": "散華",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3646",
@@ -405,7 +421,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
         },
         {
             "resonator_name": "維里奈",
@@ -880,6 +896,22 @@
             "comment": ""
         },
         {
+            "resonator_name": "凌陽",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "64",
@@ -994,10 +1026,26 @@
             "comment": ""
         },
         {
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中入場",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "這邊第二輪之後不需要，很容易讓散華太早滿協奏。"
+        },
+        {
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "212",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "空中入場",
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "buffs": [
@@ -1063,7 +1111,7 @@
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "200",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "普攻",
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "buffs": [
@@ -1129,7 +1177,7 @@
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "69",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "普攻",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
             "buffs": [
@@ -1322,12 +1370,28 @@
             "cumulative_time": "",
             "frame": "",
             "comment": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
         },
         {
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "18618",
-            "action": "聲骸",
+            "action": "",
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "buffs": [
@@ -1407,7 +1471,7 @@
             "resonator_name": "散華",
             "real_dmg_no_crit": "640",
             "real_dmg_crit": "",
-            "action": "空中入場",
+            "action": "",
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "buffs": [
@@ -1461,22 +1525,6 @@
                     "duration": "30"
                 }
             ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": "這邊第二輪之後不需要，很容易讓散華太早滿協奏。"
-        },
-        {
-            "resonator_name": "維里奈",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "延奏",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1645,7 +1693,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "普攻可以改成在變奏入場時預重擊，或是共鳴技能沒在CD也可以放共鳴技能(這邊操作快一點共鳴技能可能在CD)。"
         },
         {
             "resonator_name": "散華",
@@ -7209,7 +7257,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "循環上面第一次散華入場E、R、重擊。"
         },
         {
             "resonator_name": "凌陽",
