@@ -54,7 +54,7 @@
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
             "buffs": [],
@@ -80,7 +80,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏，這邊打完普攻再E或是最速按都可以。"
         },
         {
             "resonator_name": "折枝",

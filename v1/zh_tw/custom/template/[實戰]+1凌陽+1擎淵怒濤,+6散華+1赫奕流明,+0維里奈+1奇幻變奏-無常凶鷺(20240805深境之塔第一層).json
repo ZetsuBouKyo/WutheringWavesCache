@@ -1,10 +1,10 @@
 {
-    "id": "[實戰]+1凌陽+1擎淵怒濤,+6散華+1遠行者迅刀·旅跡,+0維里奈+1奇幻變奏-無常凶鷺(20240805深境之塔第一層)",
+    "id": "[實戰]+1凌陽+1擎淵怒濤,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-無常凶鷺(20240805深境之塔第一層)",
     "test_resonator_id_1": "1鏈 89凌陽 1振 90擎淵怒濤 I7l6TTphpf8",
     "test_resonator_id_2": "6鏈 60散華 1振 1遠行者迅刀·旅跡 I7l6TTphpf8",
     "test_resonator_id_3": "0鏈 69維里奈 1振 70奇幻變奏 I7l6TTphpf8",
     "monster_id": "無常凶鷺(20240805深境之塔第一層)",
-    "description": "角色全屬性傷害加成提升30%\n\n角色每受到治療時，隊伍中的角色暴擊率提升10%，暴擊傷害提升30%，持續28秒。\n\nhttps://youtu.be/I7l6TTphpf8",
+    "description": "角色全屬性傷害加成提升30%\n\n角色每受到治療時，隊伍中的角色暴擊率提升10%，暴擊傷害提升30%，持續28秒。\n\nhttps://youtu.be/2ZF4LDJ8n0I",
     "resonators": [
         {
             "resonator_name": "凌陽",
@@ -23,7 +23,7 @@
         {
             "resonator_name": "散華",
             "resonator_chain": "6",
-            "resonator_weapon_name": "遠行者迅刀·旅跡",
+            "resonator_weapon_name": "赫奕流明",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
