@@ -3,6 +3,8 @@
     "test_resonator_id_1": "理論1 0鏈 90凌陽 1振 90金掌 暴傷頭-2屬",
     "test_resonator_id_2": "理論1 6鏈 90散華 1振 90赫奕流明 暴擊頭-2屬",
     "test_resonator_id_3": "0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
+    "duration_1": "24",
+    "duration_2": "30",
     "monster_id": "無常凶鷺(20240805深境之塔第一層)",
     "description": "https://youtu.be/2ZF4LDJ8n0I",
     "resonators": [
@@ -5541,7 +5543,7 @@
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:23:50",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",

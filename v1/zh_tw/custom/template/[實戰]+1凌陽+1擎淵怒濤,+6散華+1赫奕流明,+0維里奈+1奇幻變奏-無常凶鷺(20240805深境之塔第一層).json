@@ -3,8 +3,10 @@
     "test_resonator_id_1": "1鏈 89凌陽 1振 90擎淵怒濤 2ZF4LDJ8n0I",
     "test_resonator_id_2": "6鏈 60散華 1振 90赫奕流明 2ZF4LDJ8n0I",
     "test_resonator_id_3": "0鏈 69維里奈 1振 70奇幻變奏 2ZF4LDJ8n0I",
+    "duration_1": "24",
+    "duration_2": "30",
     "monster_id": "無常凶鷺(20240805深境之塔第一層)",
-    "description": "角色全屬性傷害加成提升30%\n\n角色每受到治療時，隊伍中的角色暴擊率提升10%，暴擊傷害提升30%，持續28秒。\n\nhttps://youtu.be/2ZF4LDJ8n0I",
+    "description": "角色全屬性傷害加成提升30%\n\n角色每受到治療時，隊伍中的角色暴擊率提升10%，暴擊傷害提升30%，持續28秒。\n\n04:36:50 04:09:87 03:38:73 \n\nhttps://youtu.be/2ZF4LDJ8n0I",
     "resonators": [
         {
             "resonator_name": "凌陽",
@@ -7253,7 +7255,7 @@
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:23:50",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
