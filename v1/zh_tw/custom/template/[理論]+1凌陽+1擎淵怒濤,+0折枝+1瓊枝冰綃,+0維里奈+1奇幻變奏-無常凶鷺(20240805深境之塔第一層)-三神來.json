@@ -82,7 +82,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏，這邊打完普攻再E或是最速按都可以。"
+            "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏。"
         },
         {
             "resonator_name": "折枝",
@@ -162,7 +162,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "這邊主要是要打出45點靈韻。"
         },
         {
             "resonator_name": "折枝",
