@@ -4232,8 +4232,168 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "549",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:19:11",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "212",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:19:81",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
             "real_dmg_no_crit": "",
+            "real_dmg_crit": "1221",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:20:01",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:20:11",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
             "action": "",
             "skill_id": "",
@@ -4248,8 +4408,337 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "233",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "565",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "柔翰生輝-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "650",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
             "real_dmg_no_crit": "",
+            "real_dmg_crit": "1257",
+            "action": "",
+            "skill_id": "柔翰生輝-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "636",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "柔翰生輝-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "612",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:22:81",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "650",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:23:01",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
             "action": "",
             "skill_id": "",
@@ -4264,8 +4753,292 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "233",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:23:83",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "677",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "以形寫神-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "677",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "以形寫神-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "677",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "以形寫神-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "696",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:24:13",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "207",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:24:98",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "維里奈",
+            "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
             "action": "",
             "skill_id": "",
@@ -4280,13 +5053,42 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "873",
             "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
+            "action": "普攻",
+            "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4296,13 +5098,42 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "resonator_name": "折枝",
             "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
+            "real_dmg_crit": "1944",
             "action": "",
-            "skill_id": "",
+            "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4312,13 +5143,146 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "resonator_name": "折枝",
             "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
+            "real_dmg_crit": "1944",
             "action": "",
-            "skill_id": "",
+            "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:25:35",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "543",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:25:78",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "3466",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "神來之筆傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "27"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4328,13 +5292,167 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "207",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:27:03",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "8372",
+            "action": "共鳴技能",
+            "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "3",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "27"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:27:49",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "3719",
+            "action": "共鳴技能",
+            "skill_id": "極意·神來之筆傷害-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "3",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4344,13 +5462,63 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "resonator_name": "折枝",
             "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
+            "real_dmg_crit": "3719",
             "action": "",
-            "skill_id": "",
+            "skill_id": "極意·神來之筆傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "3",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4360,349 +5528,63 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "1839",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "",
+            "skill_id": "極意·神來之筆傷害-1",
             "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-不在場",
+                    "type": "加成",
+                    "value": "0.52",
+                    "stack": "1",
+                    "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
