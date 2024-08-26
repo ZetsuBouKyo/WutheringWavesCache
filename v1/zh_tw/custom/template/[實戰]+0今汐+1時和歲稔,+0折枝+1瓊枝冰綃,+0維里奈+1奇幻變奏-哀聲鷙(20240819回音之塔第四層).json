@@ -60,9 +60,7 @@
     ],
     "rows": [
         {
-            "labels": [
-                "循環"
-            ],
+            "labels": [],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
