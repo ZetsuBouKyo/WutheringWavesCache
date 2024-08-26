@@ -112,7 +112,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "ER連段按太快，共鳴技能的傷害似乎會被吃掉。"
         },
         {
             "labels": [
@@ -253,7 +253,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
         },
         {
             "labels": [
@@ -291,7 +291,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "快速EQ，共鳴技能E的傷害會被吃掉。"
         },
         {
             "labels": [
@@ -325,7 +325,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "放完聲骸切太快，可能會沒上到BUFF。"
         },
         {
             "labels": [],
@@ -4587,7 +4587,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
         },
         {
             "labels": [
@@ -9770,7 +9770,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "接上面第一次進場E、R，開始循環。"
         }
     ]
 }
