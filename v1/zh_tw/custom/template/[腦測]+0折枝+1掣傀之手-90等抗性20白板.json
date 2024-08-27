@@ -1,8 +1,17 @@
 {
     "id": "[腦測]+0折枝+1掣傀之手-90等抗性20白板",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
     "test_resonator_id_1": "理論1 0鏈 90折枝 1振 90掣傀之手 暴傷頭-2屬",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
+    "duration_1": "",
+    "duration_2": "",
     "monster_id": "90等抗性20白板",
     "description": "",
     "resonators": [
@@ -51,6 +60,7 @@
     ],
     "rows": [
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -75,6 +85,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -99,6 +110,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -123,6 +135,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -139,6 +152,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -170,6 +184,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -201,6 +216,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -232,6 +248,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -248,6 +265,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -293,6 +311,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -338,10 +357,11 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "重擊",
+            "action": "普攻",
             "skill_id": "重擊·構形傷害",
             "skill_bonus_type": "",
             "buffs": [
@@ -383,6 +403,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -428,6 +449,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -480,6 +502,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -496,6 +519,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -548,6 +572,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -586,6 +611,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -602,6 +628,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -618,6 +645,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -634,6 +662,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -650,6 +679,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -666,6 +696,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -682,6 +713,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -698,6 +730,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -714,6 +747,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -730,6 +764,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -746,6 +781,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -762,6 +798,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -778,6 +815,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -794,6 +832,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -810,6 +849,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -826,6 +866,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -842,6 +883,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -858,6 +900,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -874,6 +917,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -890,6 +934,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -906,6 +951,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -922,6 +968,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -938,6 +985,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -954,6 +1002,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
