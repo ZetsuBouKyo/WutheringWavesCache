@@ -7,12 +7,12 @@
             "duration_2": "29"
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90今汐 5振 90時和歲稔 暴傷頭-1屬1攻",
+    "test_resonator_id_1": "理論1 0鏈 90今汐 1振 90時和歲稔 暴傷頭-1屬1攻",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
     "duration_1": "32",
     "duration_2": "38",
-    "monster_id": "100等抗性20白板",
+    "monster_id": "90等抗性20白板",
     "description": "2024/08/19期\n\n2024/08/24 17:32\n\n角色導電傷害加成提升30%\n\n角色施放變奏技能時，全隊攻擊提升8%，持續15秒，最多疊加5層，重複觸發刷新持續時間\n\nE噴動畫起始 00:11:63 00:36:18 01:04:23 01:26:66 01:53:04\n扣掉\n折枝、今汐暖機秒數 00:12:75 - 00:03:62 = 00:09:13\n維里奈閃避 04:42:43 - 04:39:86 = 00:02:57\n暖機軸秒數 00:37:36 - 00:02:57 = 00:34:79\n循環軸秒數 00:37:36 - 00:09:13 - 00:02:57 = 00:25:66\n實戰循環 00:28:05 00:22:43 00:26:38\n循環 22 ~ 29 秒\n\nhttps://youtu.be/VJDOoNFNEqM",
     "resonators": [
         {
@@ -77,7 +77,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -94,7 +96,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -111,7 +115,9 @@
             "comment": "ER連段按太快，共鳴技能的傷害似乎會被吃掉。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -128,7 +134,9 @@
             "comment": "若是共鳴解放在CD，可以在之後的兩次入場補R。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "19",
             "real_dmg_crit": "",
@@ -145,7 +153,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "19",
             "real_dmg_crit": "",
@@ -162,7 +172,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "49",
             "real_dmg_crit": "",
@@ -179,7 +191,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "463",
             "real_dmg_crit": "1031",
@@ -196,7 +210,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -213,7 +229,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -238,7 +256,9 @@
             "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "+948",
             "real_dmg_crit": "",
@@ -255,7 +275,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -272,7 +294,9 @@
             "comment": "快速EQ，共鳴技能E的傷害會被吃掉。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "502",
             "real_dmg_crit": "",
@@ -3445,7 +3469,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1128",
@@ -3491,7 +3517,9 @@
             "comment": "這邊暖機時是變奏入場，循環時是一般入場。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1128",
@@ -3537,7 +3565,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "507",
             "real_dmg_crit": "",
@@ -3583,7 +3613,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "582",
             "real_dmg_crit": "",
@@ -3629,7 +3661,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3675,7 +3709,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
@@ -3735,7 +3771,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3752,7 +3790,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "+1209",
             "real_dmg_crit": "",
@@ -3769,7 +3809,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "81",
             "real_dmg_crit": "",
@@ -3815,7 +3857,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
@@ -3875,7 +3919,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "55",
             "real_dmg_crit": "",
@@ -3921,7 +3967,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1294",
@@ -3967,7 +4015,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "26",
             "real_dmg_crit": "",
@@ -4013,7 +4063,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "26",
             "real_dmg_crit": "",
@@ -4059,7 +4111,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "26",
             "real_dmg_crit": "",
@@ -4105,7 +4159,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "582",
@@ -4165,7 +4221,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1294",
@@ -4211,7 +4269,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "222",
             "real_dmg_crit": "",
@@ -4271,7 +4331,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1294",
@@ -4317,7 +4379,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "212",
             "real_dmg_crit": "",
@@ -4370,7 +4434,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "549",
             "real_dmg_crit": "",
@@ -4409,7 +4475,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "212",
             "real_dmg_crit": "",
@@ -4462,7 +4530,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1221",
@@ -4501,7 +4571,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4518,7 +4590,9 @@
             "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4535,7 +4609,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
@@ -4552,7 +4628,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "233",
             "real_dmg_crit": "",
@@ -4605,7 +4683,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "565",
             "real_dmg_crit": "",
@@ -4651,7 +4731,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "650",
             "real_dmg_crit": "",
@@ -4697,7 +4779,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1257",
@@ -4743,7 +4827,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "636",
             "real_dmg_crit": "",
@@ -4789,7 +4875,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "612",
@@ -4842,7 +4930,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "650",
             "real_dmg_crit": "",
@@ -4888,7 +4978,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
@@ -4905,7 +4997,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "233",
             "real_dmg_crit": "",
@@ -4958,7 +5052,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "677",
             "real_dmg_crit": "",
@@ -5004,7 +5100,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "677",
             "real_dmg_crit": "",
@@ -5050,7 +5148,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "677",
             "real_dmg_crit": "",
@@ -5096,7 +5196,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "696",
             "real_dmg_crit": "",
@@ -5149,7 +5251,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "207",
             "real_dmg_crit": "",
@@ -5195,7 +5299,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "+223",
             "real_dmg_crit": "",
@@ -5212,7 +5318,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "873",
             "real_dmg_crit": "",
@@ -5258,7 +5366,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1944",
@@ -5304,7 +5414,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1944",
@@ -5350,7 +5462,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "543",
@@ -5396,7 +5510,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "3466",
             "real_dmg_crit": "",
@@ -5456,7 +5572,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "207",
             "real_dmg_crit": "",
@@ -5502,7 +5620,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "8372",
@@ -5562,7 +5682,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3719",
@@ -5629,7 +5751,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "3719",
@@ -5696,7 +5820,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5713,7 +5839,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "1839",
             "real_dmg_crit": "",
@@ -5780,7 +5908,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "1885",
             "real_dmg_crit": "",
@@ -5847,7 +5977,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5864,7 +5996,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "308",
             "real_dmg_crit": "",
@@ -5931,7 +6065,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5998,7 +6134,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6065,7 +6203,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "1075",
             "real_dmg_crit": "",
@@ -6082,7 +6222,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6099,7 +6241,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2071",
@@ -6194,7 +6338,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "196",
             "real_dmg_crit": "",
@@ -6289,7 +6435,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "514",
@@ -6384,7 +6532,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "514",
@@ -6479,7 +6629,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "514",
@@ -6574,7 +6726,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1541",
@@ -6669,7 +6823,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1541",
@@ -6764,7 +6920,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1541",
@@ -6859,7 +7017,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1541",
@@ -6954,7 +7114,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "2054",
@@ -7049,7 +7211,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "315",
             "real_dmg_crit": "",
@@ -7116,7 +7280,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "315",
             "real_dmg_crit": "",
@@ -7183,7 +7349,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "829",
@@ -7250,7 +7418,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "829",
@@ -7317,7 +7487,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -7334,7 +7506,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "7168",
@@ -7429,7 +7603,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "788",
             "real_dmg_crit": "",
@@ -7496,7 +7672,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "2044",
             "real_dmg_crit": "",
@@ -7591,7 +7769,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "5376",
@@ -7686,7 +7866,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "17919",
@@ -7781,7 +7963,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "2397",
             "real_dmg_crit": "",
@@ -7876,7 +8060,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "2109",
             "real_dmg_crit": "",
@@ -7971,7 +8157,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "703",
             "real_dmg_crit": "",
@@ -8066,7 +8254,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1849",
@@ -8161,7 +8351,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1139",
@@ -8256,7 +8448,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "7074",
@@ -8351,7 +8545,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "4717",
@@ -8446,7 +8642,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1139",
@@ -8541,7 +8739,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "505",
             "real_dmg_crit": "",
@@ -8636,7 +8836,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1329",
@@ -8731,7 +8933,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -8748,7 +8952,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1415",
@@ -8843,7 +9049,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "538",
             "real_dmg_crit": "",
@@ -8938,7 +9146,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "538",
             "real_dmg_crit": "",
@@ -9033,7 +9243,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "538",
             "real_dmg_crit": "",
@@ -9128,7 +9340,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "538",
             "real_dmg_crit": "",
@@ -9223,7 +9437,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "1415",
@@ -9318,7 +9534,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "183167",
@@ -9413,7 +9631,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -9515,7 +9735,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "今汐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -9532,7 +9754,9 @@
             "comment": ""
         },
         {
-            "labels": ["循環"],
+            "labels": [
+                "循環"
+            ],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
