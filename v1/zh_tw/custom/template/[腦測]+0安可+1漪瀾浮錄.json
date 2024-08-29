@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0安可+1掣傀之手-90等抗性20白板",
+    "id": "[腦測]+0安可+1漪瀾浮錄",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90安可 1振 90掣傀之手 暴傷頭-2屬",
+    "test_resonator_id_1": "理論1 0鏈 90安可 1振 90漪瀾浮錄 暴擊頭-2屬",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -18,7 +18,7 @@
         {
             "resonator_name": "安可",
             "resonator_chain": "0",
-            "resonator_weapon_name": "掣傀之手",
+            "resonator_weapon_name": "漪瀾浮錄",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -88,13 +88,6 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -134,20 +127,6 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -197,6 +176,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -468,6 +454,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -514,6 +507,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -560,6 +560,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -606,6 +613,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -652,13 +666,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -714,11 +721,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -774,11 +781,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -834,11 +841,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -894,11 +901,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -969,6 +976,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1022,6 +1036,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1075,6 +1096,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1128,6 +1156,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻]漪瀾浮錄-1諧振",
+                    "type": "加成",
+                    "value": "0.032",
+                    "stack": "5",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",

@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0忌炎+1蒼鱗千嶂-90等抗性20白板-五段12121+2E",
+    "id": "[腦測]+0忌炎+1蒼鱗千嶂-七段",
     "labels": [
         {
             "name": "",
@@ -346,8 +346,8 @@
             "resonator_name": "忌炎",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "槍掃風定",
+            "action": "普攻",
+            "skill_id": "破陣之槍第一段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
@@ -379,11 +379,138 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]忌炎-共鳴回路-破陣",
+                    "name": "[重擊-自己]飛廉之猩",
                     "type": "加成",
-                    "value": "0.2",
+                    "value": "0.12",
                     "stack": "1",
-                    "duration": ""
+                    "duration": "15"
+                },
+                {
+                    "name": "[重擊]蒼鱗千嶂-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "2",
+                    "duration": "14"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "忌炎",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "破陣之槍第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]忌炎-固有技能2-蘊風集流",
+                    "type": "暴擊傷害",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[氣動-自己]飛廉之猩",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]忌炎-固有技能1-垂天平瀾",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[重擊-自己]飛廉之猩",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[重擊]蒼鱗千嶂-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "2",
+                    "duration": "14"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "忌炎",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "破陣之槍第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]忌炎-固有技能2-蘊風集流",
+                    "type": "暴擊傷害",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[氣動-自己]飛廉之猩",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]忌炎-固有技能1-垂天平瀾",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[重擊-自己]飛廉之猩",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[重擊]蒼鱗千嶂-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "2",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -519,25 +646,8 @@
             "resonator_name": "忌炎",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "閃避",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "忌炎",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "破陣之槍第一段傷害",
+            "skill_id": "破陣之槍第三段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
@@ -581,119 +691,6 @@
                     "value": "0.24",
                     "stack": "2",
                     "duration": "14"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "忌炎",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "破陣之槍第二段傷害",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[暴擊傷害-自己]忌炎-固有技能2-蘊風集流",
-                    "type": "暴擊傷害",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
-                    "name": "[氣動-自己]飛廉之猩",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[氣動-自己]嘯谷長風-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-自己]忌炎-固有技能1-垂天平瀾",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[重擊-自己]飛廉之猩",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[重擊]蒼鱗千嶂-1諧振",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "2",
-                    "duration": "14"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "忌炎",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "槍掃風定",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[暴擊傷害-自己]忌炎-固有技能2-蘊風集流",
-                    "type": "暴擊傷害",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
-                    "name": "[氣動-自己]飛廉之猩",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[氣動-自己]嘯谷長風-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-自己]忌炎-固有技能1-垂天平瀾",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-自己]忌炎-共鳴回路-破陣",
-                    "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",

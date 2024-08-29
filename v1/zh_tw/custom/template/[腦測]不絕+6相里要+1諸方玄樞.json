@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]徹空+4相里要+1諸方玄樞-90等抗性20白板",
+    "id": "[腦測]不絕+6相里要+1諸方玄樞",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 徹空-暴傷頭-1屬1攻",
+    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 不絕-暴傷頭-1屬1攻",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -17,17 +17,17 @@
     "resonators": [
         {
             "resonator_name": "相里要",
-            "resonator_chain": "4",
+            "resonator_chain": "6",
             "resonator_weapon_name": "諸方玄樞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_echo_1": "雲閃之鱗",
-            "resonator_echo_sonata_1": "徹空冥雷",
-            "resonator_echo_sonata_2": "徹空冥雷",
-            "resonator_echo_sonata_3": "徹空冥雷",
-            "resonator_echo_sonata_4": "徹空冥雷",
-            "resonator_echo_sonata_5": "徹空冥雷"
+            "resonator_echo_1": "聚械機偶",
+            "resonator_echo_sonata_1": "不絕餘音",
+            "resonator_echo_sonata_2": "不絕餘音",
+            "resonator_echo_sonata_3": "不絕餘音",
+            "resonator_echo_sonata_4": "不絕餘音",
+            "resonator_echo_sonata_5": "不絕餘音"
         },
         {
             "resonator_name": "",
@@ -69,13 +69,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -107,13 +100,6 @@
             "skill_id": "基本推演",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
@@ -160,22 +146,29 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-1",
+            "skill_id": "五星 聚械機偶-1",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
-                    "stack": "2",
+                    "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -198,23 +191,30 @@
             "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-1",
+            "action": "",
+            "skill_id": "五星 聚械機偶-2",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
-                    "stack": "2",
+                    "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -237,23 +237,30 @@
             "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-1",
+            "action": "",
+            "skill_id": "五星 聚械機偶-3",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
-                    "stack": "2",
+                    "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -261,120 +268,6 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "8"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-1",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]相里要-固有技能1-睿知",
-                    "type": "加成",
-                    "value": "0.05",
-                    "stack": "2",
-                    "duration": "8"
-                },
-                {
-                    "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
-                    "type": "暴擊傷害",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "8"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-1",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-2",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 雲閃之鱗-3",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -412,18 +305,32 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 },
                 {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -444,25 +351,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.15",
+                    "value": "0.05",
                     "stack": "2",
-                    "duration": "15"
+                    "duration": "8"
                 },
                 {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 },
                 {
-                    "name": "[導電-自己]相里要-固有技能1-睿知",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.05",
                     "stack": "1",
-                    "duration": "8"
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -486,35 +393,14 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "思維矩陣傷害",
+            "skill_id": "群星的止境",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
-                    "stack": "1",
+                    "stack": "2",
                     "duration": "8"
                 },
                 {
@@ -523,6 +409,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -550,25 +450,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.15",
+                    "value": "0.05",
                     "stack": "2",
-                    "duration": "15"
+                    "duration": "8"
                 },
                 {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 },
                 {
-                    "name": "[導電-自己]相里要-固有技能1-睿知",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.05",
-                    "stack": "1",
-                    "duration": "8"
+                    "stack": "2",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -596,25 +496,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.15",
+                    "value": "0.05",
                     "stack": "2",
-                    "duration": "15"
+                    "duration": "8"
                 },
                 {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 },
                 {
-                    "name": "[導電-自己]相里要-固有技能1-睿知",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.05",
-                    "stack": "1",
-                    "duration": "8"
+                    "stack": "3",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -642,25 +542,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.15",
+                    "value": "0.05",
                     "stack": "2",
-                    "duration": "15"
+                    "duration": "8"
                 },
                 {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 },
                 {
-                    "name": "[導電-自己]相里要-固有技能1-睿知",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.05",
-                    "stack": "1",
-                    "duration": "8"
+                    "stack": "3",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -684,30 +584,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "萬方法則傷害",
+            "skill_id": "坊市的煙火",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
@@ -721,6 +600,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -762,27 +655,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -795,6 +667,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "衍構模體",
@@ -836,25 +722,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -882,25 +768,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -928,25 +814,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -970,30 +856,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "萬方法則傷害",
+            "skill_id": "坊市的煙火",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
@@ -1007,6 +872,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -1048,27 +927,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -1081,6 +939,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "衍構模體",
@@ -1122,25 +994,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -1168,25 +1040,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -1214,25 +1086,25 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -1256,30 +1128,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "萬方法則傷害",
+            "skill_id": "坊市的煙火",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
@@ -1293,6 +1144,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
@@ -1334,27 +1199,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴解放-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -1367,6 +1211,20 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 },
                 {
                     "name": "衍構模體",
@@ -1408,20 +1266,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]雲閃之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -1429,11 +1273,39 @@
                     "duration": "8"
                 },
                 {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[延奏-自己]不絕餘音-5/5",
+                    "type": "加成",
+                    "value": "0.6",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
                     "name": "[暴擊傷害-自己]相里要-共鳴鏈2-前人的行跡",
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[招式倍率-自己]相里要-共鳴鏈5-群星的止境",
+                    "type": "招式倍率",
+                    "value": "2.22",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",

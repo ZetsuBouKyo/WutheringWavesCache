@@ -1,10 +1,8 @@
 {
-    "id": "[理論]+1凌陽+1擎淵怒濤,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-無常凶鷺(20240805深境之塔第一層)-三神來",
+    "id": "[理論]+1凌陽+1擎淵怒濤,+0維里奈+1奇幻變奏-6Ja6hcw9JUc",
     "test_resonator_id_1": "理論1 0鏈 90凌陽 1振 90擎淵怒濤 暴擊頭-2屬",
-    "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
-    "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
-    "duration_1": "27",
-    "duration_2": "32",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
     "monster_id": "無常凶鷺(20240805深境之塔第一層)",
     "description": "https://youtu.be/6Ja6hcw9JUc",
     "resonators": [
@@ -23,18 +21,18 @@
             "resonator_echo_sonata_5": "凝夜白霜"
         },
         {
-            "resonator_name": "折枝",
-            "resonator_chain": "0",
-            "resonator_weapon_name": "瓊枝冰綃",
-            "resonator_weapon_rank": "1",
-            "resonator_inherent_skill_1": true,
-            "resonator_inherent_skill_2": true,
-            "resonator_echo_1": "無常凶鷺",
-            "resonator_echo_sonata_1": "輕雲出月",
-            "resonator_echo_sonata_2": "輕雲出月",
-            "resonator_echo_sonata_3": "輕雲出月",
-            "resonator_echo_sonata_4": "輕雲出月",
-            "resonator_echo_sonata_5": "輕雲出月"
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": ""
         },
         {
             "resonator_name": "維里奈",
@@ -82,7 +80,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏。"
+            "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏，這邊打完普攻再E或是最速按都可以。"
         },
         {
             "resonator_name": "折枝",
@@ -162,7 +160,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "這邊主要是要打出45點靈韻。"
+            "comment": ""
         },
         {
             "resonator_name": "折枝",
@@ -266,7 +264,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
+            "comment": ""
         },
         {
             "resonator_name": "維里奈",
@@ -708,7 +706,7 @@
             "time_end": "00:06:90",
             "cumulative_time": "",
             "frame": "",
-            "comment": "第三次Q，跳到最頂點之後，落下一點點切人，時機點太早的話，第三段Q可能會沒打出來。"
+            "comment": ""
         },
         {
             "resonator_name": "折枝",
@@ -1174,7 +1172,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
+            "comment": ""
         },
         {
             "resonator_name": "折枝",
@@ -1696,13 +1694,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1899,13 +1890,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1963,7 +1947,7 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-在場",
                     "type": "加成",
                     "value": "0.12",
-                    "stack": "2",
+                    "stack": "1",
                     "duration": "6"
                 }
             ],
@@ -2022,7 +2006,7 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-在場",
                     "type": "加成",
                     "value": "0.12",
-                    "stack": "2",
+                    "stack": "1",
                     "duration": "6"
                 }
             ],
@@ -2081,7 +2065,7 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-在場",
                     "type": "加成",
                     "value": "0.12",
-                    "stack": "3",
+                    "stack": "2",
                     "duration": "6"
                 }
             ],
@@ -2142,13 +2126,6 @@
                     "value": "0.12",
                     "stack": "3",
                     "duration": "6"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2224,13 +2201,6 @@
                     "value": "0.12",
                     "stack": "3",
                     "duration": "6"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2498,25 +2468,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "0"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2574,13 +2530,6 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-不在場",
                     "type": "加成",
                     "value": "0.52",
-                    "stack": "1",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
                     "stack": "1",
                     "duration": "27"
                 }
@@ -2644,32 +2593,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "0"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2731,30 +2659,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 }
@@ -2818,30 +2725,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 }
@@ -2901,13 +2787,6 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-不在場",
                     "type": "加成",
                     "value": "0.52",
-                    "stack": "1",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
                     "stack": "1",
                     "duration": "27"
                 }
@@ -2971,30 +2850,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 }
@@ -3058,30 +2916,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 }
@@ -3138,30 +2975,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 }
@@ -3218,37 +3034,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3319,37 +3107,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3420,37 +3180,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3519,13 +3251,6 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3580,30 +3305,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3667,30 +3371,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3754,30 +3437,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3841,30 +3503,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -3928,30 +3569,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4013,13 +3633,6 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4074,30 +3687,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4161,37 +3753,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4262,37 +3826,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4361,13 +3897,6 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4422,37 +3951,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4523,30 +4024,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4603,30 +4083,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4688,13 +4147,6 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4742,30 +4194,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4822,37 +4253,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4909,37 +4312,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -4996,37 +4371,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5086,13 +4433,6 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-不在場",
                     "type": "加成",
                     "value": "0.52",
-                    "stack": "1",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
                     "stack": "1",
                     "duration": "27"
                 }
@@ -5142,30 +4482,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5222,30 +4541,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5302,30 +4600,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5382,30 +4659,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5462,30 +4718,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5542,30 +4777,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5627,13 +4841,6 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5681,37 +4888,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -5771,13 +4950,6 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-不在場",
                     "type": "加成",
                     "value": "0.52",
-                    "stack": "1",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
                     "stack": "1",
                     "duration": "27"
                 }
@@ -5830,13 +5002,6 @@
                     "name": "[普攻]瓊枝冰綃-1諧振-不在場",
                     "type": "加成",
                     "value": "0.52",
-                    "stack": "1",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
                     "stack": "1",
                     "duration": "27"
                 }
@@ -5918,37 +5083,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -6005,37 +5142,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.25",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -6092,30 +5201,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -6172,30 +5260,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -6245,7 +5312,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "接上面第一次進場E、R，開始循環。"
+            "comment": ""
         },
         {
             "resonator_name": "凌陽",
@@ -6284,30 +5351,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
                     "stack": "1",
                     "duration": "14"
                 },
@@ -6364,31 +5410,10 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "0",
                     "duration": "14"
                 },
                 {
@@ -6437,25 +5462,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[普攻]擎淵怒濤-1諧振",
@@ -6519,31 +5530,10 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "0",
                     "duration": "14"
                 }
             ],
@@ -6585,25 +5575,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[普攻]擎淵怒濤-1諧振",
@@ -6651,25 +5627,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[普攻]擎淵怒濤-1諧振",
@@ -6717,25 +5679,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[普攻]擎淵怒濤-1諧振",
@@ -6799,25 +5747,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
                     "type": "加成",
                     "value": "0.5",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[普攻]擎淵怒濤-1諧振",

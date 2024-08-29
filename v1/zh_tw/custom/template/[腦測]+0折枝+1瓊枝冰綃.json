@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0折枝+1掣傀之手-90等抗性20白板",
+    "id": "[腦測]+0折枝+1瓊枝冰綃",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90折枝 1振 90掣傀之手 暴傷頭-2屬",
+    "test_resonator_id_1": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -18,7 +18,7 @@
         {
             "resonator_name": "折枝",
             "resonator_chain": "0",
-            "resonator_weapon_name": "掣傀之手",
+            "resonator_weapon_name": "瓊枝冰綃",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -293,13 +293,6 @@
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -341,11 +334,11 @@
                     "duration": "27"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
                     "value": "0.12",
                     "stack": "2",
-                    "duration": "5"
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -385,13 +378,6 @@
                     "value": "0.06",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "2",
-                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -433,11 +419,11 @@
                     "duration": "27"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
                     "value": "0.12",
-                    "stack": "2",
-                    "duration": "5"
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -486,11 +472,11 @@
                     "duration": "27"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
                     "value": "0.12",
-                    "stack": "2",
-                    "duration": "5"
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -531,7 +517,7 @@
                     "name": "墨鶴",
                     "type": "倍率",
                     "value": "1",
-                    "stack": "5",
+                    "stack": "20",
                     "duration": ""
                 },
                 {
@@ -549,18 +535,11 @@
                     "duration": "27"
                 },
                 {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
-                    "stack": "2",
-                    "duration": "5"
-                },
-                {
-                    "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
-                    "type": "攻擊百分比",
-                    "value": "0.12",
+                    "name": "[普攻]瓊枝冰綃-1諧振-不在場",
+                    "type": "加成",
+                    "value": "0.52",
                     "stack": "1",
-                    "duration": ""
+                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -573,35 +552,13 @@
         },
         {
             "labels": [],
-            "resonator_name": "折枝",
+            "resonator_name": "",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴解放",
-            "skill_id": "墨鶴傷害",
+            "action": "",
+            "skill_id": "",
             "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "墨鶴",
-                    "type": "倍率",
-                    "value": "1",
-                    "stack": "15",
-                    "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
-                    "type": "攻擊百分比",
-                    "value": "0.06",
-                    "stack": "3",
-                    "duration": "27"
-                },
-                {
-                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
-                    "type": "加成",
-                    "value": "0.18",
-                    "stack": "1",
-                    "duration": "27"
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",

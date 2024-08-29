@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0凌陽+1諸方玄樞-90等抗性20白板",
+    "id": "[腦測]徹空+0相里要+1諸方玄樞-算Q傷,不算Q增益",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90凌陽 1振 90諸方玄樞 暴傷頭-2屬",
+    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 徹空-暴傷頭-1屬1攻",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -16,18 +16,18 @@
     "description": "",
     "resonators": [
         {
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "resonator_chain": "0",
             "resonator_weapon_name": "諸方玄樞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_echo_1": "輝螢軍勢",
-            "resonator_echo_sonata_1": "凝夜白霜",
-            "resonator_echo_sonata_2": "凝夜白霜",
-            "resonator_echo_sonata_3": "凝夜白霜",
-            "resonator_echo_sonata_4": "凝夜白霜",
-            "resonator_echo_sonata_5": "凝夜白霜"
+            "resonator_echo_1": "雲閃之鱗",
+            "resonator_echo_sonata_1": "徹空冥雷",
+            "resonator_echo_sonata_2": "徹空冥雷",
+            "resonator_echo_sonata_3": "徹空冥雷",
+            "resonator_echo_sonata_4": "徹空冥雷",
+            "resonator_echo_sonata_5": "徹空冥雷"
         },
         {
             "resonator_name": "",
@@ -61,19 +61,26 @@
     "rows": [
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 輝螢軍勢-1",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -86,17 +93,194 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 輝螢軍勢-2",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "無",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-1",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "2",
                     "duration": "15"
                 }
@@ -111,18 +295,43 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "聲骸",
-            "skill_id": "五星 輝螢軍勢-3",
+            "skill_id": "五星 雲閃之鱗-2",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "聲骸",
+            "skill_id": "五星 雲閃之鱗-3",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -153,25 +362,18 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "變奏",
-            "skill_id": "出洞·睡獅蟄醒-1",
+            "skill_id": "正理",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "0"
-                },
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
+                    "value": "0.15",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -185,26 +387,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "出洞·睡獅蟄醒-1",
+            "action": "共鳴技能",
+            "skill_id": "基本推演",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "0"
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -217,26 +419,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "奮進·獅子奮迅，俱足萬行",
+            "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
+                    "value": "0.15",
+                    "stack": "2",
                     "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.5",
+                    "value": "0.05",
                     "stack": "1",
-                    "duration": "14"
+                    "duration": "8"
                 },
                 {
                     "name": "[共鳴解放]諸方玄樞-1諧振",
@@ -256,72 +458,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "重擊",
-            "skill_id": "起勢·縱地金光傷害",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "狂態·搖光金獅舞第一段傷害",
+            "skill_id": "樞機·勘破第一段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
+                    "value": "0.15",
                     "stack": "2",
                     "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -334,40 +490,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "飛身式·翻山越澗傷害",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
+                    "value": "0.15",
                     "stack": "2",
                     "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -380,79 +522,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "飛身式·翻山越澗傷害-2",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
+                    "value": "0.15",
                     "stack": "2",
                     "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "狂態·搖光金獅舞第二段傷害",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.5",
+                    "value": "0.05",
                     "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -465,40 +554,33 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
+                    "value": "0.15",
+                    "stack": "2",
                     "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 },
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
                     "type": "加成",
-                    "value": "0.5",
+                    "value": "0.48",
                     "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -511,79 +593,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "飛身式·翻山越澗傷害-2",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]輝螢軍勢",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "狂態·搖光金獅舞第一段傷害",
+            "skill_id": "樞機·勘破第一段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]輝螢軍勢",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.04",
-                    "stack": "3",
+                    "value": "0.15",
+                    "stack": "2",
                     "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -596,26 +625,97 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.1",
+                    "value": "0.05",
                     "stack": "3",
-                    "duration": "15"
+                    "duration": "8"
+                },
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -628,58 +728,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "飛身式·翻山越澗傷害-2",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "狂態·搖光金獅舞第二段傷害",
+            "skill_id": "樞機·勘破第一段傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.1",
+                    "value": "0.05",
                     "stack": "3",
-                    "duration": "15"
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -692,26 +760,97 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第二段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "樞機·勘破第三段傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "飛身式·翻山越澗傷害",
+            "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
+                },
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -724,154 +863,26 @@
         },
         {
             "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "飛身式·翻山越澗傷害-2",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "凌雲式·腿打連環傷害",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "登樓·尾墜千斤傷害-1",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
+            "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "延奏",
-            "skill_id": "留痕·踏雪點星",
+            "skill_id": "鏈式",
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 },
                 {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "凌陽",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "登樓·尾墜千斤傷害-1",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
-                    "type": "加成",
-                    "value": "0.5",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凝夜白霜-5/5",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "3",
-                    "duration": "15"
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
