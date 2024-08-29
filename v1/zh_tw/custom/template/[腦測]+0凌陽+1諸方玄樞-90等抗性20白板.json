@@ -1,8 +1,17 @@
 {
     "id": "[腦測]+0凌陽+1諸方玄樞-90等抗性20白板",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
     "test_resonator_id_1": "理論1 0鏈 90凌陽 1振 90諸方玄樞 暴傷頭-2屬",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
+    "duration_1": "",
+    "duration_2": "",
     "monster_id": "90等抗性20白板",
     "description": "",
     "resonators": [
@@ -51,6 +60,7 @@
     ],
     "rows": [
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -75,6 +85,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -99,6 +110,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -123,10 +135,11 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
             "buffs": [],
@@ -139,6 +152,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -170,6 +184,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -201,6 +216,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -239,6 +255,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -277,6 +294,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -315,6 +333,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -360,6 +379,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -405,6 +425,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -443,6 +464,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -488,6 +510,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -533,6 +556,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -571,6 +595,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -602,6 +627,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -633,6 +659,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -664,6 +691,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -695,6 +723,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -726,6 +755,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -757,10 +787,11 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "空中攻擊",
+            "action": "",
             "skill_id": "登樓·尾墜千斤傷害-1",
             "skill_bonus_type": "",
             "buffs": [
@@ -788,6 +819,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -819,26 +851,11 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "空中攻擊",
+            "action": "",
             "skill_id": "登樓·尾墜千斤傷害-1",
             "skill_bonus_type": "",
             "buffs": [

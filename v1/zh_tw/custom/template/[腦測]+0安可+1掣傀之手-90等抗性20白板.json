@@ -1,8 +1,17 @@
 {
     "id": "[腦測]+0安可+1掣傀之手-90等抗性20白板",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
     "test_resonator_id_1": "理論1 0鏈 90安可 1振 90掣傀之手 暴傷頭-2屬",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
+    "duration_1": "",
+    "duration_2": "",
     "monster_id": "90等抗性20白板",
     "description": "",
     "resonators": [
@@ -51,6 +60,7 @@
     ],
     "rows": [
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -96,6 +106,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -148,10 +159,11 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
             "buffs": [],
@@ -164,6 +176,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -195,6 +208,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -226,10 +240,11 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
             "buffs": [],
@@ -242,6 +257,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -273,6 +289,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -304,6 +321,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -342,10 +360,11 @@
             "comment": ""
         },
         {
-            "resonator_name": "",
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
             "buffs": [],
@@ -358,6 +377,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -396,6 +416,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -412,6 +433,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -457,6 +479,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -502,6 +525,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -547,6 +571,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -592,6 +617,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -644,6 +670,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -703,6 +730,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -762,6 +790,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -821,6 +850,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -880,6 +910,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -896,6 +927,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -948,6 +980,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1000,6 +1033,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1052,6 +1086,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1104,6 +1139,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1142,6 +1178,24 @@
             "comment": ""
         },
         {
+            "labels": [],
+            "resonator_name": "漂泊者·衍射(男)",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "無",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
             "resonator_name": "安可",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1171,294 +1225,6 @@
                     "duration": "15"
                 }
             ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
