@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0守岸人+1星序協響",
+    "id": "[腦測]+6守岸人+1星序協響-浮星",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "小畢業-生 0鏈 90守岸人 1振 90星序協響 隱世",
+    "test_resonator_id_1": "小畢業-生 0鏈 90守岸人 1振 90星序協響 暴傷頭-3c生命-浮星",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -17,17 +17,17 @@
     "resonators": [
         {
             "resonator_name": "守岸人",
-            "resonator_chain": "0",
+            "resonator_chain": "6",
             "resonator_weapon_name": "星序協響",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_echo_1": "鳴鐘之龜",
-            "resonator_echo_sonata_1": "隱世回光",
-            "resonator_echo_sonata_2": "隱世回光",
-            "resonator_echo_sonata_3": "隱世回光",
-            "resonator_echo_sonata_4": "隱世回光",
-            "resonator_echo_sonata_5": "隱世回光"
+            "resonator_echo_1": "哀聲鷙",
+            "resonator_echo_sonata_1": "浮星祛暗",
+            "resonator_echo_sonata_2": "浮星祛暗",
+            "resonator_echo_sonata_3": "浮星祛暗",
+            "resonator_echo_sonata_4": "浮星祛暗",
+            "resonator_echo_sonata_5": "浮星祛暗"
         },
         {
             "resonator_name": "",
@@ -74,6 +74,48 @@
                     "value": "1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]守岸人-共鳴鏈2-夜幕的贈予與拒絕",
+                    "type": "加成",
+                    "value": "0.03",
+                    "stack": "5",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]守岸人-共鳴鏈4-萬物寂靜滿溢",
+                    "type": "加深",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]守岸人-共鳴鏈6-我所駛向的新世界",
+                    "type": "倍率",
+                    "value": "0.42",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]哀聲鷙",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
