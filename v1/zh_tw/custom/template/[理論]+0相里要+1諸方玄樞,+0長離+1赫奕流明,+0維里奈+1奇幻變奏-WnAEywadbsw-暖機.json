@@ -1,5 +1,5 @@
 {
-    "id": "[實戰]+0相里要+1諸方玄樞,+0長離+1赫奕流明,+0維里奈+1奇幻變奏-WnAEywadbsw",
+    "id": "[理論]+0相里要+1諸方玄樞,+0長離+1赫奕流明,+0維里奈+1奇幻變奏-WnAEywadbsw-暖機",
     "labels": [
         {
             "name": "",
@@ -7,12 +7,12 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "0鏈 70相里要 1振 90諸方玄樞 WnAEywadbsw",
-    "test_resonator_id_2": "0鏈 89長離 1振 90赫奕流明 WnAEywadbsw",
-    "test_resonator_id_3": "0鏈 69維里奈 1振 70奇幻變奏 WnAEywadbsw",
+    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 徹空-暴傷頭-2屬",
+    "test_resonator_id_2": "理論1 0鏈 90長離 1振 90赫奕流明 暴擊頭-2屬",
+    "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
     "duration_1": "",
     "duration_2": "",
-    "monster_id": "哀聲鷙(20240819回音之塔第四層)",
+    "monster_id": "90等抗性20白板",
     "description": "2024/09/02期\n\n2024/09/07\n\n角色導電傷害加成提升30%\n\n角色施放變奏技能時，全隊攻擊提升8%，持續15秒，最多疊加5層，重複觸發刷新持續時間\n\n相里要R \n\nhttps://youtu.be/WnAEywadbsw",
     "resonators": [
         {
@@ -68,13 +68,6 @@
             "skill_id": "基本推演",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
@@ -608,13 +601,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -668,13 +654,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -728,13 +707,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -788,13 +760,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -848,13 +813,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -908,13 +866,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
@@ -984,13 +935,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -1056,13 +1000,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1135,13 +1072,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -1200,13 +1130,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
@@ -1269,13 +1192,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -1334,13 +1250,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
@@ -1420,13 +1329,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -1492,13 +1394,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1552,13 +1447,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1612,13 +1500,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1672,13 +1553,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[熱熔-自己]燎照之騎",
@@ -1755,13 +1629,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -1850,13 +1717,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -1943,13 +1803,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[熱熔-自己]燎照之騎",
@@ -2038,13 +1891,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[熱熔-自己]燎照之騎",
@@ -2135,13 +1981,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -2247,13 +2086,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -2319,13 +2151,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[熱熔-自己]燎照之騎",
@@ -2395,13 +2220,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -2467,13 +2285,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[熱熔-自己]燎照之騎",
@@ -2560,13 +2371,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -2639,13 +2443,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
@@ -2722,13 +2519,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
                     "value": "0.04",
@@ -2801,13 +2591,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
@@ -2883,13 +2666,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -2909,13 +2685,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2936,13 +2705,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -2962,13 +2724,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3003,13 +2758,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3029,13 +2777,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3101,13 +2842,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3127,13 +2861,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3168,13 +2895,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3194,13 +2914,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3235,13 +2948,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3261,13 +2967,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3302,13 +3001,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3328,13 +3020,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3369,13 +3054,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3395,13 +3073,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3453,13 +3124,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3479,13 +3143,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3534,13 +3191,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3560,13 +3210,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3615,13 +3258,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3641,13 +3277,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3696,13 +3325,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3722,13 +3344,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3777,13 +3392,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3803,13 +3411,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3858,13 +3459,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3884,13 +3478,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -3956,13 +3543,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -3982,13 +3562,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4037,13 +3610,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4063,13 +3629,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4118,13 +3677,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4144,13 +3696,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4199,13 +3744,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4225,13 +3763,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4280,13 +3811,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4306,13 +3830,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4361,13 +3878,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4387,13 +3897,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4428,13 +3931,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4454,13 +3950,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4495,13 +3984,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4521,13 +4003,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4562,13 +4037,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4588,13 +4056,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4629,13 +4090,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4655,13 +4109,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4696,13 +4143,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4722,13 +4162,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4763,13 +4196,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
@@ -4789,13 +4215,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4847,13 +4266,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -4866,13 +4278,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4921,13 +4326,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -4940,13 +4338,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -4995,13 +4386,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5014,13 +4398,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5069,13 +4446,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5088,13 +4458,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5143,13 +4506,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5162,13 +4518,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5234,13 +4583,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5253,13 +4595,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5294,13 +4629,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5313,13 +4641,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5354,13 +4675,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5373,13 +4687,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5414,13 +4721,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5433,13 +4733,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5474,13 +4767,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5493,13 +4779,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5551,13 +4830,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5570,13 +4842,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5618,13 +4883,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5637,13 +4895,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5685,13 +4936,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5704,13 +4948,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5752,13 +4989,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5771,13 +5001,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5819,13 +5042,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5838,13 +5054,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5886,13 +5095,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -5905,13 +5107,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -5987,13 +5182,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -6006,13 +5194,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -6054,13 +5235,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -6073,13 +5247,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -6121,13 +5288,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -6140,13 +5300,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -6188,13 +5341,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -6207,13 +5353,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -6255,13 +5394,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
@@ -6274,13 +5406,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -6363,10 +5488,35 @@
                     "duration": "15"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "942",
+            "action": "",
+            "skill_id": "天道持樞-2",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": "15"
                 },
                 {
@@ -6402,52 +5552,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
-                    "name": "[熱熔-自己]燎照之騎",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "長離",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "942",
-            "action": "",
-            "skill_id": "天道持樞-2",
-            "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[熱熔-自己]熔山裂谷-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -6480,13 +5584,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[熱熔-自己]燎照之騎",
                     "type": "加成",
                     "value": "0.12",
@@ -6516,13 +5613,6 @@
                     "type": "加成",
                     "value": "0.3",
                     "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "2",
                     "duration": "15"
                 },
                 {
@@ -6585,20 +5675,6 @@
             "skill_bonus_type": "",
             "buffs": [
                 {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
                     "value": "0.15",
@@ -6647,20 +5723,6 @@
             "skill_id": "鏈式",
             "skill_bonus_type": "",
             "buffs": [
-                {
-                    "name": "關卡效果1",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "關卡效果2",
-                    "type": "攻擊百分比",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
                     "type": "加成",
