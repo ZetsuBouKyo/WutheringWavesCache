@@ -1,11 +1,18 @@
 {
     "id": "[理論]+1凌陽+1擎淵怒濤,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-三神來",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
     "test_resonator_id_1": "理論1 0鏈 90凌陽 1振 90擎淵怒濤 暴擊頭-2屬",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
     "duration_1": "27",
     "duration_2": "32",
-    "monster_id": "無常凶鷺(20240805深境之塔第一層)",
+    "monster_id": "90等抗性20白板",
     "description": "https://youtu.be/6Ja6hcw9JUc",
     "resonators": [
         {
@@ -53,6 +60,7 @@
     ],
     "rows": [
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -69,6 +77,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -85,6 +94,7 @@
             "comment": "E最速按，會把入場的普攻給吃掉，該入場普攻將不會增加延奏。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -101,6 +111,7 @@
             "comment": "ER連段按太快，共鳴技能的傷害似乎會被吃掉。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -117,6 +128,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -133,6 +145,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -149,6 +162,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -165,6 +179,7 @@
             "comment": "這邊主要是要打出45點靈韻。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -181,6 +196,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -197,6 +213,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -213,6 +230,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -229,6 +247,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -245,6 +264,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -269,6 +289,7 @@
             "comment": "第二輪之後如果共鳴效率不夠，這邊共鳴解放可能還放不出來，可以在下一輪空中進場後，自由落下補R。"
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -285,6 +306,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -316,6 +338,7 @@
             "comment": "快速EQ，共鳴技能E的傷害會被吃掉。"
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -347,6 +370,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -385,6 +409,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -423,6 +448,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -461,6 +487,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -499,6 +526,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -515,6 +543,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -531,6 +560,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -576,6 +606,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -614,6 +645,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -659,6 +691,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -711,6 +744,7 @@
             "comment": "第三次Q，跳到最頂點之後，落下一點點切人，時機點太早的話，第三段Q可能會沒打出來。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -749,6 +783,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -787,6 +822,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -825,6 +861,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -863,6 +900,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -901,6 +939,7 @@
             "comment": "切太快空中攻擊最後一段會沒打出來。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -939,6 +978,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -955,6 +995,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -993,6 +1034,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1009,6 +1051,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1047,6 +1090,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1085,6 +1129,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1123,6 +1168,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1161,6 +1207,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1177,6 +1224,7 @@
             "comment": "若是上一次進場沒R，這邊空中攻擊之後自由落下補R。"
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1193,6 +1241,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1209,6 +1258,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1254,6 +1304,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1299,6 +1350,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1344,6 +1396,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1389,6 +1442,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1405,6 +1459,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1450,6 +1505,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1466,6 +1522,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1511,6 +1568,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1527,6 +1585,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1572,6 +1631,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1617,6 +1677,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1662,6 +1723,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1714,6 +1776,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1759,6 +1822,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1804,6 +1868,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1849,6 +1914,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1865,6 +1931,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1917,6 +1984,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1976,6 +2044,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2035,6 +2104,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2094,6 +2164,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2160,6 +2231,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2176,6 +2248,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2242,6 +2315,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2287,6 +2361,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2303,6 +2378,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2319,6 +2395,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2364,6 +2441,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2380,6 +2458,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2432,6 +2511,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2448,6 +2528,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2528,6 +2609,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2594,6 +2676,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2681,6 +2764,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2768,6 +2852,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2855,6 +2940,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -2921,6 +3007,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3008,6 +3095,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3095,6 +3183,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3175,6 +3264,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3276,6 +3366,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3377,6 +3468,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3478,6 +3570,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3537,6 +3630,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3624,6 +3718,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3711,6 +3806,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3798,6 +3894,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3885,6 +3982,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3972,6 +4070,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4031,6 +4130,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4118,6 +4218,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4219,6 +4320,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4320,6 +4422,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4379,6 +4482,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4480,6 +4584,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4567,6 +4672,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4647,6 +4753,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4706,6 +4813,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4786,6 +4894,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4873,6 +4982,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -4960,6 +5070,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5047,6 +5158,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5106,6 +5218,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5186,6 +5299,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5266,6 +5380,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5346,6 +5461,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5426,6 +5542,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5506,6 +5623,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5586,6 +5704,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5645,6 +5764,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5732,6 +5852,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5791,6 +5912,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5850,6 +5972,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5866,6 +5989,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5882,6 +6006,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5969,6 +6094,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6056,6 +6182,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6136,6 +6263,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6216,6 +6344,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6232,6 +6361,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6248,6 +6378,7 @@
             "comment": "接上面第一次進場E、R，開始循環。"
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6328,6 +6459,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6408,6 +6540,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6474,6 +6607,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6490,6 +6624,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6556,6 +6691,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6622,6 +6758,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6688,6 +6825,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6754,6 +6892,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -6770,6 +6909,7 @@
             "comment": ""
         },
         {
+            "labels": [],
             "resonator_name": "凌陽",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
