@@ -65,7 +65,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "洞悉傷害",
+            "skill_id": "故此證明-洞悉傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
@@ -81,6 +81,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[衍射-自己]哀聲鷙",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",

@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "小畢業-生 0鏈 90守岸人 1振 90星序協響 暴傷頭-3c生命-浮星",
+    "test_resonator_id_1": "小畢業-生 0鏈 90守岸人 1振 90星序協響 生命頭-3c屬傷-浮星",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
     "duration_1": "",
@@ -65,7 +65,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "洞悉傷害",
+            "skill_id": "故此證明-洞悉傷害",
             "skill_bonus_type": "",
             "buffs": [
                 {
@@ -83,18 +83,11 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-全部]守岸人-共鳴鏈2-夜幕的贈予與拒絕",
+                    "name": "[衍射-自己]哀聲鷙",
                     "type": "加成",
-                    "value": "0.03",
-                    "stack": "5",
-                    "duration": "30"
-                },
-                {
-                    "name": "[加深-全部]守岸人-共鳴鏈4-萬物寂靜滿溢",
-                    "type": "加深",
-                    "value": "0.1",
+                    "value": "0.12",
                     "stack": "1",
-                    "duration": "30"
+                    "duration": "15"
                 },
                 {
                     "name": "[倍率-自己]守岸人-共鳴鏈6-我所駛向的新世界",
@@ -106,7 +99,7 @@
                 {
                     "name": "[暴擊傷害-自己]守岸人-共鳴鏈6-我所駛向的新世界",
                     "type": "暴擊傷害",
-                    "value": "2.00",
+                    "value": "5.00",
                     "stack": "1",
                     "duration": ""
                 },
@@ -116,13 +109,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[衍射-自己]哀聲鷙",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
