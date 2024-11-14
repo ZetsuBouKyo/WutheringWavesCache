@@ -1320,49 +1320,49 @@
                     "name": "關卡效果2",
                     "type": "攻擊百分比",
                     "value": "0.05",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "20"
                 },
                 {
                     "name": "關卡效果2",
                     "type": "加成",
                     "value": "0.05",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "20"
                 },
                 {
                     "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
                     "type": "攻擊百分比",
                     "value": "0.1",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "20"
                 },
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
                     "type": "攻擊百分比",
                     "value": "0.2",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "20"
                 },
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "30"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "15"
                 },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
-                    "stack": "1",
+                    "stack": "0",
                     "duration": "30"
                 }
             ],
@@ -5198,13 +5198,21 @@
         },
         {
             "labels": [],
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "3175",
             "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
+            "action": "聲骸",
+            "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5215,13 +5223,70 @@
         },
         {
             "labels": [],
-            "resonator_name": "",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "",
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "2464",
+            "real_dmg_crit": "5632",
+            "action": "聲骸",
+            "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "關卡效果1",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "0",
+                    "duration": "20"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "0",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "0",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "0",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "0",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "0",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "0",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
