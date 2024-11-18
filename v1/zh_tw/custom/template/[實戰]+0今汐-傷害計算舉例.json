@@ -1,0 +1,167 @@
+{
+    "id": "[實戰]+0今汐-傷害計算舉例",
+    "labels": [
+        {
+            "name": "循環",
+            "duration_1": "22",
+            "duration_2": "29"
+        }
+    ],
+    "test_resonator_id_1": "0鏈 89今汐 1振 90時和歲稔 g1eN3ebTtI4",
+    "test_resonator_id_2": "0鏈 70折枝 1振 66瓊枝冰綃 g1eN3ebTtI4",
+    "test_resonator_id_3": "0鏈 69維里奈 1振 70奇幻變奏 g1eN3ebTtI4",
+    "duration_1": "32",
+    "duration_2": "38",
+    "monster_id": "哀聲鷙(20240819回音之塔第四層)",
+    "description": "2024/08/19期\n\n2024/08/24 17:32\n\n角色導電傷害加成提升30%\n\n角色施放變奏技能時，全隊攻擊提升8%，持續15秒，最多疊加5層，重複觸發刷新持續時間\n\nE噴動畫起始 00:11:63 00:36:18 01:04:23 01:26:66 01:53:04\n扣掉\n折枝、今汐暖機秒數 00:12:75 - 00:03:62 = 00:09:13\n維里奈閃避 04:42:43 - 04:39:86 = 00:02:57\n暖機軸秒數 00:37:36 - 00:02:57 = 00:34:79\n循環軸秒數 00:37:36 - 00:09:13 - 00:02:57 = 00:25:66\n實戰循環 00:28:05 00:22:43 00:26:38\n循環 22 ~ 29 秒\n\nhttps://youtu.be/VJDOoNFNEqM",
+    "resonators": [
+        {
+            "resonator_name": "今汐",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "時和歲稔",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": false,
+            "resonator_echo_1": "角",
+            "resonator_echo_sonata_1": "浮星祛暗",
+            "resonator_echo_sonata_2": "浮星祛暗",
+            "resonator_echo_sonata_3": "浮星祛暗",
+            "resonator_echo_sonata_4": "浮星祛暗",
+            "resonator_echo_sonata_5": "浮星祛暗"
+        },
+        {
+            "resonator_name": "折枝",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "瓊枝冰綃",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": false,
+            "resonator_echo_1": "無常凶鷺",
+            "resonator_echo_sonata_1": "輕雲出月",
+            "resonator_echo_sonata_2": "輕雲出月",
+            "resonator_echo_sonata_3": "輕雲出月",
+            "resonator_echo_sonata_4": "輕雲出月",
+            "resonator_echo_sonata_5": "輕雲出月"
+        },
+        {
+            "resonator_name": "維里奈",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "奇幻變奏",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": false,
+            "resonator_echo_1": "鳴鐘之龜",
+            "resonator_echo_sonata_1": "隱世回光",
+            "resonator_echo_sonata_2": "隱世回光",
+            "resonator_echo_sonata_3": "隱世回光",
+            "resonator_echo_sonata_4": "隱世回光",
+            "resonator_echo_sonata_5": "隱世回光"
+        }
+    ],
+    "rows": [
+        {
+            "labels": [
+                "循環"
+            ],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "183167",
+            "action": "共鳴技能",
+            "skill_id": "驚龍破空·炳星傷害",
+            "skill_bonus_type": "",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "關卡效果2",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "韶光",
+                    "type": "招式倍率",
+                    "value": "0.4454",
+                    "stack": "50",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        }
+    ]
+}
