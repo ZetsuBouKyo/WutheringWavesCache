@@ -1,5 +1,5 @@
 {
-    "id": "[理論]+2椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-循環",
+    "id": "[理論]+1椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-暖機",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "椿",
-            "resonator_chain": "2",
+            "resonator_chain": "1",
             "resonator_weapon_name": "裁春",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -2622,13 +2622,6 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
-                },
-                {
-                    "name": "[倍率-自己]椿-共鳴鏈2-呼喚那沉默之花的芬芳",
-                    "type": "倍率",
-                    "value": "1.2",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
