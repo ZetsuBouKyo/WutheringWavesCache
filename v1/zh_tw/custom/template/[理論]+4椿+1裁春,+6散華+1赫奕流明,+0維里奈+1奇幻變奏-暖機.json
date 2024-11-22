@@ -1,5 +1,5 @@
 {
-    "id": "[理論]+3椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-暖機",
+    "id": "[理論]+4椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-暖機",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "椿",
-            "resonator_chain": "3",
+            "resonator_chain": "4",
             "resonator_weapon_name": "裁春",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -1198,6 +1198,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1301,6 +1308,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1551,6 +1565,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1654,6 +1675,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1757,6 +1785,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1860,6 +1895,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1963,6 +2005,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2138,6 +2187,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2313,6 +2369,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2416,6 +2479,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2519,6 +2589,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2643,6 +2720,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2774,6 +2858,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2898,6 +2989,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3022,6 +3120,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3146,6 +3251,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3263,6 +3375,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3366,6 +3485,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3469,6 +3595,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3572,6 +3705,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3668,6 +3808,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3764,6 +3911,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3860,6 +4014,13 @@
                     "value": "0.58",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3928,6 +4089,13 @@
                     "value": "0.4",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3989,6 +4157,13 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4050,6 +4225,13 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
