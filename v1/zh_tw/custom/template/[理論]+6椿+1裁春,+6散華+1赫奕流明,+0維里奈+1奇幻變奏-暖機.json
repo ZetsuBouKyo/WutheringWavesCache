@@ -2872,6 +2872,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3003,6 +3010,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3134,6 +3148,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3265,6 +3286,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3389,6 +3417,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3499,6 +3534,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3609,6 +3651,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3719,6 +3768,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3822,6 +3878,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3834,7 +3897,7 @@
         },
         {
             "labels": [],
-            "resonator_name": "椿",
+            "resonator_name": "椿d",
             "real_dmg_no_crit": "3884",
             "real_dmg_crit": "",
             "action": "普攻",
@@ -3925,6 +3988,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3937,7 +4007,7 @@
         },
         {
             "labels": [],
-            "resonator_name": "椿",
+            "resonator_name": "椿d",
             "real_dmg_no_crit": "1867",
             "real_dmg_crit": "",
             "action": "重擊",
@@ -4028,6 +4098,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢額外提升",
+                    "type": "倍率",
+                    "value": "1.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4040,7 +4117,7 @@
         },
         {
             "labels": [],
-            "resonator_name": "椿",
+            "resonator_name": "椿d",
             "real_dmg_no_crit": "957",
             "real_dmg_crit": "",
             "action": "",
@@ -4108,14 +4185,14 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "00:28:62",
+            "time_end": "00:28:62d",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
         },
         {
             "labels": [],
-            "resonator_name": "椿",
+            "resonator_name": "椿d",
             "real_dmg_no_crit": "792",
             "real_dmg_crit": "",
             "action": "",
@@ -4183,7 +4260,7 @@
         },
         {
             "labels": [],
-            "resonator_name": "椿",
+            "resonator_name": "椿d",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "7060",
             "action": "",
@@ -4232,6 +4309,1432 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:31:59d",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "一日花傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "蔓舞第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "蔓舞第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "蔓舞第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:31:59",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "7",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "7",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈6-為你的千千萬萬次盛放-酣夢-永生花",
+                    "type": "倍率",
+                    "value": "2.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]椿-固有技能2-侵占",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊傷害-自己]椿-共鳴鏈1-在無人知曉的秘密小徑",
+                    "type": "暴擊傷害",
+                    "value": "0.28",
+                    "stack": "1",
+                    "duration": "18"
+                },
+                {
+                    "name": "[攻擊百分比-自己]椿-共鳴鏈3-一根荊棘勝過千顆花種",
+                    "type": "攻擊百分比",
+                    "value": "0.58",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻-全部]椿-共鳴鏈4-它的根莖持續到永恆中",
@@ -4391,7 +5894,7 @@
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:31:59",
+            "time_start": "00:40:00",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
