@@ -1027,6 +1027,13 @@
                     "value": "0.28",
                     "stack": "1",
                     "duration": "18"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈5-將那無限置於你的手掌-變奏",
+                    "type": "倍率",
+                    "value": "3.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4373,6 +4380,13 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈5-將那無限置於你的手掌-延奏",
+                    "type": "倍率",
+                    "value": "0.68",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4420,6 +4434,13 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴鏈5-將那無限置於你的手掌-延奏",
+                    "type": "倍率",
+                    "value": "0.68",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
