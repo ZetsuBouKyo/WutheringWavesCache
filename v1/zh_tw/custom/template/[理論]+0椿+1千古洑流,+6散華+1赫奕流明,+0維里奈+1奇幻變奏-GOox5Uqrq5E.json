@@ -355,11 +355,11 @@
                     "duration": "5"
                 },
                 {
-                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
-                    "type": "加成",
-                    "value": "0.04",
-                    "stack": "7",
-                    "duration": ""
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
