@@ -68,7 +68,22 @@
             "skill_id": "熱力羊咩傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -338,7 +353,22 @@
             "skill_id": "熱情歡迎式傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -541,6 +571,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -588,6 +625,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -633,6 +677,13 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1052,6 +1103,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1170,6 +1235,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1252,6 +1352,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1334,6 +1469,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1416,6 +1586,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1491,6 +1696,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1573,6 +1799,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1655,6 +1916,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1730,6 +2026,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1805,6 +2136,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1898,6 +2264,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1973,6 +2374,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2048,6 +2484,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2123,6 +2594,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[普攻-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2191,6 +2697,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2238,6 +2765,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
