@@ -104,7 +104,15 @@
             "skill_id": "朔雪永凍",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "5",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -140,7 +148,15 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -158,31 +174,20 @@
             "skill_id": "冰棱爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "散華",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "冰川爆炸傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
             "buffs": [
                 {
-                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "2",
-                    "duration": "20"
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -209,6 +214,60 @@
                     "value": "0.1",
                     "stack": "2",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰川爆炸傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -228,7 +287,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -679,6 +753,81 @@
                     "value": "0.1",
                     "stack": "2",
                     "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰棘爆炸傷害-1",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]散華-固有技能1-凝冰",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
