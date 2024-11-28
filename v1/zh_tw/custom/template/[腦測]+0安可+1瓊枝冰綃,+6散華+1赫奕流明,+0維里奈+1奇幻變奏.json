@@ -176,7 +176,15 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -194,7 +202,15 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -302,7 +318,15 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -320,7 +344,22 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -335,10 +374,18 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "擴繁試驗",
+            "skill_id": "",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -392,7 +439,22 @@
             "skill_id": "五星 燎照之騎-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -410,7 +472,22 @@
             "skill_id": "五星 燎照之騎-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -428,7 +505,22 @@
             "skill_id": "五星 燎照之騎-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -482,7 +574,22 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -500,7 +607,22 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -543,6 +665,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -569,6 +705,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -613,6 +763,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -682,6 +860,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -715,6 +921,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -748,6 +982,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -781,6 +1043,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -807,6 +1097,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -840,6 +1158,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -873,6 +1219,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -906,6 +1280,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -939,6 +1341,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -990,6 +1420,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1023,6 +1481,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1056,6 +1542,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1089,6 +1603,34 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1115,6 +1657,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1141,6 +1711,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
