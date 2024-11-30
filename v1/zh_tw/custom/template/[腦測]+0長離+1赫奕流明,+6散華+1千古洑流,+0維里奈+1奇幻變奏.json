@@ -75,6 +75,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -370,13 +377,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[熱熔-自己]安可-固有技能2-咩咩加油歌",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
@@ -384,11 +384,18 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
                     "type": "加成",
-                    "value": "0.3",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
                     "stack": "1",
-                    "duration": "15"
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -780,6 +787,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1225,6 +1246,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1586,6 +1621,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1661,6 +1710,27 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1736,6 +1806,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1811,6 +1909,27 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1886,6 +2005,41 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1961,6 +2115,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
