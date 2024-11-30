@@ -598,6 +598,81 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "共鳴解放",
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
@@ -698,6 +773,13 @@
                     "value": "0.015",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -759,6 +841,13 @@
                     "value": "0.015",
                     "stack": "2",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -819,6 +908,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "3",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1058,6 +1154,81 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "聲骸",
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
@@ -1272,6 +1443,13 @@
                     "value": "0.015",
                     "stack": "4",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1332,6 +1510,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "5",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1394,6 +1579,13 @@
                     "value": "0.015",
                     "stack": "6",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1454,6 +1646,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1516,6 +1715,13 @@
                     "value": "0.015",
                     "stack": "8",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1576,6 +1782,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "9",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1638,6 +1851,13 @@
                     "value": "0.015",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1698,6 +1918,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "11",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1760,6 +1987,13 @@
                     "value": "0.015",
                     "stack": "12",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1820,6 +2054,13 @@
                     "type": "加成",
                     "value": "0.015",
                     "stack": "13",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -1882,6 +2123,13 @@
                     "value": "0.015",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1901,7 +2149,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "15",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1919,7 +2210,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "16",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1937,7 +2271,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "17",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1955,7 +2332,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1973,7 +2393,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "19",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1991,7 +2454,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "20",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2009,7 +2515,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "21",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2027,7 +2576,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "22",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2045,7 +2637,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "23",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2063,7 +2698,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "24",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2081,7 +2759,50 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "25",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
