@@ -68,7 +68,15 @@
             "skill_id": "行刃",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]漂泊者·湮滅(男)-共鳴鏈1-弦外知機",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -83,7 +91,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "入場",
-            "skill_id": "第二段傷害",
+            "skill_id": "",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [],
@@ -104,7 +112,15 @@
             "skill_id": "朔雪永凍",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "5",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -140,7 +156,15 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -158,7 +182,22 @@
             "skill_id": "冰棱爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -176,7 +215,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -194,7 +255,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -212,7 +295,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -233,7 +331,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:02:11",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -287,8 +385,8 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
+            "time_start": "00:04:14",
+            "time_end": "00:04:69",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -299,7 +397,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "擴繁試驗",
+            "skill_id": "",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [],
@@ -323,7 +421,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:05:26",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -413,7 +511,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:06:95",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -449,7 +547,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:08:76",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -485,7 +583,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:09:96",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -521,7 +619,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:10:30",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -554,10 +652,18 @@
             "skill_id": "行刃",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]漂泊者·湮滅(男)-共鳴鏈1-弦外知機",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:12:66",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -590,10 +696,18 @@
             "skill_id": "暗流·破命傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]漂泊者·湮滅(男)-共鳴鏈1-弦外知機",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:14:84",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -701,7 +815,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:19:61",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -791,7 +905,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:22:71",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -806,7 +920,15 @@
             "skill_id": "五星 無妄者-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]無妄者",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:22:98",
@@ -824,7 +946,15 @@
             "skill_id": "五星 無妄者-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]無妄者",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
