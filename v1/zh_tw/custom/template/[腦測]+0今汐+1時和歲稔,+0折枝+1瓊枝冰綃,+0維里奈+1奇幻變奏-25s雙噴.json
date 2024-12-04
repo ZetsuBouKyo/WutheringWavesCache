@@ -1,12 +1,6 @@
 {
     "id": "[腦測]+0今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
-    "labels": [
-        {
-            "name": "循環",
-            "duration_1": "22",
-            "duration_2": "29"
-        }
-    ],
+    "labels": [],
     "test_resonator_id_1": "理論1 0鏈 90今汐 1振 90時和歲稔 暴傷頭-2屬",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
@@ -329,7 +323,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "空中攻擊可以按的快一點，在低空就開始空中攻擊，可以偷點時間。"
         },
         {
             "labels": [],
@@ -776,7 +770,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "折枝抬手打下落攻擊的那一剎那，差不多就可以切人了。"
         },
         {
             "labels": [],
@@ -1959,7 +1953,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "第二段普攻轉身到一半，差不多就可以施放共鳴技能了，注意特殊能量條。如果前面折枝空中攻擊第二下沒打到，那這邊可能要補第三下普攻。"
         },
         {
             "labels": [],
@@ -2067,7 +2061,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "重擊．構形傷害，動畫施放到一半，在特殊能量條的圖標顯示的剎那就可以使用神來之筆。"
         },
         {
             "labels": [],
@@ -2085,7 +2079,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "跳可以取消神來之筆的動畫後搖，這邊很吃手感，不太好按，沒按好會變成原地起跳。"
         },
         {
             "labels": [],
@@ -3545,57 +3539,7 @@
             "skill_id": "移歲誅邪",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [
-                {
-                    "name": "[加深-全部]維里奈-延奏技能-盛放",
-                    "type": "加深",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[加成-全部]鳴鐘之龜",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-全部]無歸的謬誤",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
-                    "type": "攻擊百分比",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
-                    "name": "[攻擊百分比-全部]隱世回光-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[衍射-自己]浮星祛暗-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
