@@ -67,6 +67,7 @@
             "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -86,6 +87,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -105,6 +107,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -124,6 +127,7 @@
             "action": "共鳴解放",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -143,6 +147,7 @@
             "action": "入場",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -162,6 +167,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -181,6 +187,7 @@
             "action": "普攻",
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -200,6 +207,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -219,6 +227,7 @@
             "action": "普攻",
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -238,6 +247,7 @@
             "action": "共鳴解放",
             "skill_id": "草木生長",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -265,6 +275,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -284,6 +295,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -303,6 +315,7 @@
             "action": "聲骸",
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -335,6 +348,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -352,6 +366,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -369,6 +384,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -408,6 +424,7 @@
             "action": "",
             "skill_id": "第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -447,6 +464,7 @@
             "action": "",
             "skill_id": "第二段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -486,6 +504,7 @@
             "action": "",
             "skill_id": "第二段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -525,6 +544,7 @@
             "action": "",
             "skill_id": "第二段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -564,6 +584,7 @@
             "action": "",
             "skill_id": "第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -603,6 +624,7 @@
             "action": "",
             "skill_id": "第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -642,6 +664,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -659,6 +682,7 @@
             "action": "普攻",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -698,6 +722,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -737,6 +762,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -776,6 +802,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -815,6 +842,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -854,6 +882,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -893,6 +922,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -932,6 +962,7 @@
             "action": "",
             "skill_id": "第三段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -971,6 +1002,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -988,6 +1020,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1027,6 +1060,7 @@
             "action": "普攻",
             "skill_id": "第四段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1066,6 +1100,7 @@
             "action": "",
             "skill_id": "第四段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1105,6 +1140,7 @@
             "action": "聲骸",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1122,6 +1158,7 @@
             "action": "共鳴解放",
             "skill_id": "移歲誅邪-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1161,6 +1198,7 @@
             "action": "",
             "skill_id": "移歲誅邪-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1200,6 +1238,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1239,6 +1278,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1278,6 +1318,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1317,6 +1358,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1356,6 +1398,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1395,6 +1438,7 @@
             "action": "",
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1434,6 +1478,7 @@
             "action": "",
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1473,6 +1518,7 @@
             "action": "",
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1512,6 +1558,7 @@
             "action": "共鳴技能",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1565,6 +1612,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1604,6 +1652,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1657,6 +1706,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1710,6 +1760,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1763,6 +1814,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1816,6 +1868,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1869,6 +1922,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1922,6 +1976,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -1975,6 +2030,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-9",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2028,6 +2084,7 @@
             "action": "共鳴技能",
             "skill_id": "逐天取月技能傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2081,6 +2138,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2120,6 +2178,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2173,6 +2232,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2226,6 +2286,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2279,6 +2340,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2318,6 +2380,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2335,6 +2398,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2352,6 +2416,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2405,6 +2470,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2444,6 +2510,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2461,6 +2528,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2478,6 +2546,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2531,6 +2600,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2584,6 +2654,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第二段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2637,6 +2708,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第二段傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2690,6 +2762,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2729,6 +2802,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2782,6 +2856,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第三段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2835,6 +2910,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2888,6 +2964,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第四段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2941,6 +3018,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第四段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2994,6 +3072,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3011,6 +3090,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3028,6 +3108,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3081,6 +3162,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3134,6 +3216,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3187,6 +3270,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3240,6 +3324,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3293,6 +3378,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3346,6 +3432,7 @@
             "action": "",
             "skill_id": "驚龍破空·炳星傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3399,6 +3486,7 @@
             "action": "",
             "skill_id": "韶光",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3459,6 +3547,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3478,6 +3567,7 @@
             "action": "變奏",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3526,6 +3616,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3574,6 +3665,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3622,6 +3714,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3670,6 +3763,7 @@
             "action": "聲骸",
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3718,6 +3812,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3780,6 +3875,7 @@
             "action": "空中入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3799,6 +3895,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3818,6 +3915,7 @@
             "action": "",
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3866,6 +3964,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3928,6 +4027,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3976,6 +4076,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4024,6 +4125,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4072,6 +4174,7 @@
             "action": "",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4120,6 +4223,7 @@
             "action": "",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4168,6 +4272,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4230,6 +4335,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4278,6 +4384,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4340,6 +4447,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4388,6 +4496,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4443,6 +4552,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4484,6 +4594,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4539,6 +4650,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4580,6 +4692,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4599,6 +4712,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4618,6 +4732,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4637,6 +4752,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4692,6 +4808,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4740,6 +4857,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4788,6 +4906,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4836,6 +4955,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4884,6 +5004,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4939,6 +5060,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4987,6 +5109,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5006,6 +5129,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5061,6 +5185,7 @@
             "action": "共鳴技能",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5109,6 +5234,7 @@
             "action": "",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5157,6 +5283,7 @@
             "action": "",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5205,6 +5332,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5260,6 +5388,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5308,6 +5437,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5327,6 +5457,7 @@
             "action": "普攻",
             "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5375,6 +5506,7 @@
             "action": "",
             "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5423,6 +5555,7 @@
             "action": "",
             "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5471,6 +5604,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5519,6 +5653,7 @@
             "action": "共鳴技能",
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5581,6 +5716,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5629,6 +5765,7 @@
             "action": "共鳴技能",
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5691,6 +5828,7 @@
             "action": "共鳴技能",
             "skill_id": "極意·神來之筆傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5760,6 +5898,7 @@
             "action": "",
             "skill_id": "極意·神來之筆傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5829,6 +5968,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5848,6 +5988,7 @@
             "action": "",
             "skill_id": "極意·神來之筆傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5917,6 +6058,7 @@
             "action": "變奏",
             "skill_id": "蟠龍清輝",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5966,6 +6108,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]今汐-固有技能2-凝神",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5986,6 +6135,7 @@
             "action": "聲骸",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6005,6 +6155,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6074,6 +6225,7 @@
             "action": "",
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6143,6 +6295,7 @@
             "action": "",
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6212,6 +6365,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6231,6 +6385,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6250,6 +6405,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6347,6 +6503,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6444,6 +6601,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6541,6 +6699,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6638,6 +6797,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6735,6 +6895,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6832,6 +6993,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6929,6 +7091,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7026,6 +7189,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7123,6 +7287,7 @@
             "action": "",
             "skill_id": "神霓飛芒傷害-9",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7220,6 +7385,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7289,6 +7455,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7358,6 +7525,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7427,6 +7595,7 @@
             "action": "",
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7496,6 +7665,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -7515,6 +7685,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7612,6 +7783,7 @@
             "action": "",
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7681,6 +7853,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7778,6 +7951,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7875,6 +8049,7 @@
             "action": "",
             "skill_id": "逐天取月技能傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -7972,6 +8147,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8069,6 +8245,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8166,6 +8343,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第二段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8263,6 +8441,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第二段傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8360,6 +8539,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8457,6 +8637,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8554,6 +8735,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第三段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8651,6 +8833,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8748,6 +8931,7 @@
             "action": "普攻",
             "skill_id": "凌霄·普攻第四段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8845,6 +9029,7 @@
             "action": "",
             "skill_id": "凌霄·普攻第四段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -8942,6 +9127,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -8961,6 +9147,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9058,6 +9245,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9155,6 +9343,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9252,6 +9441,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9349,6 +9539,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9446,6 +9637,7 @@
             "action": "",
             "skill_id": "驚龍破空·熠日傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9543,6 +9735,7 @@
             "action": "",
             "skill_id": "驚龍破空·炳星傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9640,6 +9833,7 @@
             "action": "",
             "skill_id": "韶光",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -9744,6 +9938,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -9763,6 +9958,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
