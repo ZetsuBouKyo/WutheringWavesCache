@@ -2217,6 +2217,13 @@
                     "value": "0.12",
                     "stack": "3",
                     "duration": "6"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
                 }
             ],
             "resonating_spin_concerto_regen": "",
