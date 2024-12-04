@@ -1,12 +1,6 @@
 {
-    "id": "[腦測]+0今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
-    "labels": [
-        {
-            "name": "",
-            "duration_1": "",
-            "duration_2": ""
-        }
-    ],
+    "id": "[腦測]+0今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴-開局R",
+    "labels": [],
     "test_resonator_id_1": "理論1 0鏈 90今汐 1振 90時和歲稔 暴傷頭-2屬",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
@@ -104,6 +98,24 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "移歲誅邪",
+            "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
