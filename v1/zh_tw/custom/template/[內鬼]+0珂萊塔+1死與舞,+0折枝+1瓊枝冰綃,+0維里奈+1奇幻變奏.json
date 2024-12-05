@@ -22,12 +22,12 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
-            "resonator_echo_1": "角",
-            "resonator_echo_sonata_1": "浮星祛暗",
-            "resonator_echo_sonata_2": "浮星祛暗",
-            "resonator_echo_sonata_3": "浮星祛暗",
-            "resonator_echo_sonata_4": "浮星祛暗",
-            "resonator_echo_sonata_5": "浮星祛暗"
+            "resonator_echo_1": "異構武裝",
+            "resonator_echo_sonata_1": "新套裝",
+            "resonator_echo_sonata_2": "新套裝",
+            "resonator_echo_sonata_3": "新套裝",
+            "resonator_echo_sonata_4": "新套裝",
+            "resonator_echo_sonata_5": "新套裝"
         },
         {
             "resonator_name": "折枝",
@@ -68,7 +68,22 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -86,7 +101,22 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -104,7 +134,22 @@
             "skill_id": "必要性手段第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -122,7 +167,22 @@
             "skill_id": "必要性手段第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -140,7 +200,22 @@
             "skill_id": "必要性手段第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -379,7 +454,22 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1417,6 +1507,41 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1485,6 +1610,55 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1553,6 +1727,55 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1607,6 +1830,41 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1675,6 +1933,55 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1743,6 +2050,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1811,6 +2181,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1879,6 +2312,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1947,6 +2443,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2015,6 +2574,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2083,6 +2705,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2151,6 +2836,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2219,6 +2967,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2287,6 +3098,69 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-共鳴技能",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-共鳴技能",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝2/2",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2341,6 +3215,48 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新套裝5/5-冷凝",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]珂萊塔-共鳴解放-新浪潮時代",
+                    "type": "忽視防禦",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
