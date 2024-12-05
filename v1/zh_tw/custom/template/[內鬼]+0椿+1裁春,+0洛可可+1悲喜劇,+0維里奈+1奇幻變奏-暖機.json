@@ -661,6 +661,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -715,6 +722,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -769,6 +783,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -830,6 +851,13 @@
                     "value": "200",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
