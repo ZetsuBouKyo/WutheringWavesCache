@@ -313,6 +313,57 @@
         },
         {
             "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "入場",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "重擊傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -447,39 +498,6 @@
         },
         {
             "labels": [],
-            "resonator_name": "珂萊塔",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "空中入場",
-            "skill_id": "空中攻擊傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "舊套裝2/2",
-                    "type": "加成",
-                    "value": "-0.1",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "新聲骸-冷凝",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": ""
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -509,7 +527,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": "空中攻擊可以按的快一點，在低空就開始空中攻擊，可以偷點時間。"
+            "comment": ""
         },
         {
             "labels": [],
