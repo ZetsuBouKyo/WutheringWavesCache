@@ -22,6 +22,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "無冠者",
             "resonator_echo_sonata_1": "沉日劫明",
             "resonator_echo_sonata_2": "沉日劫明",
@@ -36,6 +38,8 @@
             "resonator_weapon_rank": "",
             "resonator_inherent_skill_1": null,
             "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "",
             "resonator_echo_sonata_1": "",
             "resonator_echo_sonata_2": "",
@@ -50,6 +54,8 @@
             "resonator_weapon_rank": "",
             "resonator_inherent_skill_1": null,
             "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "",
             "resonator_echo_sonata_1": "",
             "resonator_echo_sonata_2": "",
@@ -67,6 +73,7 @@
             "action": "共鳴解放",
             "skill_id": "芳華綻燼",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -84,6 +91,7 @@
             "action": "共鳴技能",
             "skill_id": "紅椿盛綻傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -91,13 +99,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "12"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -116,6 +117,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -130,13 +132,6 @@
                     "value": "0.075",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -162,6 +157,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -176,13 +172,6 @@
                     "value": "0.075",
                     "stack": "2",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -201,6 +190,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第三段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -215,13 +205,6 @@
                     "value": "0.075",
                     "stack": "3",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -240,6 +223,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -254,13 +238,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -279,6 +256,7 @@
             "action": "共鳴技能",
             "skill_id": "黯蕊獵心傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -293,13 +271,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -318,6 +289,7 @@
             "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -335,6 +307,7 @@
             "action": "變奏",
             "skill_id": "八千春秋",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -360,6 +333,7 @@
             "action": "共鳴技能",
             "skill_id": "紅椿盛綻傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -374,13 +348,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -399,6 +366,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -413,13 +381,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -438,6 +399,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -452,13 +414,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -477,6 +432,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第三段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -491,13 +447,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -516,6 +465,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -530,13 +480,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -555,6 +498,7 @@
             "action": "共鳴技能",
             "skill_id": "黯蕊獵心傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -569,13 +513,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -594,6 +531,7 @@
             "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -611,6 +549,7 @@
             "action": "變奏",
             "skill_id": "八千春秋",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -636,6 +575,7 @@
             "action": "共鳴技能",
             "skill_id": "一日花傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -657,13 +597,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -682,6 +615,7 @@
             "action": "共鳴技能",
             "skill_id": "紅椿盛綻傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -696,13 +630,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -728,6 +655,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -742,13 +670,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -774,6 +695,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -788,13 +710,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -820,6 +735,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第三段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -834,13 +750,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -866,6 +775,7 @@
             "action": "重擊",
             "skill_id": "燼華蔓舞傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -880,13 +790,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -912,6 +815,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -926,13 +830,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -958,6 +855,7 @@
             "action": "共鳴技能",
             "skill_id": "黯蕊獵心傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[普攻]裁春-1諧振-普攻",
@@ -972,13 +870,6 @@
                     "value": "0.075",
                     "stack": "4",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[倍率-自己]椿-共鳴回路-含苞狀態",
@@ -1004,6 +895,7 @@
             "action": "延奏",
             "skill_id": "纏繞",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -1029,6 +921,7 @@
             "action": "",
             "skill_id": "一日花-纏繞",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -1054,6 +947,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1071,6 +965,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",

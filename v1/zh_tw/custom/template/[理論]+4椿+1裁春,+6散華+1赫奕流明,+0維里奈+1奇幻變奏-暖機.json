@@ -22,6 +22,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "無妄者",
             "resonator_echo_sonata_1": "沉日劫明",
             "resonator_echo_sonata_2": "沉日劫明",
@@ -36,6 +38,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "無常凶鷺",
             "resonator_echo_sonata_1": "輕雲出月",
             "resonator_echo_sonata_2": "輕雲出月",
@@ -50,6 +54,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
             "resonator_echo_1": "鳴鐘之龜",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
@@ -1197,13 +1203,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻-下一位]散華-延奏技能-凜絜",
                     "type": "加深",
                     "value": "0.38",
@@ -1291,13 +1290,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -1550,13 +1542,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -1658,13 +1643,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -1770,13 +1748,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -1880,13 +1851,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -1988,13 +1952,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -2172,13 +2129,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -2354,13 +2304,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -2462,13 +2405,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -2574,13 +2510,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -2682,13 +2611,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -2815,13 +2737,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -2946,13 +2861,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3075,13 +2983,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -3208,13 +3109,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3339,13 +3233,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3447,13 +3334,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -3559,13 +3439,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3669,13 +3542,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3770,13 +3636,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -3875,13 +3734,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -3976,13 +3828,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
@@ -4081,13 +3926,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -4156,13 +3994,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[普攻]裁春-1諧振-終始之外",
                     "type": "加成",
                     "value": "0.1",
@@ -4222,13 +4053,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[普攻-自己]椿-固有技能2-侵占",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[普攻]裁春-1諧振-終始之外",
