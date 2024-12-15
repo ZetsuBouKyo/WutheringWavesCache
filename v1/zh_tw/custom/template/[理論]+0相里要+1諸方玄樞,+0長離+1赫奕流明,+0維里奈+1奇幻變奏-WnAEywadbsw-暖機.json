@@ -22,6 +22,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴解放",
             "resonator_echo_1": "朔雷之鱗",
             "resonator_echo_sonata_1": "徹空冥雷",
             "resonator_echo_sonata_2": "徹空冥雷",
@@ -36,6 +38,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴技能",
             "resonator_echo_1": "燎照之騎",
             "resonator_echo_sonata_1": "熔山裂谷",
             "resonator_echo_sonata_2": "熔山裂谷",
@@ -50,6 +54,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "普攻",
             "resonator_echo_1": "鳴鐘之龜",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
@@ -67,6 +73,7 @@
             "action": "共鳴技能",
             "skill_id": "基本推演",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[導電-自己]徹空冥雷-5/5",
@@ -99,6 +106,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -116,6 +124,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -133,6 +142,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -165,6 +175,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -197,6 +208,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -229,6 +241,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -261,6 +274,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -278,6 +292,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -295,6 +310,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -312,6 +328,7 @@
             "action": "普攻",
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -329,6 +346,7 @@
             "action": "普攻",
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -346,6 +364,7 @@
             "action": "共鳴解放",
             "skill_id": "草木生長",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -363,6 +382,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -380,6 +400,7 @@
             "action": "聲骸",
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -405,6 +426,7 @@
             "action": "跳",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -422,6 +444,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -461,6 +484,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -500,6 +524,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊第三段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -539,6 +564,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -556,6 +582,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -573,6 +600,7 @@
             "action": "",
             "skill_id": "天道持樞-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -619,59 +647,7 @@
             "action": "",
             "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
-            "buffs": [
-                {
-                    "name": "[熱熔-自己]熔山裂谷-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-全部]鳴鐘之龜",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
-                    "type": "攻擊百分比",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
-                    "name": "[攻擊百分比-全部]隱世回光-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[加深-全部]維里奈-延奏技能-盛放",
-                    "type": "加深",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "長離",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "1182",
-            "action": "",
-            "skill_id": "天道持樞-2",
-            "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -725,6 +701,7 @@
             "action": "",
             "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -778,6 +755,61 @@
             "action": "",
             "skill_id": "天道持樞-2",
             "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "1182",
+            "action": "",
+            "skill_id": "天道持樞-2",
+            "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -831,6 +863,7 @@
             "action": "普攻",
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -898,6 +931,7 @@
             "action": "",
             "skill_id": "心眼·衝傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -965,6 +999,7 @@
             "action": "空中攻擊",
             "skill_id": "空中重擊",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1018,6 +1053,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1035,6 +1071,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1095,6 +1132,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1155,6 +1193,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1215,6 +1254,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1275,6 +1315,7 @@
             "action": "普攻",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1292,6 +1333,7 @@
             "action": "",
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1359,6 +1401,7 @@
             "action": "聲骸",
             "skill_id": "五星 燎照之騎-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1412,6 +1455,7 @@
             "action": "聲骸",
             "skill_id": "五星 燎照之騎-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1465,6 +1509,7 @@
             "action": "聲骸",
             "skill_id": "五星 燎照之騎-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1518,6 +1563,7 @@
             "action": "共鳴解放",
             "skill_id": "離火照丹心",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1592,6 +1638,7 @@
             "action": "重擊",
             "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1680,6 +1727,7 @@
             "action": "",
             "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1768,6 +1816,7 @@
             "action": "",
             "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1856,6 +1905,7 @@
             "action": "",
             "skill_id": "焚身以火-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -1944,6 +1994,7 @@
             "action": "",
             "skill_id": "焚身以火-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2032,6 +2083,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2049,6 +2101,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2116,6 +2169,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2183,6 +2237,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2250,6 +2305,7 @@
             "action": "",
             "skill_id": "心眼·劫傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2317,6 +2373,7 @@
             "action": "普攻",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2334,6 +2391,7 @@
             "action": "",
             "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2408,6 +2466,7 @@
             "action": "",
             "skill_id": "心眼·征傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2482,6 +2541,7 @@
             "action": "",
             "skill_id": "心眼·征傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2556,6 +2616,7 @@
             "action": "",
             "skill_id": "心眼·征傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[熱熔-自己]熔山裂谷-5/5",
@@ -2630,6 +2691,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2647,6 +2709,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2664,6 +2727,7 @@
             "action": "",
             "skill_id": "正理-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2703,6 +2767,7 @@
             "action": "共鳴技能",
             "skill_id": "基本推演",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2756,6 +2821,7 @@
             "action": "共鳴解放",
             "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2823,6 +2889,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2840,6 +2907,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2893,6 +2961,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2946,6 +3015,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -2999,6 +3069,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3052,6 +3123,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3105,6 +3177,7 @@
             "action": "普攻",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3122,6 +3195,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3189,6 +3263,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3256,6 +3331,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3323,6 +3399,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3390,6 +3467,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3457,6 +3535,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3524,6 +3603,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -3541,6 +3621,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3608,6 +3689,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3675,6 +3757,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3742,6 +3825,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3809,6 +3893,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3876,6 +3961,7 @@
             "action": "普攻",
             "skill_id": "樞機·勘破第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3929,6 +4015,7 @@
             "action": "普攻",
             "skill_id": "樞機·勘破第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3982,6 +4069,7 @@
             "action": "",
             "skill_id": "樞機·勘破第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4035,6 +4123,7 @@
             "action": "",
             "skill_id": "樞機·勘破第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4088,6 +4177,7 @@
             "action": "",
             "skill_id": "樞機·勘破第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4141,6 +4231,7 @@
             "action": "普攻",
             "skill_id": "樞機·勘破第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4194,6 +4285,7 @@
             "action": "",
             "skill_id": "樞機·勘破第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4247,6 +4339,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4264,6 +4357,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4324,6 +4418,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4384,6 +4479,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4444,6 +4540,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4504,6 +4601,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4564,6 +4662,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4581,6 +4680,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4627,6 +4727,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4673,6 +4774,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4719,6 +4821,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-4",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4765,6 +4868,7 @@
             "action": "",
             "skill_id": "一相萬殊傷害-5",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4811,6 +4915,7 @@
             "action": "普攻",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -4828,6 +4933,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4881,6 +4987,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4934,6 +5041,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -4987,6 +5095,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5040,6 +5149,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5093,6 +5203,7 @@
             "action": "",
             "skill_id": "解裂重構傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5146,6 +5257,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5163,6 +5275,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5180,6 +5293,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5233,6 +5347,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5286,6 +5401,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5339,6 +5455,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5392,6 +5509,7 @@
             "action": "",
             "skill_id": "萬方法則傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -5445,6 +5563,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5462,6 +5581,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",

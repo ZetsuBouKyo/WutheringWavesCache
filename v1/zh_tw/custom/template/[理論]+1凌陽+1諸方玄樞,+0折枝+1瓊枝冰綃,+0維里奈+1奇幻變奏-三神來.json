@@ -22,6 +22,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴技能",
             "resonator_echo_1": "輝螢軍勢",
             "resonator_echo_sonata_1": "凝夜白霜",
             "resonator_echo_sonata_2": "凝夜白霜",
@@ -36,6 +38,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "普攻",
             "resonator_echo_1": "無常凶鷺",
             "resonator_echo_sonata_1": "輕雲出月",
             "resonator_echo_sonata_2": "輕雲出月",
@@ -50,6 +54,8 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "普攻",
             "resonator_echo_1": "鳴鐘之龜",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
@@ -67,6 +73,7 @@
             "action": "無",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -84,6 +91,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -101,6 +109,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -118,6 +127,7 @@
             "action": "共鳴解放",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -135,6 +145,7 @@
             "action": "普攻",
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -152,6 +163,7 @@
             "action": "普攻",
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -169,6 +181,7 @@
             "action": "普攻",
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -186,6 +199,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -203,6 +217,7 @@
             "action": "入場",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -220,6 +235,7 @@
             "action": "",
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -237,6 +253,7 @@
             "action": "普攻",
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -254,6 +271,7 @@
             "action": "普攻",
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -271,6 +289,7 @@
             "action": "共鳴解放",
             "skill_id": "草木生長",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -296,6 +315,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -313,6 +333,7 @@
             "action": "共鳴技能",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -345,6 +366,7 @@
             "action": "聲骸",
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -377,6 +399,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -416,6 +439,7 @@
             "action": "入場",
             "skill_id": "第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -455,6 +479,7 @@
             "action": "",
             "skill_id": "第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -494,6 +519,7 @@
             "action": "協同攻擊",
             "skill_id": "協同攻擊傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -533,6 +559,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -550,6 +577,7 @@
             "action": "入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -567,6 +595,7 @@
             "action": "聲骸",
             "skill_id": "五星 輝螢軍勢-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -613,6 +642,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -652,6 +682,7 @@
             "action": "聲骸",
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -698,6 +729,7 @@
             "action": "聲骸",
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -751,6 +783,7 @@
             "action": "空中入場",
             "skill_id": "空中攻擊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -790,6 +823,7 @@
             "action": "",
             "skill_id": "空中攻擊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -829,6 +863,7 @@
             "action": "",
             "skill_id": "空中攻擊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -868,6 +903,7 @@
             "action": "",
             "skill_id": "空中攻擊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -907,6 +943,7 @@
             "action": "",
             "skill_id": "空中攻擊傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -946,6 +983,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -985,6 +1023,7 @@
             "action": "空中入場",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1002,6 +1041,7 @@
             "action": "",
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1041,6 +1081,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1058,6 +1099,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1097,6 +1139,7 @@
             "action": "空中攻擊",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1136,6 +1179,7 @@
             "action": "",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1175,6 +1219,7 @@
             "action": "",
             "skill_id": "空中攻擊第三段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1214,6 +1259,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1231,6 +1277,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1248,6 +1295,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1265,6 +1313,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1311,6 +1360,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1357,6 +1407,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1403,6 +1454,7 @@
             "action": "",
             "skill_id": "柔翰生輝-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1449,6 +1501,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1466,6 +1519,7 @@
             "action": "",
             "skill_id": "協同攻擊傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1512,6 +1566,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1529,6 +1584,7 @@
             "action": "",
             "skill_id": "協同攻擊傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1575,6 +1631,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1592,6 +1649,7 @@
             "action": "共鳴技能",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1638,6 +1696,7 @@
             "action": "",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1684,6 +1743,7 @@
             "action": "",
             "skill_id": "以形寫神-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1730,6 +1790,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1783,6 +1844,7 @@
             "action": "普攻",
             "skill_id": "重擊·構形傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1829,6 +1891,7 @@
             "action": "",
             "skill_id": "重擊·構形傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1875,6 +1938,7 @@
             "action": "",
             "skill_id": "重擊·構形傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1921,6 +1985,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -1938,6 +2003,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1991,6 +2057,7 @@
             "action": "共鳴技能",
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2051,6 +2118,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2111,6 +2179,7 @@
             "action": "共鳴技能",
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2171,6 +2240,7 @@
             "action": "共鳴技能",
             "skill_id": "極意·神來之筆傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2238,6 +2308,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2255,6 +2326,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2322,6 +2394,7 @@
             "action": "",
             "skill_id": "協同攻擊傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2368,6 +2441,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2385,6 +2459,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2402,6 +2477,7 @@
             "action": "",
             "skill_id": "協同攻擊傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2448,6 +2524,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2465,6 +2542,7 @@
             "action": "聲骸",
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2518,6 +2596,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -2535,6 +2614,7 @@
             "action": "變奏",
             "skill_id": "出洞·睡獅蟄醒-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2616,6 +2696,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2683,6 +2764,7 @@
             "action": "",
             "skill_id": "出洞·睡獅蟄醒-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2771,6 +2853,7 @@
             "action": "共鳴解放",
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2866,6 +2949,7 @@
             "action": "重擊",
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2954,6 +3038,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -3021,6 +3106,7 @@
             "action": "普攻",
             "skill_id": "狂態·搖光金獅舞第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -3109,6 +3195,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第一段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -3197,6 +3284,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第一段傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3278,6 +3366,7 @@
             "action": "共鳴技能",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3373,6 +3462,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3468,6 +3558,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3563,6 +3654,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3623,6 +3715,7 @@
             "action": "普攻",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3704,6 +3797,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3785,6 +3879,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3866,6 +3961,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -3947,6 +4043,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4028,6 +4125,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4088,6 +4186,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4169,6 +4268,7 @@
             "action": "共鳴技能",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4264,6 +4364,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4359,6 +4460,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4419,6 +4521,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4514,6 +4617,7 @@
             "action": "普攻",
             "skill_id": "狂態·搖光金獅舞第一段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4595,6 +4699,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第一段傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4669,6 +4774,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4729,6 +4835,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第一段傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4803,6 +4910,7 @@
             "action": "共鳴技能",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4884,6 +4992,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -4965,6 +5074,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5046,6 +5156,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5106,6 +5217,7 @@
             "action": "普攻",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5180,6 +5292,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5254,6 +5367,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5328,6 +5442,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5402,6 +5517,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5476,6 +5592,7 @@
             "action": "",
             "skill_id": "狂態·搖光金獅舞第二段傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5550,6 +5667,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5610,6 +5728,7 @@
             "action": "共鳴技能",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5691,6 +5810,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5751,6 +5871,7 @@
             "action": "協同攻擊",
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5811,6 +5932,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5828,6 +5950,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -5845,6 +5968,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -5926,6 +6050,7 @@
             "action": "",
             "skill_id": "飛身式·翻山越澗傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6007,6 +6132,7 @@
             "action": "普攻",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6081,6 +6207,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6155,6 +6282,7 @@
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6172,6 +6300,7 @@
             "action": "變奏",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6189,6 +6318,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6263,6 +6393,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -6337,6 +6468,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -6397,6 +6529,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6414,6 +6547,7 @@
             "action": "",
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -6481,6 +6615,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -6541,6 +6676,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -6601,6 +6737,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-1",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
@@ -6661,6 +6798,7 @@
             "action": "",
             "skill_id": "",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
@@ -6678,6 +6816,7 @@
             "action": "",
             "skill_id": "凌雲式·腿打連環傷害-3",
             "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
