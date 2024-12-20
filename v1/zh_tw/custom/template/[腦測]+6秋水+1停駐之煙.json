@@ -1,0 +1,1120 @@
+{
+    "id": "[腦測]+6秋水+1停駐之煙",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
+    "test_resonator_id_1": "理論1 0鏈 90秋水 5振 90停駐之煙 暴傷頭-2屬",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "",
+    "duration_1": "14",
+    "duration_2": "15",
+    "monster_id": "90等抗性20白板",
+    "description": "https://youtu.be/GOox5Uqrq5E",
+    "resonators": [
+        {
+            "resonator_name": "秋水",
+            "resonator_chain": "6",
+            "resonator_weapon_name": "停駐之煙",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "普攻",
+            "resonator_echo_1": "飛廉之猩",
+            "resonator_echo_sonata_1": "嘯谷長風",
+            "resonator_echo_sonata_2": "嘯谷長風",
+            "resonator_echo_sonata_3": "嘯谷長風",
+            "resonator_echo_sonata_4": "嘯谷長風",
+            "resonator_echo_sonata_5": "嘯谷長風"
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": ""
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": ""
+        }
+    ],
+    "rows": [
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "霧裡觀花",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:10:00",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "移位戲法-霧化彈傷害",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]秋水-共鳴鏈4-終幕的黑花",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第五段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:19:85",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:22:53",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "移位戲法-霧化彈傷害",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]秋水-共鳴鏈4-終幕的黑花",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "跳",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:28:62",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "空中攻擊",
+            "skill_bonus_type": "",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]秋水-共鳴鏈2-織霧首秀",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:31:59",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第五段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]秋水-共鳴鏈3-霧化轉場",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "閃避",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "秋水",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "移位戲法-霧化彈傷害",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]秋水-共鳴鏈4-終幕的黑花",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        }
+    ]
+}
