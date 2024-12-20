@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+6秋水+1停駐之煙,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-暖機",
+    "id": "[腦測]+6秋水+1死與舞,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-暖機",
     "labels": [
         {
             "name": "",
@@ -7,7 +7,7 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90秋水 1振 90停駐之煙 暴傷頭-2屬",
+    "test_resonator_id_1": "理論1 0鏈 90秋水 1振 90死與舞 暴擊頭-2屬",
     "test_resonator_id_2": "理論1 6鏈 90散華 1振 90赫奕流明 暴擊頭-2屬",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
     "duration_1": "25",
@@ -18,7 +18,7 @@
         {
             "resonator_name": "秋水",
             "resonator_chain": "6",
-            "resonator_weapon_name": "停駐之煙",
+            "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -1190,6 +1190,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
