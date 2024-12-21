@@ -1314,6 +1314,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1382,6 +1389,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1441,6 +1455,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1813,6 +1834,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1888,6 +1916,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1956,6 +1991,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2038,6 +2080,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2111,6 +2160,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2195,6 +2251,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2270,6 +2333,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2343,6 +2413,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2432,6 +2509,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3929,6 +4013,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3997,6 +4088,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4056,6 +4154,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -4456,6 +4561,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4531,6 +4643,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4599,6 +4718,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4681,6 +4807,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4761,6 +4894,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -4852,6 +4992,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4934,6 +5081,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5007,6 +5161,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -5096,6 +5257,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -6615,6 +6783,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6683,6 +6858,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6742,6 +6924,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -7038,6 +7227,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7113,6 +7309,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7181,6 +7384,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7263,6 +7473,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7343,6 +7560,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -7434,6 +7658,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7516,6 +7747,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7589,6 +7827,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -7678,6 +7923,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -9143,6 +9395,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9211,6 +9470,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9270,6 +9536,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -9609,6 +9882,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9684,6 +9964,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9752,6 +10039,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9834,6 +10128,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9914,6 +10215,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -10005,6 +10313,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10087,6 +10402,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10160,6 +10482,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -10249,6 +10578,13 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]燎照之騎",
+                    "type": "加成",
+                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
