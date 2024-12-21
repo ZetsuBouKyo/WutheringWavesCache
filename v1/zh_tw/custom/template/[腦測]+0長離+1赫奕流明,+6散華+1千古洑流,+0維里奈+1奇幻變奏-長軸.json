@@ -784,6 +784,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1396,6 +1403,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1923,6 +1937,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2169,6 +2190,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3246,6 +3274,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4095,6 +4130,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4650,6 +4692,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4903,6 +4952,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5994,6 +6050,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6865,6 +6928,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7316,6 +7386,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7569,6 +7646,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8606,6 +8690,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9477,6 +9568,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9971,6 +10069,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10224,6 +10329,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
