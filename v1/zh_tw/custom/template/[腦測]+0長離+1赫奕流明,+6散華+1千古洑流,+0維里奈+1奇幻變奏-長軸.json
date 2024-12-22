@@ -423,6 +423,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -463,6 +470,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -510,6 +524,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -557,6 +578,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -611,6 +639,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -665,6 +700,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -719,6 +761,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1654,6 +1703,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1715,6 +1771,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1769,6 +1832,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2653,6 +2723,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2707,6 +2784,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2768,6 +2852,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2827,6 +2918,13 @@
                     "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
                     "type": "加深",
                     "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
                     "stack": "1",
                     "duration": "10"
                 }
@@ -2890,6 +2988,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2958,6 +3063,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3026,6 +3138,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3094,6 +3213,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3162,6 +3288,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3223,6 +3356,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4430,6 +4570,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4498,6 +4645,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4559,6 +4713,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5572,6 +5733,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5631,6 +5799,13 @@
                     "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
                     "type": "加深",
                     "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
                     "stack": "1",
                     "duration": "10"
                 }
@@ -5694,6 +5869,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5762,6 +5944,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5830,6 +6019,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5898,6 +6094,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5966,6 +6169,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6027,6 +6237,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7152,6 +7369,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7220,6 +7444,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7281,6 +7512,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8179,6 +8417,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8240,6 +8485,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8299,6 +8551,13 @@
                     "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
                     "type": "加深",
                     "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
                     "stack": "1",
                     "duration": "10"
                 }
@@ -8362,6 +8621,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8430,6 +8696,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8498,6 +8771,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8566,6 +8846,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8634,6 +8921,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8695,6 +8989,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9863,6 +10164,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9931,6 +10239,13 @@
                     "value": "1.0",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9992,6 +10307,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10890,6 +11212,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
