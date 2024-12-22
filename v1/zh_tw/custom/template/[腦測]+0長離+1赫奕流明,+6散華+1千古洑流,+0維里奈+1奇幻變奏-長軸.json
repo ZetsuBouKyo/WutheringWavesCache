@@ -2822,6 +2822,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5619,6 +5626,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8280,6 +8294,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
