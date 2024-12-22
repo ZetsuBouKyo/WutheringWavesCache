@@ -300,7 +300,7 @@
                     "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
                     "type": "攻擊百分比",
                     "value": "0.12",
-                    "stack": "1",
+                    "stack": "2",
                     "duration": ""
                 }
             ],
@@ -459,6 +459,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -492,6 +499,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -525,6 +539,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -789,7 +810,7 @@
             "action": "協同攻擊",
             "skill_id": "審判之雷傷害",
             "skill_bonus_type": "",
-            "hit": "11",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
@@ -818,6 +839,128 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "吟霖",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "審判之雷傷害",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "吟霖",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "審判之雷傷害",
+            "skill_bonus_type": "",
+            "hit": "8",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -858,6 +1001,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1049,6 +1206,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比]掣傀之手-1諧振-不在場",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
