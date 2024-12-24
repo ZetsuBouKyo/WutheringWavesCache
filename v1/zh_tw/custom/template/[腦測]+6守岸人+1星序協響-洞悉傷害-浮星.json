@@ -23,13 +23,14 @@
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "生命",
-            "resonator_skill_bonus": "共鳴解放",
-            "resonator_echo_1": "鳴鐘之龜",
-            "resonator_echo_sonata_1": "隱世回光",
-            "resonator_echo_sonata_2": "隱世回光",
-            "resonator_echo_sonata_3": "隱世回光",
-            "resonator_echo_sonata_4": "隱世回光",
-            "resonator_echo_sonata_5": "隱世回光"
+            "resonator_skill_bonus": "",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "哀聲鷙",
+            "resonator_echo_sonata_1": "浮星祛暗",
+            "resonator_echo_sonata_2": "浮星祛暗",
+            "resonator_echo_sonata_3": "浮星祛暗",
+            "resonator_echo_sonata_4": "浮星祛暗",
+            "resonator_echo_sonata_5": "浮星祛暗"
         },
         {
             "resonator_name": "",
@@ -40,6 +41,7 @@
             "resonator_inherent_skill_2": null,
             "resonator_base_attr": "",
             "resonator_skill_bonus": "",
+            "resonator_energy_regen": "",
             "resonator_echo_1": "",
             "resonator_echo_sonata_1": "",
             "resonator_echo_sonata_2": "",
@@ -56,6 +58,7 @@
             "resonator_inherent_skill_2": null,
             "resonator_base_attr": "",
             "resonator_skill_bonus": "",
+            "resonator_energy_regen": "",
             "resonator_echo_1": "",
             "resonator_echo_sonata_1": "",
             "resonator_echo_sonata_2": "",
@@ -83,9 +86,16 @@
                     "duration": ""
                 },
                 {
-                    "name": "[加成-全部]鳴鐘之龜",
+                    "name": "[共鳴解放-自己]哀聲鷙",
                     "type": "加成",
-                    "value": "0.1",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
                     "stack": "1",
                     "duration": "15"
                 },
