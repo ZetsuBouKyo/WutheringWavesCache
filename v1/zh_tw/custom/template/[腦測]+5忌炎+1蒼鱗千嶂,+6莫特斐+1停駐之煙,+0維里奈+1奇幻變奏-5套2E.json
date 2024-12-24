@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+4忌炎+1蒼鱗千嶂,+6莫特斐+1停駐之煙,+0維里奈+1奇幻變奏-5套2E",
+    "id": "[腦測]+5忌炎+1蒼鱗千嶂,+6莫特斐+1停駐之煙,+0維里奈+1奇幻變奏-5套2E",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "忌炎",
-            "resonator_chain": "4",
+            "resonator_chain": "5",
             "resonator_weapon_name": "蒼鱗千嶂",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
