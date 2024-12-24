@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+2今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
+    "id": "[腦測]+3今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "今汐",
-            "resonator_chain": "2",
+            "resonator_chain": "3",
             "resonator_weapon_name": "時和歲稔",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
