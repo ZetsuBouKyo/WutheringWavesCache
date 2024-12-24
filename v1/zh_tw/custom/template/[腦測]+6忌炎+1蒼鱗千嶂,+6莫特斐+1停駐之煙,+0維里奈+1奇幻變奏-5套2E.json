@@ -3025,6 +3025,13 @@
                     "value": "0.03",
                     "stack": "15",
                     "duration": "8"
+                },
+                {
+                    "name": "[倍率-自己]忌炎-共鳴鏈6-銳意之勢",
+                    "type": "倍率",
+                    "value": "1.2",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
