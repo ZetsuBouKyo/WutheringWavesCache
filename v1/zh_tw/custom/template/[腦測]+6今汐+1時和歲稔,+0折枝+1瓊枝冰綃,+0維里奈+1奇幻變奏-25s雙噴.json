@@ -1233,6 +1233,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1329,6 +1336,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1425,6 +1439,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[招式倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "招式倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3770,6 +3791,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3887,6 +3915,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4004,6 +4039,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[招式倍率-自己]今汐-共鳴鏈6-寒盡又逢春",
+                    "type": "招式倍率",
+                    "value": "0.45",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
