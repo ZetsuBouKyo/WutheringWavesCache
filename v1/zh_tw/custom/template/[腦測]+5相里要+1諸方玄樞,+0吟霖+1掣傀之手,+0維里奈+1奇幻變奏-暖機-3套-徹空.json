@@ -1321,13 +1321,6 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "8"
-                },
-                {
-                    "name": "[共鳴解放-全部]相里要-共鳴鏈4-再塑的軀骸",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
