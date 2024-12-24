@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0相里要+1諸方玄樞,+0吟霖+1掣傀之手,+0維里奈+1奇幻變奏-暖機-3套",
+    "id": "[腦測]+0相里要+1諸方玄樞,+0吟霖+1掣傀之手,+0維里奈+1奇幻變奏-暖機-3套-不絕",
     "labels": [
         {
             "name": "",
@@ -7,11 +7,11 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 徹空-暴傷頭-2屬",
+    "test_resonator_id_1": "理論1 0鏈 90相里要 1振 90諸方玄樞 不絕-暴傷頭-2屬",
     "test_resonator_id_2": "理論1 0鏈 90吟霖 1振 90掣傀之手 輕雲-暴傷頭-2屬",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
-    "duration_1": "27",
-    "duration_2": "32",
+    "duration_1": "26",
+    "duration_2": "31",
     "monster_id": "90等抗性20白板",
     "description": "https://forum.gamer.com.tw/C.php?bsn=74934&snA=5634",
     "resonators": [
@@ -25,12 +25,12 @@
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "共鳴解放",
             "resonator_energy_regen": "",
-            "resonator_echo_1": "朔雷之鱗",
-            "resonator_echo_sonata_1": "徹空冥雷",
-            "resonator_echo_sonata_2": "徹空冥雷",
-            "resonator_echo_sonata_3": "徹空冥雷",
-            "resonator_echo_sonata_4": "徹空冥雷",
-            "resonator_echo_sonata_5": "徹空冥雷"
+            "resonator_echo_1": "聚械機偶",
+            "resonator_echo_sonata_1": "不絕餘音",
+            "resonator_echo_sonata_2": "不絕餘音",
+            "resonator_echo_sonata_3": "不絕餘音",
+            "resonator_echo_sonata_4": "不絕餘音",
+            "resonator_echo_sonata_5": "不絕餘音"
         },
         {
             "resonator_name": "吟霖",
@@ -78,13 +78,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "15"
-                },
                 {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
@@ -915,7 +908,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "聲骸",
-            "skill_id": "五星 朔雷之鱗-1",
+            "skill_id": "五星 聚械機偶-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -939,13 +932,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -968,8 +954,8 @@
             "resonator_name": "相里要",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 朔雷之鱗-2",
+            "action": "",
+            "skill_id": "五星 聚械機偶-2",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -995,11 +981,51 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
-                    "value": "0.15",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 聚械機偶-3",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -1029,7 +1055,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:09:98",
+            "time_start": "00:08:65",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1108,7 +1134,7 @@
             "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:10:00",
+            "time_start": "00:08:66",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1153,95 +1179,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-全部]鳴鐘之龜",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[導電-自己]朔雷之鱗",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "重擊",
-            "skill_id": "重擊傷害-1",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
-                    "type": "攻擊百分比",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
-                    "name": "[攻擊百分比-全部]隱世回光-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[加深-全部]維里奈-延奏技能-盛放",
-                    "type": "加深",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[導電-下一位]吟霖-延奏技能-策電",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "14"
-                },
-                {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1270,31 +1207,13 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[重擊-自己]朔雷之鱗",
-                    "type": "加成",
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
             ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "相里要",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1349,13 +1268,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1396,12 +1308,26 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "00:12:00",
+            "time_end": "00:10:66",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -1445,13 +1371,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1485,6 +1404,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1541,13 +1474,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1588,6 +1514,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1644,13 +1584,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1691,11 +1624,25 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:14:72",
+            "time_start": "00:13:38",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1740,13 +1687,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1780,6 +1720,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1829,13 +1783,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1869,6 +1816,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1918,13 +1879,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -1958,6 +1912,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2014,13 +1982,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -2061,11 +2022,25 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:20:32",
+            "time_start": "00:18:98",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2110,13 +2085,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
@@ -2143,6 +2111,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2199,13 +2181,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴解放]諸方玄樞-1諧振",
                     "type": "加成",
                     "value": "0.48",
@@ -2232,6 +2207,20 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2288,13 +2277,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[共鳴解放]諸方玄樞-1諧振",
                     "type": "加成",
                     "value": "0.48",
@@ -2307,11 +2289,25 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:24:91",
+            "time_start": "00:23:57",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2356,23 +2352,37 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[導電-自己]徹空冥雷-5/5",
-                    "type": "加成",
-                    "value": "0.15",
-                    "stack": "2",
-                    "duration": "15"
-                },
-                {
                     "name": "[導電-自己]相里要-固有技能1-睿知",
                     "type": "加成",
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-自己]聚械機偶",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]不絕餘音-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "[延奏-自己]不絕餘音-5/5",
+                    "type": "加成",
+                    "value": "0.6",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:26:66",
+            "time_start": "00:25:32",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
