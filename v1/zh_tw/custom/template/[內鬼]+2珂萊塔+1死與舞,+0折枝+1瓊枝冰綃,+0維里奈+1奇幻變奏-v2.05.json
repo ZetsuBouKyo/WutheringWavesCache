@@ -1944,7 +1944,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆·送葬傷害",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2096,9 +2096,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "死兆·安息傷害",
+            "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "1",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2248,7 +2248,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆·送葬傷害",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2400,9 +2400,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "死兆·安息傷害",
+            "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "1",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2552,7 +2552,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆·送葬傷害",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2704,9 +2704,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "死兆·安息傷害",
+            "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "1",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2856,7 +2856,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆·送葬傷害",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -3008,9 +3008,9 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "",
-            "skill_id": "死兆·安息傷害",
+            "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "1",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
