@@ -1,5 +1,5 @@
 {
-    "id": "[內鬼]+1珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.05",
+    "id": "[內鬼]+2珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.05",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "珂萊塔",
-            "resonator_chain": "1",
+            "resonator_chain": "2",
             "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
