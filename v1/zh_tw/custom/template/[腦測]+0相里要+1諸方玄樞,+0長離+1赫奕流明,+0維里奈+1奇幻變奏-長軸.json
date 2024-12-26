@@ -77,7 +77,22 @@
             "skill_id": "基本推演",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -464,6 +479,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -490,6 +519,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -742,6 +785,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -775,6 +832,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -808,6 +879,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1092,6 +1177,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1125,6 +1224,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1172,6 +1285,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1205,6 +1332,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1245,6 +1379,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1285,6 +1433,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1311,6 +1473,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1337,6 +1513,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1363,6 +1553,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1403,6 +1607,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1429,6 +1647,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1462,6 +1694,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1495,6 +1741,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1511,7 +1771,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "延奏",
-            "skill_id": "鏈式",
+            "skill_id": "鏈式-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -1521,6 +1781,60 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "鏈式-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1723,6 +2037,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2237,6 +2565,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2270,6 +2612,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2303,6 +2659,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2336,6 +2706,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2369,6 +2753,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2606,6 +3004,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2639,6 +3051,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2686,6 +3112,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2719,6 +3159,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2766,6 +3220,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2813,6 +3281,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2839,6 +3321,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2865,6 +3361,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2891,6 +3401,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2931,6 +3455,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2957,6 +3495,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2990,6 +3542,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3023,6 +3589,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3039,7 +3619,47 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "延奏",
-            "skill_id": "鏈式",
+            "skill_id": "鏈式-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "鏈式-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -3049,6 +3669,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3251,6 +3885,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3277,6 +3925,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3812,6 +4474,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3845,6 +4521,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3878,6 +4568,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4115,6 +4819,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4148,6 +4866,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4195,6 +4927,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4228,6 +4974,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4275,6 +5035,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4322,6 +5096,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4348,6 +5136,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4374,6 +5176,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4400,6 +5216,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4440,6 +5270,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4466,6 +5310,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4499,6 +5357,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4532,6 +5404,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4548,7 +5434,47 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "延奏",
-            "skill_id": "鏈式",
+            "skill_id": "鏈式-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "相里要",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "鏈式-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -4558,6 +5484,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4760,6 +5700,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4786,6 +5740,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5321,6 +6289,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5354,6 +6336,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5387,6 +6383,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5624,6 +6634,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5657,6 +6681,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5704,6 +6742,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5737,6 +6789,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5784,6 +6850,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5831,6 +6911,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5864,6 +6958,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5897,6 +7005,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5923,6 +7045,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5963,6 +7099,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5989,6 +7139,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6022,6 +7186,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6055,6 +7233,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[導電-自己]徹空冥雷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[導電-自己]相里要-固有技能1-睿知",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
