@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+5長離+1赫奕流明,+6散華+1千古洑流,+0維里奈+1奇幻變奏-長軸",
+    "id": "[腦測]+6長離+1赫奕流明,+6散華+1千古洑流,+0維里奈+1奇幻變奏-長軸",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "長離",
-            "resonator_chain": "5",
+            "resonator_chain": "6",
             "resonator_weapon_name": "赫奕流明",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
