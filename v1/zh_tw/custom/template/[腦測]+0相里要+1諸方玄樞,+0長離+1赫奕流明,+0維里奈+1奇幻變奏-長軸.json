@@ -260,7 +260,15 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -278,7 +286,22 @@
             "skill_id": "擴繁試驗",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:03:25",
@@ -354,6 +377,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -387,6 +424,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -420,6 +471,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -453,6 +518,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -493,6 +572,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -533,6 +626,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -595,6 +702,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -621,6 +742,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -672,6 +807,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -712,6 +861,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -749,6 +912,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -799,6 +976,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -846,6 +1037,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -893,6 +1098,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -930,6 +1149,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -973,6 +1206,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1013,6 +1260,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1050,6 +1311,27 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -1086,6 +1368,27 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1126,6 +1429,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1191,6 +1522,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1238,6 +1583,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1299,6 +1658,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1339,6 +1712,20 @@
                     "value": "0.15",
                     "stack": "2",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1393,6 +1780,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1447,6 +1848,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1487,6 +1902,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1527,6 +1956,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1567,6 +2010,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1621,6 +2078,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1661,6 +2132,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1708,6 +2186,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1755,6 +2240,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1795,6 +2287,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1835,6 +2334,13 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1858,6 +2364,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -1894,6 +2407,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1924,6 +2444,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -1960,6 +2487,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1990,6 +2524,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2051,6 +2592,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2081,6 +2629,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2117,6 +2672,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2147,6 +2709,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2183,6 +2752,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2206,6 +2782,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2235,6 +2818,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2261,6 +2851,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2284,6 +2881,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2375,6 +2986,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2401,6 +3026,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2452,6 +3091,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2492,6 +3145,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2529,6 +3196,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2579,6 +3260,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2626,6 +3321,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2673,6 +3382,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2720,6 +3443,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2767,6 +3504,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2807,6 +3558,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2837,6 +3602,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2877,6 +3656,27 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -2913,6 +3713,27 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2953,6 +3774,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3018,6 +3867,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3065,6 +3928,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3126,6 +4003,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3173,6 +4064,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3234,6 +4139,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3295,6 +4214,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3335,6 +4268,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3375,6 +4322,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3415,6 +4376,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3469,6 +4444,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3509,6 +4498,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3556,6 +4559,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3603,6 +4620,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3643,6 +4667,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3683,6 +4714,13 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3706,6 +4744,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -3742,6 +4787,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3772,6 +4824,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -3808,6 +4867,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3838,6 +4904,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -3899,6 +4972,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3939,6 +5019,13 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3969,6 +5056,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4005,6 +5099,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4035,6 +5136,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4071,6 +5179,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4094,6 +5209,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4123,6 +5245,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4149,6 +5278,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4172,6 +5308,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4277,6 +5427,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4307,6 +5471,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4361,6 +5539,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4401,6 +5593,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4438,6 +5644,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4488,6 +5708,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4535,6 +5769,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4582,6 +5830,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4622,6 +5884,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4652,6 +5928,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4692,6 +5982,27 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -4728,6 +6039,27 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4768,6 +6100,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4833,6 +6193,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4880,6 +6254,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4941,6 +6329,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4988,6 +6390,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5049,6 +6465,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5110,6 +6540,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5150,6 +6594,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5190,6 +6648,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5230,6 +6702,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5284,6 +6770,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5324,6 +6824,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5371,6 +6885,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5418,6 +6946,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5458,6 +6993,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5498,6 +7040,13 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5521,6 +7070,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5557,6 +7113,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5587,6 +7150,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5623,6 +7193,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5653,6 +7230,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5714,6 +7298,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5754,6 +7345,13 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5784,6 +7382,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5820,6 +7425,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5850,6 +7462,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5886,6 +7505,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5909,6 +7535,13 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -5938,6 +7571,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5964,6 +7604,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5987,6 +7634,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -6092,6 +7753,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6122,6 +7797,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -6176,6 +7865,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6216,6 +7919,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6253,6 +7970,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -6303,6 +8034,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6350,6 +8095,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6397,6 +8156,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6437,6 +8210,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6467,6 +8254,20 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -6507,6 +8308,27 @@
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
@@ -6543,6 +8365,27 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6583,6 +8426,34 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6648,6 +8519,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6695,6 +8580,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6756,6 +8655,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6803,6 +8716,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6864,6 +8791,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6925,6 +8866,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6972,6 +8927,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7019,6 +8988,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7059,6 +9042,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7113,6 +9110,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7153,6 +9164,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7200,6 +9225,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7247,6 +9286,13 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
