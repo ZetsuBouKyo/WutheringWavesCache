@@ -13,7 +13,7 @@
     "duration_1": "120",
     "duration_2": "124",
     "monster_id": "90等抗性20白板",
-    "description": "",
+    "description": "https://www.youtube.com/watch?v=H3IOXaMVL74",
     "resonators": [
         {
             "resonator_name": "相里要",
@@ -110,13 +110,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "心眼·劫傷害",
+            "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "5",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:00:60",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "6",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -254,13 +314,99 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "心眼·征傷害",
+            "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:35",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-2",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-3",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -419,7 +565,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -437,7 +591,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:08:49",
@@ -509,7 +671,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:11:69",
@@ -527,7 +697,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -545,7 +723,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -563,7 +749,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -599,7 +793,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -671,7 +873,15 @@
             "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:18:58",
@@ -707,7 +917,15 @@
             "skill_id": "解裂重構傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -725,7 +943,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:21:40",
@@ -797,7 +1023,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:93",
@@ -905,7 +1139,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -920,13 +1162,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "心眼·劫傷害",
+            "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:99",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -974,13 +1276,99 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "入場",
-            "skill_id": "心眼·征傷害",
+            "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:22",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-2",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-3",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1193,7 +1581,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1211,7 +1607,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:40:46",
@@ -1319,7 +1723,15 @@
             "skill_id": "心眼·衝傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:44:39",
@@ -1355,7 +1767,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1391,7 +1811,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1463,7 +1891,15 @@
             "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:49:30",
@@ -1499,7 +1935,15 @@
             "skill_id": "解裂重構傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1517,7 +1961,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:52:19",
@@ -1589,7 +2041,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:56:65",
@@ -1697,7 +2157,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1712,13 +2180,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "心眼·劫傷害",
+            "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:01:96",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1784,13 +2312,99 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "入場",
-            "skill_id": "心眼·征傷害",
+            "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:03:79",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-2",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-3",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2003,7 +2617,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2021,7 +2643,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:09:43",
@@ -2093,7 +2723,15 @@
             "skill_id": "心眼·衝傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:13:03",
@@ -2129,7 +2767,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2165,7 +2811,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2237,7 +2891,15 @@
             "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2273,7 +2935,15 @@
             "skill_id": "解裂重構傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2291,7 +2961,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:21:87",
@@ -2363,7 +3041,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:26:31",
@@ -2471,7 +3157,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2486,13 +3180,73 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "心眼·劫傷害",
+            "skill_id": "心眼·劫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:32:13",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-1",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·劫傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2558,13 +3312,99 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "入場",
-            "skill_id": "心眼·征傷害",
+            "skill_id": "心眼·征傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:33:72",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-2",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-3",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "心眼·征傷害-4",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "11",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2777,7 +3617,15 @@
             "skill_id": "心眼·衝傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2795,7 +3643,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2867,7 +3723,15 @@
             "skill_id": "心眼·衝傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:42:47",
@@ -2903,7 +3767,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2939,7 +3811,15 @@
             "skill_id": "焚身以火",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3011,7 +3891,15 @@
             "skill_id": "思維矩陣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3047,7 +3935,15 @@
             "skill_id": "解裂重構傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3065,7 +3961,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:50:30",
@@ -3137,7 +4041,15 @@
             "skill_id": "萬方法則傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:54:56",
