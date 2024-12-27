@@ -10,8 +10,8 @@
     "test_resonator_id_1": "理論1 0鏈 90珂萊塔 1振 90死與舞 暴擊頭-2屬",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
-    "duration_1": "28",
-    "duration_2": "32",
+    "duration_1": "25",
+    "duration_2": "30",
     "monster_id": "90等抗性20白板",
     "description": "第一噴今汐5s左右\n\nhttps://youtu.be/AxZ5MIk4D-I",
     "resonators": [
@@ -1700,6 +1700,13 @@
                     "value": "0.125",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "倍率",
+                    "value": "0.93",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1822,6 +1829,13 @@
                     "name": "[暴擊-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
                     "type": "暴擊",
                     "value": "0.125",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "倍率",
+                    "value": "0.93",
                     "stack": "1",
                     "duration": ""
                 }
@@ -3478,6 +3492,13 @@
                     "name": "[暴擊-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
                     "type": "暴擊",
                     "value": "0.125",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[招式倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "招式倍率",
+                    "value": "10.3218",
                     "stack": "1",
                     "duration": ""
                 }

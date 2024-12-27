@@ -1,5 +1,5 @@
 {
-    "id": "[內鬼]+1珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.06",
+    "id": "[內鬼]+4珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.06",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "珂萊塔",
-            "resonator_chain": "1",
+            "resonator_chain": "4",
             "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -1700,6 +1700,13 @@
                     "value": "0.125",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "倍率",
+                    "value": "0.93",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1822,6 +1829,13 @@
                     "name": "[暴擊-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
                     "type": "暴擊",
                     "value": "0.125",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "倍率",
+                    "value": "0.93",
                     "stack": "1",
                     "duration": ""
                 }
@@ -3370,6 +3384,13 @@
                     "value": "0.125",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
+                    "type": "倍率",
+                    "value": "1.26",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3471,6 +3492,13 @@
                     "name": "[暴擊-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
                     "type": "暴擊",
                     "value": "0.125",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[招式倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
+                    "type": "招式倍率",
+                    "value": "10.3218",
                     "stack": "1",
                     "duration": ""
                 }
