@@ -1,5 +1,5 @@
 {
-    "id": "[內鬼]+6珂萊塔+5死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.05",
+    "id": "[內鬼]+0珂萊塔+1停駐之煙,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-v2.06",
     "labels": [
         {
             "name": "",
@@ -7,19 +7,19 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90珂萊塔 1振 90死與舞 暴擊頭-2屬",
+    "test_resonator_id_1": "",
     "test_resonator_id_2": "理論1 0鏈 90折枝 1振 90瓊枝冰綃 暴擊頭-2屬-輕雲",
     "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
-    "duration_1": "25",
-    "duration_2": "29",
+    "duration_1": "28",
+    "duration_2": "32",
     "monster_id": "90等抗性20白板",
     "description": "第一噴今汐5s左右\n\nhttps://youtu.be/AxZ5MIk4D-I",
     "resonators": [
         {
             "resonator_name": "珂萊塔",
-            "resonator_chain": "6",
-            "resonator_weapon_name": "死與舞",
-            "resonator_weapon_rank": "5",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "停駐之煙",
+            "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": false,
             "resonator_base_attr": "攻擊",
@@ -68,6 +68,171 @@
         }
     ],
     "rows": [
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "普攻第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "普攻第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "必要性手段第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "必要性手段第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "珂萊塔",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "必要性手段第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "舊套裝2/2",
+                    "type": "加成",
+                    "value": "-0.1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "新聲骸-冷凝",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
         {
             "labels": [],
             "resonator_name": "折枝",
@@ -1404,13 +1569,6 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1474,13 +1632,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -1528,27 +1679,6 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
-                    "type": "倍率",
-                    "value": "0.7",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1612,13 +1742,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -1666,27 +1789,6 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
-                    "type": "倍率",
-                    "value": "0.7",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1776,34 +1878,6 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
-                },
-                {
-                    "name": "[倍率-自己]珂萊塔-共鳴鏈5-敬昨夜、今日和彼時彼刻",
-                    "type": "倍率",
-                    "value": "0.4",
-                    "stack": "1",
-                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1867,13 +1941,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -1925,7 +1992,7 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1942,27 +2009,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1979,7 +2025,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "我依然故我，於終幕之上",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2026,13 +2072,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2084,8 +2123,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2101,27 +2140,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2140,7 +2158,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "8",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2185,13 +2203,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2243,8 +2254,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2260,27 +2271,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2297,7 +2287,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "我依然故我，於終幕之上",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2344,13 +2334,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2402,8 +2385,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2419,27 +2402,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2458,7 +2420,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "8",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2503,13 +2465,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2561,8 +2516,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2578,27 +2533,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2615,7 +2549,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "我依然故我，於終幕之上",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2662,13 +2596,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2720,8 +2647,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2737,27 +2664,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2776,7 +2682,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "8",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2821,13 +2727,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -2879,8 +2778,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -2896,27 +2795,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2933,7 +2811,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "我依然故我，於終幕之上",
+            "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2980,13 +2858,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -3038,8 +2909,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -3055,27 +2926,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3094,7 +2944,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "8",
+            "hit": "4",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -3139,13 +2989,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -3197,8 +3040,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -3214,27 +3057,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3298,13 +3120,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]死與舞-5諧振",
-                    "type": "加成",
-                    "value": "0.96",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "舊套裝2/2",
                     "type": "加成",
                     "value": "-0.1",
@@ -3356,8 +3171,8 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.225",
+                    "stack": "1",
                     "duration": ""
                 },
                 {
@@ -3373,27 +3188,6 @@
                     "value": "0.8",
                     "stack": "1",
                     "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[共鳴技能-全部]珂萊塔-共鳴鏈4-以舊雨，為頌讚的苦酒",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "0.3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3487,28 +3281,7 @@
                 {
                     "name": "新套裝5/5-冷凝傷害",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
-                    "duration": ""
-                },
-                {
-                    "name": "[冷凝-自己]珂萊塔-共鳴鏈1-美或死，璀璨即凋零",
-                    "type": "加成",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]珂萊塔-共鳴鏈2-寂與亡，衰敗亦新生",
-                    "type": "暴擊",
-                    "value": "0.25",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[招式倍率-自己]珂萊塔-共鳴鏈3-切步、向前，此為優雅的進行式",
-                    "type": "招式倍率",
-                    "value": "10.3218",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": ""
                 }
