@@ -24,6 +24,7 @@
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
+            "resonator_energy_regen": "",
             "resonator_echo_1": "飛廉之猩",
             "resonator_echo_sonata_1": "嘯谷長風",
             "resonator_echo_sonata_2": "嘯谷長風",
@@ -40,6 +41,7 @@
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "共鳴技能",
+            "resonator_energy_regen": "",
             "resonator_echo_1": "無常凶鷺",
             "resonator_echo_sonata_1": "輕雲出月",
             "resonator_echo_sonata_2": "輕雲出月",
@@ -56,6 +58,7 @@
             "resonator_inherent_skill_2": false,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
+            "resonator_energy_regen": "",
             "resonator_echo_1": "鳴鐘之龜",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
@@ -5009,7 +5012,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "最後的閃避進【霧氣】，把身上的【霧滴】消耗光，切人。"
         },
         {
             "labels": [],
