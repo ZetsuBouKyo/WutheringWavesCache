@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-25s-無延奏",
+    "id": "[腦測]+0椿+1裁春,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-30s-延奏",
     "labels": [
         {
             "name": "",
@@ -2743,8 +2743,8 @@
             "resonator_name": "椿",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "黯蕊獵心傷害-1",
+            "action": "普攻",
+            "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2814,7 +2814,413 @@
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:24:02",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "蔓舞第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外-消耗協奏",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "蔓舞第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "7",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼華蔓舞傷害-1",
+            "skill_bonus_type": "",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "蔓舞第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:28:96",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "黯蕊獵心傷害-1",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2845,18 +3251,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
-                    "type": "攻擊百分比",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
                 },
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -2868,7 +3274,7 @@
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:24:30",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2899,9 +3305,56 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
-                    "value": "0.2",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "纏繞",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "20"
                 },
@@ -2911,6 +3364,67 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-自己]沉日劫明-5/5",
+                    "type": "加成",
+                    "value": "0.075",
+                    "stack": "4",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "椿",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "一日花-纏繞",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]裁春-1諧振-終始之外",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "14"
                 },
                 {
                     "name": "[湮滅-自己]沉日劫明-5/5",
@@ -2933,14 +3447,36 @@
             "resonator_name": "散華",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "入場",
-            "skill_id": "",
+            "action": "變奏",
+            "skill_id": "凜刺",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:24:72",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
