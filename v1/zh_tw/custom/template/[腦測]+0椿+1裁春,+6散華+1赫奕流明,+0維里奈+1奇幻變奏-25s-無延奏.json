@@ -128,10 +128,18 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴技能",
-            "skill_id": "",
+            "skill_id": "朔雪永凍",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "5",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:17",
@@ -146,7 +154,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "",
+            "skill_id": "焦瞑凍土",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [],
@@ -164,7 +172,103 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "",
+            "skill_id": "爆裂傷害-1",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰棱爆炸傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰川爆炸傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰川爆炸傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [],
@@ -369,6 +473,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:06:49",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "散華",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "冰棘爆炸傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -642,7 +772,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "一套普攻、普攻、重擊，打滿【燼華蔓舞】，再補兩下【蔓舞】，可以湊滿一日花需要的協奏能量。\n【含苞狀態】的能量差不多夠打一套【蔓舞】、打滿【燼華蔓舞】，再補兩下【蔓舞】。\n整個特殊能量條共41格。\n【蔓舞第一段】消耗3格。\n【蔓舞第二段】消耗2x2，共4格。\n【蔓舞第三段】消耗4格。\n一套【蔓舞】、打滿【燼華蔓舞】，共消耗32格。"
         },
         {
             "labels": [],
@@ -653,7 +783,22 @@
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:18:40",
@@ -671,7 +816,22 @@
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -689,7 +849,22 @@
             "skill_id": "蔓舞第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -707,7 +882,22 @@
             "skill_id": "燼華蔓舞傷害-1",
             "skill_bonus_type": "",
             "hit": "7",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -725,7 +915,22 @@
             "skill_id": "燼華蔓舞傷害-1",
             "skill_bonus_type": "",
             "hit": "6",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -743,7 +948,22 @@
             "skill_id": "燼華蔓舞傷害-1",
             "skill_bonus_type": "",
             "hit": "6",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -761,7 +981,22 @@
             "skill_id": "蔓舞第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:22:73",
@@ -779,7 +1014,22 @@
             "skill_id": "黯蕊獵心傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-紅椿·蕾",
+                    "type": "倍率",
+                    "value": "0.05",
+                    "stack": "10",
+                    "duration": "15"
+                },
+                {
+                    "name": "[倍率-自己]椿-共鳴回路-酣夢",
+                    "type": "倍率",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:24:02",
