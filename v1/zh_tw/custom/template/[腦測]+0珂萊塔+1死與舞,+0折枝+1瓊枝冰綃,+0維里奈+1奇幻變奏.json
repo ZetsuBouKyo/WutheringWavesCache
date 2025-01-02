@@ -401,7 +401,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:08:58",
@@ -419,7 +427,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:09:36",
@@ -689,7 +705,22 @@
             "skill_id": "入冬嘆調",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:17:89",
@@ -707,7 +738,36 @@
             "skill_id": "重擊·末路見行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:19:22",
@@ -725,7 +785,43 @@
             "skill_id": "新浪潮時代",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:85",
@@ -743,7 +839,43 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:93",
@@ -761,7 +893,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -779,7 +947,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -797,7 +1001,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -815,7 +1055,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -833,7 +1109,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -851,7 +1163,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -869,7 +1217,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -887,7 +1271,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -905,7 +1325,43 @@
             "skill_id": "致死以終傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:26:46",
@@ -923,7 +1379,22 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -941,7 +1412,22 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -959,7 +1445,22 @@
             "skill_id": "必要性手段第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -977,7 +1478,22 @@
             "skill_id": "必要性手段第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -995,7 +1511,22 @@
             "skill_id": "必要性手段第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1013,7 +1544,22 @@
             "skill_id": "致辭",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1211,7 +1757,15 @@
             "skill_id": "入場-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:13",
@@ -1229,7 +1783,15 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1247,7 +1809,15 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1265,7 +1835,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:35:26",
@@ -1283,7 +1861,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:36:02",
@@ -1517,7 +2103,22 @@
             "skill_id": "入冬嘆調",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:44:23",
@@ -1535,7 +2136,36 @@
             "skill_id": "重擊·末路見行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:66",
@@ -1553,7 +2183,43 @@
             "skill_id": "新浪潮時代",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:24",
@@ -1571,7 +2237,43 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:27",
@@ -1589,7 +2291,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1607,7 +2345,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1625,7 +2399,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1643,7 +2453,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1661,7 +2507,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1679,7 +2561,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1697,7 +2615,43 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1715,7 +2669,43 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1733,7 +2723,43 @@
             "skill_id": "致死以終傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:52:84",
@@ -1751,7 +2777,22 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1769,7 +2810,22 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1787,7 +2843,22 @@
             "skill_id": "必要性手段第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1805,7 +2876,22 @@
             "skill_id": "必要性手段第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1823,7 +2909,22 @@
             "skill_id": "必要性手段第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1841,7 +2942,22 @@
             "skill_id": "致辭",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:55:05",
