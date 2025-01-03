@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0珂萊塔+1停駐之煙,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
+    "id": "[腦測]+0珂萊塔+1無眠烈火,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
     "labels": [
         {
             "name": "",
@@ -18,7 +18,7 @@
         {
             "resonator_name": "珂萊塔",
             "resonator_chain": "0",
-            "resonator_weapon_name": "停駐之煙",
+            "resonator_weapon_name": "無眠烈火",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -2064,6 +2064,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2167,6 +2174,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2263,6 +2277,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2359,6 +2380,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2455,6 +2483,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2551,6 +2586,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2647,6 +2689,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2743,6 +2792,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2839,6 +2895,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2935,6 +2998,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3031,6 +3101,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3127,6 +3204,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3624,13 +3708,6 @@
                     "value": "0.06",
                     "stack": "3",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3721,13 +3798,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3789,13 +3859,6 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4141,13 +4204,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4638,13 +4694,6 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4713,13 +4762,6 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "6"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4788,13 +4830,6 @@
                     "value": "0.12",
                     "stack": "2",
                     "duration": "6"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5046,13 +5081,6 @@
                     "value": "0.06",
                     "stack": "3",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5107,13 +5135,6 @@
                     "value": "0.06",
                     "stack": "3",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5168,13 +5189,6 @@
                     "value": "0.06",
                     "stack": "3",
                     "duration": "27"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5243,13 +5257,6 @@
                     "value": "0.12",
                     "stack": "2",
                     "duration": "6"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5318,13 +5325,6 @@
                     "value": "0.12",
                     "stack": "3",
                     "duration": "6"
-                },
-                {
-                    "name": "[攻擊百分比]停駐之煙-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5711,6 +5711,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5814,6 +5821,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5910,6 +5924,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6006,6 +6027,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6102,6 +6130,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6198,6 +6233,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6294,6 +6336,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6390,6 +6439,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6486,6 +6542,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6582,6 +6645,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6678,6 +6748,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6774,6 +6851,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
