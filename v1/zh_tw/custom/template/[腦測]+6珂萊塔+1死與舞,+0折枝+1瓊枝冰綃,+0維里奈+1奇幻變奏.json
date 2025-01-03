@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+4珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
+    "id": "[腦測]+6珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "珂萊塔",
-            "resonator_chain": "4",
+            "resonator_chain": "6",
             "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -2016,6 +2016,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈5-敬昨夜、今日和彼時彼刻",
+                    "type": "倍率",
+                    "value": "0.47",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2280,7 +2287,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2399,7 +2406,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -2514,7 +2521,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2633,7 +2640,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -2748,7 +2755,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2867,7 +2874,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -2982,7 +2989,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -3101,7 +3108,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -5533,6 +5540,13 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴鏈5-敬昨夜、今日和彼時彼刻",
+                    "type": "倍率",
+                    "value": "0.47",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5797,7 +5811,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -5916,7 +5930,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -6031,7 +6045,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -6150,7 +6164,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -6265,7 +6279,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -6384,7 +6398,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
@@ -6499,7 +6513,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "普攻",
-            "skill_id": "死兆-1",
+            "skill_id": "我依然故我，於終幕之上",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -6618,7 +6632,7 @@
             "action": "",
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
-            "hit": "4",
+            "hit": "8",
             "buffs": [
                 {
                     "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
