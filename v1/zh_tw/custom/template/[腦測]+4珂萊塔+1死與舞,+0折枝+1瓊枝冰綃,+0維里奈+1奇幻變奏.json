@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+3珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
+    "id": "[腦測]+4珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "珂萊塔",
-            "resonator_chain": "3",
+            "resonator_chain": "4",
             "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
