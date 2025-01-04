@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0珂萊塔+1無眠烈火,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-EE起手",
+    "id": "[腦測]+0珂萊塔+1死與舞,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-EE起手-凝夜白霜",
     "labels": [
         {
             "name": "",
@@ -18,19 +18,19 @@
         {
             "resonator_name": "珂萊塔",
             "resonator_chain": "0",
-            "resonator_weapon_name": "無眠烈火",
+            "resonator_weapon_name": "死與舞",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "共鳴技能",
             "resonator_energy_regen": "",
-            "resonator_echo_1": "異構武裝",
-            "resonator_echo_sonata_1": "凌冽決斷之心",
-            "resonator_echo_sonata_2": "凌冽決斷之心",
-            "resonator_echo_sonata_3": "凌冽決斷之心",
-            "resonator_echo_sonata_4": "凌冽決斷之心",
-            "resonator_echo_sonata_5": "凌冽決斷之心"
+            "resonator_echo_1": "輝螢軍勢",
+            "resonator_echo_sonata_1": "凝夜白霜",
+            "resonator_echo_sonata_2": "凝夜白霜",
+            "resonator_echo_sonata_3": "凝夜白霜",
+            "resonator_echo_sonata_4": "凝夜白霜",
+            "resonator_echo_sonata_5": "凝夜白霜"
         },
         {
             "resonator_name": "折枝",
@@ -77,15 +77,7 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:00:41",
@@ -103,15 +95,7 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:17",
@@ -1578,13 +1562,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -1651,13 +1628,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -1782,18 +1752,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -1843,13 +1813,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
-                    "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1993,18 +1956,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2054,13 +2017,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
-                    "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2204,13 +2160,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -2258,6 +2207,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2354,18 +2310,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2417,10 +2373,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -2593,9 +2549,9 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "5"
                 },
@@ -2605,13 +2561,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2663,10 +2612,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -2771,10 +2720,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -2783,13 +2732,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2841,10 +2783,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -2881,10 +2823,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -2893,13 +2835,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2951,10 +2886,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3052,10 +2987,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3064,13 +2999,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3115,10 +3043,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3155,10 +3083,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3167,13 +3095,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3218,10 +3139,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3319,10 +3240,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3331,13 +3252,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3382,10 +3296,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3422,10 +3336,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3434,13 +3348,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3485,10 +3392,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3586,10 +3493,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3598,13 +3505,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3649,10 +3549,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3689,10 +3589,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3701,13 +3601,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3752,10 +3645,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3792,10 +3685,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3804,13 +3697,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -3855,10 +3741,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -3949,10 +3835,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -3961,13 +3847,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -4012,10 +3891,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -4045,10 +3924,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -4057,13 +3936,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -4108,10 +3980,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -4141,13 +4013,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -4188,6 +4053,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4216,13 +4088,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -4263,6 +4128,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6236,13 +6108,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -6309,13 +6174,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -6508,18 +6366,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -6569,13 +6427,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
-                    "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6604,18 +6455,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -6665,13 +6516,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
-                    "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6836,13 +6680,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -6890,6 +6727,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6986,18 +6830,18 @@
                     "duration": "14"
                 },
                 {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
                     "name": "[冷凝-下一位]折枝-延奏技能-提白",
                     "type": "加深",
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7049,10 +6893,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7157,9 +7001,9 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "5"
                 },
@@ -7169,13 +7013,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7227,10 +7064,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7267,10 +7104,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7279,13 +7116,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7337,10 +7167,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7377,10 +7207,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7389,13 +7219,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7447,10 +7270,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7487,10 +7310,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7499,13 +7322,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7550,10 +7366,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7590,10 +7406,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7602,13 +7418,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7653,10 +7462,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7693,10 +7502,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7705,13 +7514,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7756,10 +7558,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -7796,10 +7598,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -7808,13 +7610,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -7859,10 +7654,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8082,10 +7877,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -8094,13 +7889,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -8145,10 +7933,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8185,10 +7973,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -8197,13 +7985,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -8248,10 +8029,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8288,10 +8069,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -8300,13 +8081,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -8351,10 +8125,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8384,10 +8158,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -8396,13 +8170,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -8447,10 +8214,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8541,10 +8308,10 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "name": "[共鳴技能]死與舞-1諧振",
                     "type": "加成",
-                    "value": "0.18",
-                    "stack": "2",
+                    "value": "0.48",
+                    "stack": "1",
                     "duration": "5"
                 },
                 {
@@ -8553,13 +8320,6 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
                 },
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -8604,10 +8364,10 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]無眠烈火-1諧振",
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
                     "type": "加成",
-                    "value": "0.2",
-                    "stack": "1",
+                    "value": "0.1",
+                    "stack": "2",
                     "duration": "15"
                 }
             ],
@@ -8698,13 +8458,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -8738,6 +8491,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8766,13 +8526,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
-                    "type": "加成",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -8806,6 +8559,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
