@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1紋秋,+0維里奈+1奇幻變奏-攻擊",
+    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1紋秋,+0維里奈+1奇幻變奏-防禦",
     "labels": [
         {
             "name": "",
@@ -39,7 +39,7 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_base_attr": "攻擊",
+            "resonator_base_attr": "防禦",
             "resonator_skill_bonus": "普攻",
             "resonator_energy_regen": "",
             "resonator_echo_1": "無常凶鷺",

@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1紋秋,+0維里奈+1奇幻變奏-攻擊",
+    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1永夜長明,+0維里奈+1奇幻變奏-防禦",
     "labels": [
         {
             "name": "",
@@ -35,11 +35,11 @@
         {
             "resonator_name": "桃祈",
             "resonator_chain": "6",
-            "resonator_weapon_name": "紋秋",
+            "resonator_weapon_name": "永夜長明",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_base_attr": "攻擊",
+            "resonator_base_attr": "防禦",
             "resonator_skill_bonus": "普攻",
             "resonator_energy_regen": "",
             "resonator_echo_1": "無常凶鷺",
@@ -129,15 +129,7 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "1",
-                    "duration": "7"
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:51",
@@ -300,13 +292,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "2",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -347,13 +332,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "2",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -394,13 +372,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -561,13 +532,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "4",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -608,13 +572,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "4",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -655,13 +612,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "5",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -845,11 +795,11 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[攻擊百分比]紋秋-1諧振",
+                    "name": "[攻擊百分比]永夜長明-1諧振",
                     "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "4",
-                    "duration": "7"
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -883,6 +833,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[防禦百分比]永夜長明-1諧振",
+                    "type": "防禦百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -916,6 +873,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[防禦百分比]永夜長明-1諧振",
+                    "type": "防禦百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -963,6 +927,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]永夜長明-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2982,13 +2953,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3036,13 +3000,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3090,13 +3047,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "4",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3415,13 +3365,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "3",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3535,13 +3478,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
-                },
-                {
-                    "name": "[攻擊百分比]紋秋-1諧振",
-                    "type": "攻擊百分比",
-                    "value": "0.04",
-                    "stack": "2",
-                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
