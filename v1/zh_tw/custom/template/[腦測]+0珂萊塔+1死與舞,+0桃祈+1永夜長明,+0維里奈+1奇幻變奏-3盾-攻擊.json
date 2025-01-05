@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1永夜長明,+0維里奈+1奇幻變奏-防禦",
+    "id": "[腦測]+0珂萊塔+1死與舞,+0桃祈+1永夜長明,+0維里奈+1奇幻變奏-3盾-攻擊",
     "labels": [
         {
             "name": "",
@@ -39,7 +39,7 @@
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
-            "resonator_base_attr": "防禦",
+            "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
             "resonator_energy_regen": "",
             "resonator_echo_1": "無常凶鷺",
@@ -147,7 +147,22 @@
             "skill_id": "不動如山",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊-自己]桃祈-共鳴鏈2-假泯於眾人",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]桃祈-共鳴鏈2-假泯於眾人",
+                    "type": "暴擊傷害",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:02:22",
@@ -292,6 +307,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -332,6 +354,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -372,6 +401,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -532,6 +568,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -572,6 +615,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -612,6 +662,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -840,6 +897,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -880,6 +951,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2693,6 +2778,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2719,6 +2818,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2745,6 +2858,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2771,6 +2891,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]桃祈-共鳴鏈2-假泯於眾人",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]桃祈-共鳴鏈2-假泯於眾人",
+                    "type": "暴擊傷害",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2953,6 +3087,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3000,6 +3141,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3047,6 +3195,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3398,6 +3553,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3431,6 +3600,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[加成-自己]桃祈-共鳴鏈5-解市井民憂",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-自己]桃祈-共鳴鏈6-護城邦安危",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
