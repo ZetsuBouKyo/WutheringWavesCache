@@ -4574,13 +4574,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4661,13 +4654,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4795,13 +4781,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5026,13 +5005,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5260,13 +5232,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5328,13 +5293,6 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
-                },
-                {
-                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
