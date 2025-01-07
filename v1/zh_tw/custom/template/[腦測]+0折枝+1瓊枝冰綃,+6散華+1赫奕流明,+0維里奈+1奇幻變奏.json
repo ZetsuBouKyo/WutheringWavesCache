@@ -4016,7 +4016,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "暖機結束，循環開始。"
         },
         {
             "labels": [],
@@ -4048,6 +4048,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4109,6 +4116,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4149,6 +4163,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8320,7 +8341,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "接循環軸。"
         }
     ]
 }
