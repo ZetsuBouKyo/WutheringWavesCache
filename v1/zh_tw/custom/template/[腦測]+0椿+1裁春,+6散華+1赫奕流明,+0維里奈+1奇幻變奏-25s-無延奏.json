@@ -7,11 +7,11 @@
             "duration_2": ""
         }
     ],
-    "test_resonator_id_1": "理論1 0鏈 90椿 1振 90裁春 暴傷頭-2屬-沉日",
-    "test_resonator_id_2": "理論1 6鏈 90散華 1振 90赫奕流明 暴擊頭-2屬",
-    "test_resonator_id_3": "理論1 0鏈 90維里奈 1振 90奇幻變奏 暴擊頭-2共",
+    "test_resonator_id_1": "",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "",
     "duration_1": "25",
-    "duration_2": "28",
+    "duration_2": "27",
     "monster_id": "90等抗性20白板",
     "description": "https://www.youtube.com/watch?v=vLJPfkogTnM",
     "resonators": [
@@ -1755,7 +1755,7 @@
             "resonator_name": "椿",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "普攻",
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
@@ -1844,7 +1844,7 @@
             "resonator_name": "椿",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "",
+            "action": "普攻",
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
