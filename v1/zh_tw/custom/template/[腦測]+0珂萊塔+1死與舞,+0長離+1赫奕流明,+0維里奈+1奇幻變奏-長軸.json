@@ -701,7 +701,29 @@
             "skill_id": "新浪潮時代",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:30",
@@ -719,7 +741,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -737,7 +781,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -755,7 +821,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -773,7 +861,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -791,7 +901,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -809,7 +941,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -827,7 +981,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -845,7 +1021,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -863,7 +1061,29 @@
             "skill_id": "致死以終傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:11",
@@ -881,7 +1101,22 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:11",
@@ -899,7 +1134,22 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:89",
@@ -1547,7 +1797,29 @@
             "skill_id": "新浪潮時代",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:49",
@@ -1565,7 +1837,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1583,7 +1877,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1601,7 +1917,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1619,7 +1957,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1637,7 +1997,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1655,7 +2037,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1673,7 +2077,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1691,7 +2117,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1709,7 +2157,29 @@
             "skill_id": "致死以終傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:52:31",
@@ -1727,7 +2197,22 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:52:33",
@@ -1745,7 +2230,22 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:53:16",
@@ -2429,7 +2929,29 @@
             "skill_id": "新浪潮時代",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:15:30",
@@ -2447,7 +2969,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2465,7 +3009,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2483,7 +3049,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2501,7 +3089,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2519,7 +3129,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2537,7 +3169,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2555,7 +3209,29 @@
             "skill_id": "死兆-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2573,7 +3249,29 @@
             "skill_id": "死兆-2",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2591,7 +3289,29 @@
             "skill_id": "致死以終傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]珂萊塔-共鳴回路-揭幕者",
+                    "type": "倍率",
+                    "value": "0.8",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:20:12",
@@ -2609,7 +3329,22 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:20:20",
@@ -2627,7 +3362,22 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[共鳴技能]死與舞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:20:95",
