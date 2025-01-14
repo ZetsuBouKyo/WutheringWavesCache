@@ -321,7 +321,15 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:05:81",
@@ -339,7 +347,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:06:11",
@@ -357,7 +373,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:12",
@@ -375,7 +399,15 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:79",
@@ -393,7 +425,15 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -436,6 +476,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -473,7 +520,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -491,7 +546,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:11:24",
@@ -509,7 +572,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -527,7 +598,15 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -563,7 +642,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:13:66",
@@ -586,6 +673,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -614,6 +708,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -638,6 +739,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -677,7 +785,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -720,6 +836,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -744,6 +867,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -791,6 +921,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1583,7 +1720,15 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:79",
@@ -1619,7 +1764,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1662,6 +1815,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1681,7 +1841,15 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:37:42",
@@ -1699,7 +1867,15 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1735,7 +1911,15 @@
             "skill_id": "天道持樞",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:38:19",
@@ -1753,7 +1937,15 @@
             "skill_id": "心眼·衝傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1771,7 +1963,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:39:36",
@@ -1796,6 +1996,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1815,7 +2022,15 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1833,7 +2048,15 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1856,6 +2079,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1882,6 +2112,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1921,7 +2158,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1964,6 +2209,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1988,6 +2240,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2037,6 +2296,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2084,6 +2350,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2129,6 +2402,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2863,7 +3143,15 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:03:10",
@@ -2899,7 +3187,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2922,6 +3218,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2950,6 +3253,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2969,7 +3279,15 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:05:55",
@@ -2987,7 +3305,15 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3023,7 +3349,15 @@
             "skill_id": "天道持樞",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:06:39",
@@ -3041,7 +3375,15 @@
             "skill_id": "心眼·衝傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3059,7 +3401,15 @@
             "skill_id": "心眼·劫傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:07:53",
@@ -3077,7 +3427,15 @@
             "skill_id": "入場-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:08:88",
@@ -3095,7 +3453,15 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3113,7 +3479,15 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3136,6 +3510,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3162,6 +3543,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3201,7 +3589,15 @@
             "skill_id": "心眼·征傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3244,6 +3640,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3268,6 +3671,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3317,6 +3727,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3364,6 +3781,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3409,6 +3833,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3458,6 +3889,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3503,6 +3941,13 @@
                     "name": "[冷凝-自己]凌冽決斷之心-5/5",
                     "type": "加成",
                     "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
                     "stack": "1",
                     "duration": "15"
                 }
