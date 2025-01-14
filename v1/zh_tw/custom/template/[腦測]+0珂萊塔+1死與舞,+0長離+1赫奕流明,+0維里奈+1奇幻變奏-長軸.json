@@ -107,7 +107,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -125,7 +133,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:00",
@@ -413,7 +429,15 @@
             "skill_id": "入冬嘆調",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:08:57",
@@ -557,7 +581,15 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:14:18",
@@ -575,7 +607,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:11",
@@ -593,7 +633,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:95",
@@ -665,7 +713,15 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -683,7 +739,15 @@
             "skill_id": "重擊·末路見行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:18:65",
@@ -722,6 +786,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -762,6 +833,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -802,6 +880,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -842,6 +927,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -882,6 +974,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -922,6 +1021,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -962,6 +1068,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1002,6 +1115,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1042,6 +1162,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1082,6 +1209,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1115,6 +1249,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1148,6 +1289,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1167,7 +1315,15 @@
             "skill_id": "致辭",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1275,7 +1431,15 @@
             "skill_id": "入冬嘆調",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:29:25",
@@ -1491,7 +1655,15 @@
             "skill_id": "五星 異構武裝-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:36:39",
@@ -1617,7 +1789,15 @@
             "skill_id": "入場-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:40:87",
@@ -1671,7 +1851,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:42:52",
@@ -1689,7 +1877,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:43:25",
@@ -1761,7 +1957,15 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1779,7 +1983,15 @@
             "skill_id": "重擊·末路見行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:85",
@@ -1818,6 +2030,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1858,6 +2077,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1898,6 +2124,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1938,6 +2171,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1978,6 +2218,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2018,6 +2265,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2058,6 +2312,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2098,6 +2359,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2138,6 +2406,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2178,6 +2453,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2211,6 +2493,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2244,6 +2533,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2263,7 +2559,15 @@
             "skill_id": "致辭",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2371,7 +2675,15 @@
             "skill_id": "入冬嘆調",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:56:45",
@@ -2605,7 +2917,15 @@
             "skill_id": "入場-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:04:22",
@@ -2623,7 +2943,15 @@
             "skill_id": "五星 異構武裝-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:04:64",
@@ -2803,7 +3131,15 @@
             "skill_id": "暴力美學",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:10:29",
@@ -2821,7 +3157,15 @@
             "skill_id": "示我璀璨傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:11:06",
@@ -2893,7 +3237,15 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2911,7 +3263,15 @@
             "skill_id": "重擊·末路見行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:13:60",
@@ -2950,6 +3310,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2990,6 +3357,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3030,6 +3404,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3070,6 +3451,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3110,6 +3498,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3150,6 +3545,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3190,6 +3592,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3230,6 +3639,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3270,6 +3686,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3310,6 +3733,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3343,6 +3773,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3376,6 +3813,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3392,10 +3836,18 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "延奏",
-            "skill_id": "",
+            "skill_id": "致辭",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:21:45",
