@@ -3122,6 +3122,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3211,6 +3218,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3300,6 +3314,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3961,6 +3982,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4050,6 +4078,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4200,6 +4235,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]凌冽決斷之心-5/5",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "5"
                 }
             ],
             "resonating_spin_concerto_regen": "",
