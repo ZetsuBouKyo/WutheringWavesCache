@@ -851,7 +851,15 @@
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:14:18",
@@ -876,6 +884,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -895,7 +910,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:14:39",
@@ -913,7 +936,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:12",
@@ -931,7 +962,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1017,6 +1056,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1041,6 +1087,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1069,6 +1122,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1093,6 +1153,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1121,6 +1188,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1145,6 +1219,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1173,6 +1254,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1197,6 +1285,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1243,6 +1338,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1285,6 +1387,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1352,6 +1461,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1390,6 +1506,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1432,6 +1555,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1470,6 +1600,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1533,6 +1670,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1557,6 +1701,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1620,6 +1771,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1658,6 +1816,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1721,6 +1886,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1745,6 +1917,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1808,6 +1987,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1867,6 +2053,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -1948,6 +2141,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2007,6 +2207,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -2070,6 +2277,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2129,6 +2343,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -2192,6 +2413,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2216,6 +2444,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -2254,7 +2489,108 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "5",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "鑒心",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "掌息之要",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:31:94",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "3",
             "buffs": [
                 {
                     "name": "[共鳴技能-自己]角",
@@ -2302,32 +2638,6 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "鑒心",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "變奏",
-            "skill_id": "掌息之要",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[攻擊百分比-全部]無歸的謬誤",
-                    "type": "攻擊百分比",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "20"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "00:31:94",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2596,7 +2906,15 @@
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:36:71",
@@ -2642,6 +2960,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2675,6 +3000,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2708,6 +3040,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2741,6 +3080,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2760,7 +3106,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2799,6 +3153,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2832,6 +3193,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2851,7 +3219,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2876,6 +3252,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2895,7 +3278,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2920,6 +3311,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2946,6 +3344,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2972,6 +3377,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2998,6 +3410,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3017,7 +3436,15 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:17",
@@ -3035,7 +3462,15 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3053,7 +3488,15 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3085,6 +3528,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3118,6 +3568,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3151,6 +3608,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3184,6 +3648,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3203,7 +3674,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3239,7 +3718,15 @@
             "skill_id": "不協和音-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:46:50",
@@ -3257,7 +3744,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:48:21",
@@ -3275,7 +3770,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:48:74",
@@ -3293,7 +3796,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3386,6 +3897,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3410,6 +3928,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3438,6 +3963,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3462,6 +3994,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3490,6 +4029,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3514,6 +4060,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3542,6 +4095,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3566,6 +4126,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3610,6 +4177,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3814,6 +4388,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3847,6 +4428,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3871,6 +4459,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -3938,6 +4533,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3992,6 +4594,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4016,6 +4625,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4056,6 +4672,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4130,6 +4753,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4154,6 +4784,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4210,6 +4847,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4262,6 +4906,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4318,6 +4969,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4372,6 +5030,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4410,6 +5075,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4452,6 +5124,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4490,6 +5169,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4553,6 +5239,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4612,6 +5305,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4675,6 +5375,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4736,6 +5443,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4760,6 +5474,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4804,6 +5525,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -4860,6 +5588,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4911,6 +5646,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4944,6 +5686,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4963,7 +5712,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:10:03",
@@ -4981,7 +5738,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:10:74",
@@ -5013,6 +5778,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5046,6 +5818,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5079,6 +5858,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5098,7 +5884,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "6",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5144,6 +5938,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5163,7 +5964,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5195,6 +6004,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5235,6 +6051,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5268,6 +6091,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5287,7 +6117,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5319,6 +6157,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5352,6 +6197,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5385,6 +6237,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5660,7 +6519,15 @@
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:23:79",
@@ -5696,7 +6563,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:24:52",
@@ -5714,7 +6589,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5793,6 +6676,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5817,6 +6707,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -5845,6 +6742,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5869,6 +6773,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -5897,6 +6808,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5923,6 +6841,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5947,6 +6872,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -5993,6 +6925,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6037,6 +6976,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6070,6 +7016,13 @@
                     "value": "-0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6103,6 +7056,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6127,6 +7087,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6194,6 +7161,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6232,6 +7206,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6274,6 +7255,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6312,6 +7300,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6375,6 +7370,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6399,6 +7401,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6460,6 +7469,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6541,6 +7557,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6579,6 +7602,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6642,6 +7672,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6666,6 +7703,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6729,6 +7773,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6788,6 +7839,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6851,6 +7909,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6910,6 +7975,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -6973,6 +8045,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7034,6 +8113,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7093,6 +8179,13 @@
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
                     "duration": "20"
                 }
@@ -7423,7 +8516,15 @@
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:48:84",
@@ -7455,6 +8556,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7474,7 +8582,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:49:07",
@@ -7492,7 +8608,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7510,7 +8634,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7528,7 +8660,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7553,6 +8693,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7572,7 +8719,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7597,6 +8752,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7623,6 +8785,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7649,6 +8818,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7675,6 +8851,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7694,7 +8877,15 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:56:10",
@@ -7712,7 +8903,15 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7730,7 +8929,15 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -7762,6 +8969,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7795,6 +9009,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7828,6 +9049,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7861,6 +9089,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7880,7 +9115,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
