@@ -13,7 +13,7 @@
     "duration_1": "116",
     "duration_2": "118",
     "monster_id": "90等抗性20白板",
-    "description": "https://www.youtube.com/watch?v=naZao-z2DoQ\n\n不會觸發加強音\n- 角的DoT\n- 變奏\n\n輕雲出月-5/5，切人不會掉\n無常凶鷺，切人不會掉",
+    "description": "https://www.youtube.com/watch?v=naZao-z2DoQ\n\n不會觸發加強音\n- 角的DoT\n- 變奏\n\n輕雲出月-5/5，切人不會掉\n浮星祛暗-5/5，切人不會掉\n無常凶鷺，切人不會掉",
     "resonators": [
         {
             "resonator_name": "今汐",
@@ -969,6 +969,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1096,6 +1103,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1794,6 +1808,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2059,6 +2080,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2691,6 +2719,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3512,6 +3547,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3646,6 +3688,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3719,6 +3768,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4199,6 +4255,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4349,6 +4412,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4497,6 +4567,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5334,6 +5411,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5528,6 +5612,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6379,6 +6470,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6885,6 +6983,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6986,6 +7091,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7167,6 +7279,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7747,6 +7866,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7841,6 +7967,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8244,6 +8377,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8291,6 +8431,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8722,6 +8869,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9087,6 +9241,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10262,6 +10423,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10335,6 +10503,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10815,6 +10990,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]莫特斐-共鳴鏈3-預熱的宣敘調",
+                    "type": "暴擊傷害",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
