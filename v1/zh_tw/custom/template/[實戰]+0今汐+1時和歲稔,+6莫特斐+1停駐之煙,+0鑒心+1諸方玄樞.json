@@ -759,7 +759,15 @@
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-固有技能1-密接和應",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:13:59",
@@ -2050,7 +2058,15 @@
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-固有技能1-密接和應",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:36:21",
