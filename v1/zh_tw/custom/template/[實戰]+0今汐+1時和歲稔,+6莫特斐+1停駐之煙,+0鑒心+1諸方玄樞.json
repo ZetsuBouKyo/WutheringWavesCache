@@ -769,6 +769,32 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "共鳴技能",
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
@@ -785,6 +811,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:13:59",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -2462,6 +2514,32 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "共鳴技能",
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
@@ -2478,6 +2556,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:36:21",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -3600,6 +3704,39 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "共鳴技能",
             "skill_id": "激昂變奏",
             "skill_bonus_type": "",
@@ -3616,6 +3753,39 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:58:67",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -5416,6 +5586,32 @@
             "resonator_name": "莫特斐",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "共鳴技能",
             "skill_id": "激昂變奏",
             "skill_bonus_type": "",
@@ -5424,6 +5620,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:23:26",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -5820,6 +6042,39 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:32:82",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -7128,6 +7383,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:47:91",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-自己]莫特斐-共鳴鏈5-葬送的四重奏",
+                    "type": "加成",
+                    "value": "-0.5",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
