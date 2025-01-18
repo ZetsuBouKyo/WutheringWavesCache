@@ -976,6 +976,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1109,6 +1116,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "11.5",
                     "duration": ""
                 }
             ],
@@ -1850,6 +1864,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "21.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2142,6 +2163,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "23.5",
                     "duration": ""
                 }
             ],
@@ -2830,6 +2858,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "25.5",
                     "duration": ""
                 }
             ],
@@ -3701,6 +3736,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3849,6 +3891,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "3.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3928,6 +3977,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "5.5",
                     "duration": ""
                 }
             ],
@@ -4416,6 +4472,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "7.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4573,6 +4636,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4727,6 +4797,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "18.5",
                     "duration": ""
                 }
             ],
@@ -5586,6 +5663,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5800,6 +5884,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "3.5",
                     "duration": ""
                 }
             ],
@@ -6736,6 +6827,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "5.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7277,6 +7375,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "9.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7391,6 +7496,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "13.5",
                     "duration": ""
                 }
             ],
@@ -7579,6 +7691,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "15.5",
                     "duration": ""
                 }
             ],
@@ -8167,6 +8286,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8267,6 +8393,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "11.5",
                     "duration": ""
                 }
             ],
@@ -8678,6 +8811,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "22.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8731,6 +8871,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "25.5",
                     "duration": ""
                 }
             ],
@@ -9205,6 +9352,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "27.5",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9604,6 +9758,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "29.5",
                     "duration": ""
                 }
             ],
@@ -10850,6 +11011,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10929,6 +11097,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "3.5",
                     "duration": ""
                 }
             ],
@@ -11416,6 +11591,13 @@
                     "type": "暴擊傷害",
                     "value": "0.3",
                     "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]莫特斐-固有技能2-節奏自由",
+                    "type": "加成",
+                    "value": "0.015",
+                    "stack": "5.5",
                     "duration": ""
                 }
             ],
