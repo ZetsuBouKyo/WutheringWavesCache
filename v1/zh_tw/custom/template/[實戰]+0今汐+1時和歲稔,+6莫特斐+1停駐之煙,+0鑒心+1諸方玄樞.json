@@ -222,6 +222,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -248,6 +255,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1959,6 +1973,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1985,6 +2006,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3022,7 +3050,15 @@
             "skill_id": "暴烈終曲傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]鑒心-延奏技能-化境",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:59:41",
@@ -3873,6 +3909,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3899,6 +3942,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4755,7 +4805,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]鑒心-延奏技能-化境",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5644,6 +5702,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5670,6 +5735,13 @@
                     "value": "0.48",
                     "stack": "1",
                     "duration": "8"
+                },
+                {
+                    "name": "[加成-自己]鑒心-固有技能1-形釋無極",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
