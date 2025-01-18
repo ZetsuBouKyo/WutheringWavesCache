@@ -958,6 +958,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -977,7 +984,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "18",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -995,7 +1010,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:16:91",
@@ -1013,7 +1036,15 @@
             "skill_id": "混元氣旋-小周天震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1031,7 +1062,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1049,7 +1088,15 @@
             "skill_id": "混元氣旋-大周天·內震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1067,7 +1114,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1085,7 +1140,15 @@
             "skill_id": "混元氣旋-大周天·外震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1121,7 +1184,15 @@
             "skill_id": "不協和音-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:21:87",
@@ -1157,7 +1228,15 @@
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:23:52",
@@ -1214,6 +1293,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1247,6 +1333,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1280,6 +1373,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1313,6 +1413,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1367,6 +1474,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1386,7 +1500,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1439,6 +1561,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1472,6 +1601,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1526,6 +1662,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1545,7 +1688,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1598,6 +1749,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1652,6 +1810,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1724,6 +1889,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1778,6 +1950,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1832,6 +2011,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1886,6 +2072,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1940,6 +2133,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1959,7 +2159,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2030,6 +2238,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2049,7 +2264,15 @@
             "skill_id": "掌息之要",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:94",
@@ -2099,6 +2322,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2132,6 +2362,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2151,7 +2388,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:31",
@@ -2169,7 +2414,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:66",
@@ -2187,7 +2440,15 @@
             "skill_id": "激昂變奏",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:35:58",
@@ -3014,6 +3275,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3033,7 +3301,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "14",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3051,7 +3327,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:50:44",
@@ -3069,7 +3353,15 @@
             "skill_id": "混元氣旋-小周天震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3087,7 +3379,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3105,7 +3405,15 @@
             "skill_id": "混元氣旋-大周天·內震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3123,7 +3431,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3141,7 +3457,15 @@
             "skill_id": "混元氣旋-大周天·外震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3177,7 +3501,15 @@
             "skill_id": "不協和音-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:55:97",
@@ -3220,6 +3552,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3239,7 +3578,15 @@
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:57:97",
@@ -3257,7 +3604,15 @@
             "skill_id": "激昂變奏",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:58:67",
@@ -3282,6 +3637,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3308,6 +3670,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3327,7 +3696,15 @@
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:59:58",
@@ -3384,6 +3761,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3431,6 +3815,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3450,7 +3841,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3482,6 +3881,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3547,6 +3953,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3566,7 +3979,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3612,6 +4033,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3659,6 +4087,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3706,6 +4141,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3753,6 +4195,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3786,6 +4235,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3819,6 +4275,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3852,6 +4315,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3906,6 +4376,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3960,6 +4437,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4014,6 +4498,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4068,6 +4559,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4087,7 +4585,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4109,6 +4615,32 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "鑒心",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "掌息之要",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:08:23",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -4163,24 +4695,6 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "鑒心",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "變奏",
-            "skill_id": "掌息之要",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "01:08:23",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -5050,7 +5564,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "18",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5068,7 +5590,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:26:24",
@@ -5086,7 +5616,15 @@
             "skill_id": "混元氣旋-小周天震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5104,7 +5642,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "8",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5122,7 +5668,15 @@
             "skill_id": "混元氣旋-大周天·內震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5140,7 +5694,15 @@
             "skill_id": "混元氣旋-運氣持續傷害",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5158,7 +5720,15 @@
             "skill_id": "混元氣旋-大周天·外震氣傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5194,7 +5764,15 @@
             "skill_id": "不協和音-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:31:09",
@@ -5230,7 +5808,15 @@
             "skill_id": "怒火賦格傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:32:82",
@@ -5255,6 +5841,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5274,7 +5867,15 @@
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:34:03",
@@ -5331,6 +5932,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5364,6 +5972,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5397,6 +6012,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5430,6 +6052,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5484,6 +6113,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5503,7 +6139,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5556,6 +6200,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5628,6 +6279,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5661,6 +6319,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5715,6 +6380,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5734,7 +6406,15 @@
             "skill_id": "加強音傷害",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5787,6 +6467,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5841,6 +6528,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5895,6 +6589,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5949,6 +6650,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6003,6 +6711,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6057,6 +6772,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6111,6 +6833,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6183,11 +6912,44 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "鑒心",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "掌息之要",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:44:00",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -6228,24 +6990,6 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "鑒心",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "變奏",
-            "skill_id": "掌息之要",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "01:44:00",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
