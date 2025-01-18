@@ -348,6 +348,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -374,6 +381,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -400,6 +414,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -426,6 +447,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -452,6 +480,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -478,6 +513,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -504,6 +546,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -530,6 +579,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -556,6 +612,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -600,6 +663,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -709,7 +779,15 @@
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -835,7 +913,15 @@
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1163,6 +1249,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1210,6 +1303,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -1265,6 +1365,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1316,6 +1423,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1345,6 +1459,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -1400,6 +1521,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1429,6 +1557,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -1466,6 +1601,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1499,6 +1641,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1528,6 +1677,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -1756,6 +1912,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1847,7 +2010,15 @@
             "skill_id": "神霓飛芒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:38:89",
@@ -1883,7 +2054,15 @@
             "skill_id": "逐天取月技能傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:40:14",
@@ -1919,7 +2098,15 @@
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1937,7 +2124,15 @@
             "skill_id": "凌霄·普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1955,7 +2150,15 @@
             "skill_id": "凌霄·普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1973,7 +2176,15 @@
             "skill_id": "凌霄·普攻第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2052,6 +2263,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2078,6 +2296,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2104,6 +2329,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2130,6 +2362,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2318,6 +2557,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2692,6 +2938,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2772,6 +3025,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2816,6 +3076,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2838,6 +3105,13 @@
             "buffs": [
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -2868,6 +3142,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2890,6 +3171,13 @@
             "buffs": [
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -2981,6 +3269,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3010,6 +3305,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -3047,6 +3349,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3080,6 +3389,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3106,6 +3422,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3348,6 +3671,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3392,6 +3722,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3436,6 +3773,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3462,6 +3806,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3488,6 +3839,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3514,6 +3872,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3540,6 +3905,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3566,6 +3938,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3592,6 +3971,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4155,6 +4541,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4202,6 +4595,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -4257,6 +4657,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4276,7 +4683,15 @@
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4322,6 +4737,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -4377,6 +4799,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4406,6 +4835,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -4443,6 +4879,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4472,6 +4915,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -4509,6 +4959,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4542,6 +4999,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4571,6 +5035,13 @@
                 },
                 {
                     "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
                     "type": "加成",
                     "value": "0.24",
                     "stack": "1",
@@ -4763,6 +5234,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4854,7 +5332,15 @@
             "skill_id": "神霓飛芒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:51:08",
@@ -4890,7 +5376,15 @@
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4908,7 +5402,15 @@
             "skill_id": "凌霄·普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4926,7 +5428,15 @@
             "skill_id": "凌霄·普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4944,7 +5454,15 @@
             "skill_id": "凌霄·普攻第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5023,6 +5541,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5049,6 +5574,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5075,6 +5607,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5101,6 +5640,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
