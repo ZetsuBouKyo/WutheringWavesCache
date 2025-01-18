@@ -215,7 +215,15 @@
             "skill_id": "滌淨力場-共鳴解放持續傷害",
             "skill_bonus_type": "",
             "hit": "14",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -233,7 +241,15 @@
             "skill_id": "滌淨力場-共鳴解放炸裂傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1162,6 +1178,13 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1181,7 +1204,15 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:24:74",
@@ -1199,7 +1230,15 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1217,7 +1256,15 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1256,6 +1303,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1292,7 +1346,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "11",
+            "hit": "6",
             "buffs": [
                 {
                     "name": "[共鳴技能-自己]角",
@@ -1314,6 +1368,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1333,7 +1394,15 @@
             "skill_id": "移歲誅邪",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:26:14",
@@ -1372,6 +1441,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1430,6 +1506,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1470,6 +1553,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1528,6 +1618,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1568,6 +1665,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1608,6 +1712,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1648,6 +1759,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1688,6 +1806,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1726,6 +1851,46 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "5",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1779,7 +1944,15 @@
             "skill_id": "滌淨力場-共鳴解放持續傷害",
             "skill_bonus_type": "",
             "hit": "14",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1797,7 +1970,15 @@
             "skill_id": "滌淨力場-共鳴解放炸裂傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2912,6 +3093,13 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2945,6 +3133,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2982,7 +3177,15 @@
             "skill_id": "移歲誅邪",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:01:97",
@@ -3032,6 +3235,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3083,6 +3293,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3116,6 +3333,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3149,6 +3373,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3182,6 +3413,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3201,7 +3439,15 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:06:95",
@@ -3219,7 +3465,15 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3237,7 +3491,15 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3276,6 +3538,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3316,6 +3585,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3356,6 +3632,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3374,7 +3657,90 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "11",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "9",
             "buffs": [
                 {
                     "name": "[共鳴技能-自己]角",
@@ -3441,42 +3807,6 @@
         },
         {
             "labels": [],
-            "resonator_name": "莫特斐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "協同攻擊",
-            "skill_id": "加強音傷害",
-            "skill_bonus_type": "",
-            "hit": "2",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "延奏",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
             "resonator_name": "鑒心",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -3520,7 +3850,15 @@
             "skill_id": "滌淨力場-共鳴解放持續傷害",
             "skill_bonus_type": "",
             "hit": "14",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3538,7 +3876,15 @@
             "skill_id": "滌淨力場-共鳴解放炸裂傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4454,6 +4800,13 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4473,7 +4826,15 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:35:48",
@@ -4491,7 +4852,15 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4509,7 +4878,15 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -4548,6 +4925,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4606,6 +4990,13 @@
                     "value": "0.24",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4642,7 +5033,492 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "8",
+            "hit": "6",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "移歲誅邪",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:38:55",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "逐天取月技能傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:38:78",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "莫特斐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "加強音傷害",
+            "skill_bonus_type": "",
+            "hit": "2",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "凌霄·普攻第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "凌霄·普攻第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "凌霄·普攻第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "凌霄·普攻第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "驚龍破空·熠日傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:43:08",
+            "time_end": "01:43:95",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "21809",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "驚龍破空·炳星傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "韶光",
+            "skill_bonus_type": "",
+            "hit": "40",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
             "buffs": [
                 {
                     "name": "[共鳴技能-自己]角",
@@ -4702,380 +5578,6 @@
         },
         {
             "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "共鳴解放",
-            "skill_id": "移歲誅邪",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "01:38:55",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "逐天取月技能傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "01:38:78",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "莫特斐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "協同攻擊",
-            "skill_id": "加強音傷害",
-            "skill_bonus_type": "",
-            "hit": "2",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "凌霄·普攻第一段傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "凌霄·普攻第二段傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "凌霄·普攻第三段傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "普攻",
-            "skill_id": "凌霄·普攻第四段傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "共鳴技能",
-            "skill_id": "驚龍破空·熠日傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "01:43:08",
-            "time_end": "01:43:95",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "21809",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "驚龍破空·炳星傷害",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "韶光",
-            "skill_bonus_type": "",
-            "hit": "40",
-            "buffs": [
-                {
-                    "name": "[共鳴技能-自己]角",
-                    "type": "加成",
-                    "value": "0.16",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "今汐",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "延奏",
-            "skill_id": "",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
             "resonator_name": "鑒心",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -5119,7 +5621,15 @@
             "skill_id": "滌淨力場-共鳴解放持續傷害",
             "skill_bonus_type": "",
             "hit": "14",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -5137,7 +5647,15 @@
             "skill_id": "滌淨力場-共鳴解放炸裂傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
