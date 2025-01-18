@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0今汐+1時和歲稔,+6莫特斐+1停駐之煙,+0鑒心+1諸方玄樞-2m",
+    "id": "[腦測]+0今汐+1時和歲稔,+6莫特斐+1停駐之煙,+0鑒心+1金掌-2m",
     "labels": [
         {
             "name": "",
@@ -72,7 +72,7 @@
         {
             "resonator_name": "鑒心",
             "resonator_chain": "0",
-            "resonator_weapon_name": "諸方玄樞",
+            "resonator_weapon_name": "金掌",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -217,18 +217,18 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -250,18 +250,18 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3134,13 +3134,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -3160,6 +3153,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3181,13 +3181,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -3207,6 +3200,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7013,13 +7013,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -7039,6 +7032,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7060,13 +7060,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -7086,6 +7079,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10622,13 +10622,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -10641,6 +10634,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10662,13 +10662,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -10681,6 +10674,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴解放]金掌-1諧振",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",

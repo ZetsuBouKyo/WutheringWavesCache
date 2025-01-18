@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0今汐+1時和歲稔,+6莫特斐+1停駐之煙,+0鑒心+1諸方玄樞-2m",
+    "id": "[腦測]+0今汐+1時和歲稔,+6莫特斐+1停駐之煙,+0鑒心+1擎淵怒濤-2m",
     "labels": [
         {
             "name": "",
@@ -72,7 +72,7 @@
         {
             "resonator_name": "鑒心",
             "resonator_chain": "0",
-            "resonator_weapon_name": "諸方玄樞",
+            "resonator_weapon_name": "擎淵怒濤",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -217,13 +217,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -250,13 +243,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -281,7 +267,15 @@
             "skill_id": "靜氣循行-降氣反擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]擎淵怒濤-1諧振",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:65",
@@ -943,6 +937,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[共鳴技能]擎淵怒濤-1諧振",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3134,13 +3135,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -3180,13 +3174,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
                 {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
@@ -4596,6 +4583,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]擎淵怒濤-1諧振",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7013,13 +7007,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -7059,13 +7046,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
                 {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
@@ -8246,6 +8226,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能]擎淵怒濤-1諧振",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "8"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10622,13 +10609,6 @@
             "hit": "14",
             "buffs": [
                 {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
-                {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
                     "value": "0.2",
@@ -10661,13 +10641,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[共鳴解放]諸方玄樞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "8"
-                },
                 {
                     "name": "[加成-自己]鑒心-固有技能1-形釋無極",
                     "type": "加成",
