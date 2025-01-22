@@ -30,7 +30,17 @@
             "resonator_echo_sonata_2": "凝夜白霜",
             "resonator_echo_sonata_3": "凝夜白霜",
             "resonator_echo_sonata_4": "凝夜白霜",
-            "resonator_echo_sonata_5": "凝夜白霜"
+            "resonator_echo_sonata_5": "凝夜白霜",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
         },
         {
             "resonator_name": "散華",
@@ -47,7 +57,17 @@
             "resonator_echo_sonata_2": "輕雲出月",
             "resonator_echo_sonata_3": "輕雲出月",
             "resonator_echo_sonata_4": "輕雲出月",
-            "resonator_echo_sonata_5": "輕雲出月"
+            "resonator_echo_sonata_5": "輕雲出月",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
         },
         {
             "resonator_name": "維里奈",
@@ -64,7 +84,17 @@
             "resonator_echo_sonata_2": "鳴鐘之龜",
             "resonator_echo_sonata_3": "鳴鐘之龜",
             "resonator_echo_sonata_4": "鳴鐘之龜",
-            "resonator_echo_sonata_5": "鳴鐘之龜"
+            "resonator_echo_sonata_5": "鳴鐘之龜",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
         }
     ],
     "rows": [
@@ -4762,6 +4792,67 @@
         },
         {
             "labels": [],
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -8145,6 +8236,102 @@
             "resonator_name": "折枝",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "3",
+                    "duration": "6"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:46:23",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
             "action": "普攻",
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
@@ -8320,6 +8507,95 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "折枝",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "協同攻擊",
+            "skill_id": "墨鶴傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]折枝-固有技能1-揮毫",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻-自己]折枝-共鳴回路-極意·神來之筆",
+                    "type": "加成",
+                    "value": "0.18",
+                    "stack": "1",
+                    "duration": "27"
+                },
+                {
+                    "name": "[普攻]瓊枝冰綃-1諧振-在場",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "2",
+                    "duration": "6"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:48:23",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
