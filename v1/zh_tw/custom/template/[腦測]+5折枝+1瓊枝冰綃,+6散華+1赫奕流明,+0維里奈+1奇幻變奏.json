@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+4折枝+1瓊枝冰綃,+6散華+1赫奕流明,+0維里奈+1奇幻變奏",
+    "id": "[腦測]+5折枝+1瓊枝冰綃,+6散華+1赫奕流明,+0維里奈+1奇幻變奏",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "折枝",
-            "resonator_chain": "4",
+            "resonator_chain": "5",
             "resonator_weapon_name": "瓊枝冰綃",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
