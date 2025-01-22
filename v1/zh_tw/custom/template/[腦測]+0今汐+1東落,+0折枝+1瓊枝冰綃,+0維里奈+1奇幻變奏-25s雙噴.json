@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0今汐+1時和歲稔,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
+    "id": "[腦測]+0今汐+1東落,+0折枝+1瓊枝冰綃,+0維里奈+1奇幻變奏-25s雙噴",
     "labels": [
         {
             "name": "",
@@ -13,12 +13,12 @@
     "duration_1": "25",
     "duration_2": "30",
     "monster_id": "90等抗性20白板",
-    "description": "折枝延奏前今汐約4.72s\n折枝+維里奈~=13.85s\n\nhttps://youtu.be/AxZ5MIk4D-I",
+    "description": "折枝延奏前今汐約4.72s\n折枝+維里奈~=13.85s\n東落為施放共鳴技能2秒後開始跳buff\n\nhttps://youtu.be/AxZ5MIk4D-I",
     "resonators": [
         {
             "resonator_name": "今汐",
             "resonator_chain": "0",
-            "resonator_weapon_name": "時和歲稔",
+            "resonator_weapon_name": "東落",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -527,7 +527,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "5",
+            "hit": "3",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -542,20 +542,6 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
@@ -678,20 +664,6 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
@@ -867,20 +839,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -942,18 +900,65 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
                     "stack": "1",
-                    "duration": "12"
+                    "duration": "20"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
                     "stack": "1",
-                    "duration": "12"
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
                 },
                 {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
@@ -982,6 +987,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1017,20 +1029,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1057,6 +1055,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1092,20 +1097,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1132,6 +1123,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1167,20 +1165,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1207,6 +1191,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1242,20 +1233,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1282,6 +1259,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1317,20 +1301,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1357,6 +1327,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1393,7 +1370,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "4",
+            "hit": "2",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -1408,20 +1385,6 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
@@ -1450,6 +1413,81 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1485,13 +1523,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1518,6 +1549,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1546,13 +1584,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -1579,6 +1610,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2410,13 +2448,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[攻擊百分比-全部]無歸的謬誤",
                     "type": "攻擊百分比",
                     "value": "0.1",
@@ -2461,7 +2492,7 @@
             "action": "",
             "skill_id": "五星 角-4",
             "skill_bonus_type": "共鳴技能",
-            "hit": "3",
+            "hit": "2",
             "buffs": [
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
@@ -2476,20 +2507,6 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2539,6 +2556,102 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2614,6 +2727,13 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2647,20 +2767,6 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -2703,6 +2809,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "4",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2942,20 +3055,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3036,20 +3135,6 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -3134,20 +3219,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3195,6 +3266,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3230,20 +3308,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3291,6 +3355,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3326,20 +3397,6 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
@@ -3387,6 +3444,13 @@
                     "value": "0.16",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]東落-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.03",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3420,20 +3484,6 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
@@ -3516,20 +3566,6 @@
                     "value": "0.25",
                     "stack": "1",
                     "duration": "14"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
-                },
-                {
-                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
-                    "type": "加成",
-                    "value": "0.24",
-                    "stack": "1",
-                    "duration": "12"
                 },
                 {
                     "name": "[加成-全部]鳴鐘之龜",
