@@ -13,7 +13,7 @@
     "duration_1": "41",
     "duration_2": "43",
     "monster_id": "90等抗性20白板",
-    "description": "https://youtu.be/Xn5U5qVAosU\n\n00:12:15 第一噴63197~=((999)*((1+0.094+0.12)+0.225+0.15+0.2+0.02*10)+150+50)*0.9*(800+8*90)/(800+8*90+(792+(8*100)))*(1+0.32+(0.16+0.1+0.12)+(0.48)+0.04*10)*(3.4792+0.4454*16)*2.09*1.15\n00:25:78 第二噴63245~=((999)*((1+0.094+0.12)+0.225+0.15+0.2+0.02*10)+150+50)*0.9*(800+8*90)/(800+8*90+(792+(8*100)))*(1+0.32+(0.16+0.1+0.12)+(0.48)+0.04*10)*(3.4792+0.4454*16)*2.09*1.15\n00:39:46 第三噴121515",
+    "description": "https://youtu.be/Xn5U5qVAosU\n\n00:12:15 第一噴63197~=((999)*((1+0.094+0.12)+0.225+0.15+0.2+0.02*10)+150+50)*0.9*(800+8*90)/(800+8*90+(792+(8*100)))*(1+0.32+(0.16+0.1+0.12)+(0.48)+0.04*10)*(3.4792+0.4454*16)*2.09*1.15\n00:25:78 第二噴63245~=((999)*((1+0.094+0.12)+0.225+0.15+0.2+0.02*10)+150+50)*0.9*(800+8*90)/(800+8*90+(792+(8*100)))*(1+0.32+(0.16+0.1+0.12)+(0.48)+0.04*10)*(3.4792+0.4454*42)*1*1.15\n00:39:46 第三噴121515~=((999)*((1+0.094+0.12)+0.225+0.15+0.2+0.02*10)+150+50)*0.9*(800+8*90)/(800+8*90+(792+(8*100)))*(1+0.32+(0.16+0.1+0.12)+(0.48)+0.04*10)*(3.4792+0.4454*38)*2.09*1.15",
     "resonators": [
         {
             "resonator_name": "今汐",
@@ -179,7 +179,15 @@
             "skill_id": "第二段傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -215,10 +223,18 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
+            "time_start": "00:02:20",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -233,7 +249,22 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -251,7 +282,22 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -269,7 +315,22 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -287,7 +348,29 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:16",
@@ -377,7 +460,29 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -395,7 +500,29 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -438,6 +565,55 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -457,10 +633,170 @@
             "skill_id": "神霓飛芒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:36",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "5",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -475,7 +811,57 @@
             "skill_id": "移歲誅邪",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:08:71",
@@ -493,7 +879,78 @@
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -511,7 +968,78 @@
             "skill_id": "凌霄·普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -529,7 +1057,78 @@
             "skill_id": "凌霄·普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -547,7 +1146,78 @@
             "skill_id": "凌霄·普攻第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -565,7 +1235,78 @@
             "skill_id": "驚龍破空·熠日傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:12:15",
@@ -583,7 +1324,78 @@
             "skill_id": "驚龍破空·炳星傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -601,7 +1413,78 @@
             "skill_id": "韶光",
             "skill_bonus_type": "",
             "hit": "16",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -630,6 +1513,320 @@
         },
         {
             "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -637,7 +1834,36 @@
             "skill_id": "蔓延",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:13:17",
@@ -655,7 +1881,36 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:14:03",
@@ -673,7 +1928,22 @@
             "skill_id": "拳震凌武",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:08",
@@ -691,7 +1961,36 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:58",
@@ -709,7 +2008,36 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -727,7 +2055,29 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -781,7 +2131,29 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -799,7 +2171,29 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -817,7 +2211,29 @@
             "skill_id": "空中攻擊·星星花綻放第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -860,6 +2276,48 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -879,7 +2337,50 @@
             "skill_id": "五星 角-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:60",
@@ -897,7 +2398,50 @@
             "skill_id": "五星 角-2",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -915,7 +2459,50 @@
             "skill_id": "五星 角-3",
             "skill_bonus_type": "",
             "hit": "2",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -933,7 +2520,71 @@
             "skill_id": "神霓飛芒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:96",
@@ -951,7 +2602,71 @@
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -969,7 +2684,125 @@
             "skill_id": "凌霄·普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "5",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -987,7 +2820,57 @@
             "skill_id": "凌霄·普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1005,7 +2888,57 @@
             "skill_id": "凌霄·普攻第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1023,7 +2956,57 @@
             "skill_id": "驚龍破空·熠日傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:78",
@@ -1041,7 +3024,57 @@
             "skill_id": "驚龍破空·炳星傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1059,7 +3092,57 @@
             "skill_id": "韶光",
             "skill_bonus_type": "",
             "hit": "42",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1088,6 +3171,74 @@
         },
         {
             "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
             "resonator_name": "維里奈",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
@@ -1095,7 +3246,29 @@
             "skill_id": "蔓延",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:26:70",
@@ -1113,7 +3286,29 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:74",
@@ -1131,7 +3326,15 @@
             "skill_id": "拳震凌武",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:28:71",
@@ -1149,10 +3352,283 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:29:09",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "3",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "2",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "今汐",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 角-4",
+            "skill_bonus_type": "共鳴技能",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1167,7 +3643,36 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1185,7 +3690,36 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1203,7 +3737,36 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1221,7 +3784,36 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:08",
@@ -1311,7 +3903,36 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1329,7 +3950,36 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1372,6 +4022,55 @@
                     "value": "0.5",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1380,7 +4079,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "共鳴解放轉好，但需要極高的共鳴效率才有機會在這一輪施放。"
         },
         {
             "labels": [],
@@ -1391,7 +4090,78 @@
             "skill_id": "神霓飛芒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:33",
@@ -1409,7 +4179,78 @@
             "skill_id": "凌霄·普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1427,7 +4268,78 @@
             "skill_id": "凌霄·普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-自己]角",
+                    "type": "加成",
+                    "value": "0.16",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1445,7 +4357,71 @@
             "skill_id": "凌霄·普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1463,7 +4439,71 @@
             "skill_id": "凌霄·普攻第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1481,7 +4521,71 @@
             "skill_id": "驚龍破空·熠日傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:39:46",
@@ -1499,7 +4603,71 @@
             "skill_id": "驚龍破空·炳星傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1517,7 +4685,71 @@
             "skill_id": "韶光",
             "skill_bonus_type": "",
             "hit": "38",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-歲蘊",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[共鳴技能]時和歲稔-1諧振-福澤",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]浮星祛暗-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
