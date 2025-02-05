@@ -303,7 +303,15 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:41",
@@ -339,7 +347,15 @@
             "skill_id": "五星 輝螢軍勢-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:90",
@@ -357,7 +373,22 @@
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:05:63",
@@ -375,7 +406,22 @@
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:06:46",
@@ -393,7 +439,15 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:06",
@@ -411,7 +465,15 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -447,7 +509,29 @@
             "skill_id": "出洞·睡獅蟄醒",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:08:06",
@@ -465,7 +549,36 @@
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:09:71",
@@ -483,7 +596,36 @@
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -508,6 +650,13 @@
                     "value": "0.04",
                     "stack": "8",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -534,6 +683,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -571,7 +727,36 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -595,6 +780,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -622,6 +835,34 @@
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -641,7 +882,36 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -666,6 +936,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -703,7 +980,36 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -727,6 +1033,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -753,6 +1087,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -773,7 +1135,36 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -797,6 +1188,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -824,6 +1243,34 @@
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -843,7 +1290,22 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -861,7 +1323,22 @@
             "skill_id": "凌雲式·腿打連環傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -879,7 +1356,22 @@
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1078,10 +1570,18 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "變奏",
-            "skill_id": "留痕·踏雪點星",
+            "skill_id": "出洞·睡獅蟄醒",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:26:48",
@@ -1189,7 +1689,15 @@
             "skill_id": "五星 鳴鐘之龜",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:30:80",
@@ -1225,7 +1733,15 @@
             "skill_id": "五星 輝螢軍勢-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:24",
@@ -1243,7 +1759,22 @@
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:92",
@@ -1261,7 +1792,22 @@
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:32:87",
@@ -1279,7 +1825,15 @@
             "skill_id": "空中攻擊·星星花綻放第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:33:40",
@@ -1297,7 +1851,15 @@
             "skill_id": "空中攻擊·星星花綻放第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1333,7 +1895,15 @@
             "skill_id": "天道持樞",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:55",
@@ -1358,6 +1928,13 @@
                     "value": "0.04",
                     "stack": "9",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1384,6 +1961,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1421,7 +2005,29 @@
             "skill_id": "空中攻擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1439,7 +2045,43 @@
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:37:86",
@@ -1457,7 +2099,36 @@
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1482,6 +2153,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1508,6 +2186,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1545,7 +2230,36 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1569,6 +2283,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -1596,6 +2338,34 @@
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1615,7 +2385,36 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1640,6 +2439,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1677,7 +2483,36 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1701,6 +2536,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -1727,6 +2590,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -1747,7 +2638,36 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1771,6 +2691,34 @@
                     "type": "加成",
                     "value": "0.04",
                     "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
                     "duration": "15"
                 }
             ],
@@ -1798,6 +2746,34 @@
                     "value": "0.04",
                     "stack": "3",
                     "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1817,7 +2793,22 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1835,7 +2826,22 @@
             "skill_id": "凌雲式·腿打連環傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1853,7 +2859,22 @@
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
