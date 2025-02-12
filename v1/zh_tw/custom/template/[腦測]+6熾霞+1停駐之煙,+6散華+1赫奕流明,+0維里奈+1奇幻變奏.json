@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+6熾霞+1死與舞,+6散華+1赫奕流明,+0維里奈+1奇幻變奏",
+    "id": "[腦測]+6熾霞+1停駐之煙,+6散華+1赫奕流明,+0維里奈+1奇幻變奏",
     "labels": [
         {
             "name": "",
@@ -18,7 +18,7 @@
         {
             "resonator_name": "熾霞",
             "resonator_chain": "6",
-            "resonator_weapon_name": "死與舞",
+            "resonator_weapon_name": "停駐之煙",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
@@ -839,13 +839,6 @@
             "hit": "30",
             "buffs": [
                 {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -920,13 +913,6 @@
             "skill_bonus_type": "",
             "hit": "10",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
@@ -1152,13 +1138,6 @@
             "skill_bonus_type": "",
             "hit": "58",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
@@ -1615,6 +1594,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2065,6 +2051,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2105,6 +2098,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2152,6 +2152,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2275,6 +2282,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2329,6 +2343,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2383,6 +2404,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2792,13 +2820,6 @@
             "hit": "30",
             "buffs": [
                 {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -2873,13 +2894,6 @@
             "skill_bonus_type": "",
             "hit": "6",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
@@ -3181,13 +3195,6 @@
             "hit": "8",
             "buffs": [
                 {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -3262,13 +3269,6 @@
             "skill_bonus_type": "",
             "hit": "49",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
@@ -3608,6 +3608,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3662,6 +3669,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3702,6 +3716,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3749,6 +3770,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3810,6 +3838,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3878,6 +3913,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3946,6 +3988,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4007,6 +4056,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4061,6 +4117,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4531,6 +4594,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4592,6 +4662,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4688,13 +4765,6 @@
             "hit": "30",
             "buffs": [
                 {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -4769,13 +4839,6 @@
             "skill_bonus_type": "",
             "hit": "10",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
@@ -5077,13 +5140,6 @@
             "hit": "12",
             "buffs": [
                 {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
-                {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
@@ -5158,13 +5214,6 @@
             "skill_bonus_type": "",
             "hit": "46",
             "buffs": [
-                {
-                    "name": "[共鳴技能]死與舞-1諧振",
-                    "type": "加成",
-                    "value": "0.48",
-                    "stack": "1",
-                    "duration": "5"
-                },
                 {
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
