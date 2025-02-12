@@ -246,6 +246,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -272,6 +279,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -298,12 +312,19 @@
                     "value": "1.2",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
+            "time_end": "00:03:31",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -353,7 +374,15 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -371,7 +400,15 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:21",
@@ -458,6 +495,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -484,6 +528,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -535,6 +586,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -568,6 +626,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -633,6 +698,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -687,6 +759,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -741,6 +820,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -788,6 +874,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -835,6 +928,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -889,6 +989,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -936,6 +1043,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -976,6 +1090,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1023,6 +1144,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1063,6 +1191,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1103,6 +1238,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1129,6 +1271,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1180,6 +1329,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1206,6 +1362,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1239,6 +1402,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1272,6 +1442,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1305,6 +1482,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1338,6 +1522,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1371,12 +1562,19 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
+            "time_end": "00:24:29",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -1449,6 +1647,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1551,6 +1756,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1584,6 +1796,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1617,6 +1836,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1668,6 +1894,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1701,6 +1934,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1734,6 +1974,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1767,6 +2014,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1800,6 +2054,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1865,6 +2126,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1919,6 +2187,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1973,6 +2248,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2020,6 +2302,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2067,6 +2356,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2114,6 +2410,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2168,6 +2471,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2215,6 +2525,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2580,6 +2897,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2620,6 +2944,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2653,6 +2984,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2686,12 +3024,19 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
-            "time_end": "",
+            "time_end": "00:49:60",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -2764,6 +3109,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2790,6 +3142,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2892,6 +3251,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2925,6 +3291,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2976,6 +3349,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3009,6 +3389,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3042,6 +3429,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3089,6 +3483,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3143,6 +3544,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3197,6 +3605,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3244,6 +3659,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3291,6 +3713,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3338,6 +3767,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3392,6 +3828,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3439,6 +3882,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3479,6 +3929,13 @@
                     "value": "0.225",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
