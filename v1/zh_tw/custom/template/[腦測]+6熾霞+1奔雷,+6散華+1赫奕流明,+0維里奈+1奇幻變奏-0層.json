@@ -893,6 +893,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "15.5",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -968,6 +975,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1043,6 +1064,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1118,6 +1167,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1193,6 +1256,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1268,6 +1345,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1411,6 +1502,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1479,6 +1598,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1547,6 +1680,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2044,6 +2191,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2084,6 +2238,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2131,6 +2292,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2254,6 +2422,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2308,6 +2483,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2362,6 +2544,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2495,6 +2684,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2549,6 +2745,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2603,6 +2806,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2825,6 +3035,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "15.5",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2900,6 +3117,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2975,6 +3206,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3050,6 +3295,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3125,6 +3398,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3200,6 +3487,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3268,6 +3569,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3329,6 +3644,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3390,6 +3719,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3451,6 +3808,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3512,6 +3883,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4045,6 +4430,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4078,6 +4470,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4118,6 +4517,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4288,6 +4694,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4342,6 +4755,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4482,6 +4902,13 @@
                     "value": "0.35",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[普攻-全部]熾霞-共鳴鏈6-劇終的回歸彩蛋",
+                    "type": "加成",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4693,6 +5120,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "15.5",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4768,6 +5202,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4843,6 +5291,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4918,6 +5380,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4993,6 +5483,27 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]熾霞-共鳴鏈3-不滅的火把",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5068,6 +5579,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5136,6 +5661,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5204,6 +5743,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5265,6 +5818,34 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[加成-自己]熾霞-固有技能1-灼熱彈匣",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]熾霞-共鳴鏈1-劇院的英雄戲",
+                    "type": "暴擊",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5326,6 +5907,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-固有技能2-加麻加辣",
+                    "type": "攻擊百分比",
+                    "value": "0.01",
+                    "stack": "30",
+                    "duration": "10"
+                },
+                {
+                    "name": "[攻擊百分比-自己]熾霞-共鳴鏈5-勝利的槍彈焰火",
+                    "type": "攻擊百分比",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
