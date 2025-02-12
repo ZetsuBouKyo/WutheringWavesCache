@@ -187,7 +187,15 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -283,7 +291,15 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -512,6 +528,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -538,6 +561,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -589,6 +619,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -627,6 +671,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -669,6 +727,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -702,6 +774,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -733,6 +819,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -775,6 +875,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -806,6 +920,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -841,6 +969,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -874,6 +1009,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -898,6 +1047,20 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -926,6 +1089,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -945,7 +1122,15 @@
             "skill_id": "蔓延",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:85",
@@ -988,6 +1173,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1007,7 +1199,15 @@
             "skill_id": "焦瞑凍土",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:22:47",
@@ -1025,7 +1225,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1050,6 +1265,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1076,6 +1298,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1102,6 +1331,13 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1121,7 +1357,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1139,7 +1390,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:23:11",
@@ -1157,7 +1416,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1175,7 +1442,15 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1218,6 +1493,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1262,6 +1544,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1288,6 +1577,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1314,6 +1610,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1358,6 +1661,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1384,6 +1694,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1410,6 +1727,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1436,6 +1760,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1462,6 +1793,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1513,6 +1851,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1551,6 +1903,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1593,6 +1959,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1624,6 +2004,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1659,6 +2053,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1690,6 +2098,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1732,6 +2154,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1765,6 +2201,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1789,6 +2239,20 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1817,6 +2281,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1841,6 +2319,20 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1869,6 +2361,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1888,7 +2394,15 @@
             "skill_id": "凜刺",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:46:58",
@@ -1920,6 +2434,13 @@
                     "value": "0.04",
                     "stack": "6",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1939,7 +2460,15 @@
             "skill_id": "焦瞑凍土",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:98",
@@ -1957,7 +2486,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1989,6 +2533,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2022,6 +2573,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2055,6 +2613,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2081,6 +2646,13 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2100,7 +2672,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2118,7 +2705,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:48:62",
@@ -2136,7 +2731,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2154,7 +2757,15 @@
             "skill_id": "第五段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2172,7 +2783,15 @@
             "skill_id": "草木生長",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:50:22",
@@ -2215,6 +2834,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2259,6 +2885,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2285,6 +2918,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2329,6 +2969,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2355,6 +3002,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2381,6 +3035,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2412,6 +3073,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2454,6 +3129,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2494,6 +3183,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2525,6 +3228,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2560,6 +3277,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2591,6 +3322,20 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2633,6 +3378,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2666,6 +3425,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2690,6 +3463,20 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2718,6 +3505,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2742,6 +3543,20 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
                     "stack": "1",
                     "duration": "15"
                 }
