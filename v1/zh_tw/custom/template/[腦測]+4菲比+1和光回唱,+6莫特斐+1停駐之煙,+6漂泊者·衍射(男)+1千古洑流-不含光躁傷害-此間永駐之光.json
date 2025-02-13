@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+0菲比+1和光回唱,+6莫特斐+1停駐之煙,+6漂泊者·衍射(男)+1千古洑流-不含光躁傷害-此間永駐之光",
+    "id": "[腦測]+4菲比+1和光回唱,+6莫特斐+1停駐之煙,+6漂泊者·衍射(男)+1千古洑流-不含光躁傷害-此間永駐之光",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "菲比",
-            "resonator_chain": "0",
+            "resonator_chain": "4",
             "resonator_weapon_name": "和光回唱",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -378,6 +378,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -693,6 +700,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -754,6 +768,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -869,6 +890,13 @@
                     "value": "0.4",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -937,6 +965,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1005,6 +1040,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1413,6 +1455,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1509,6 +1558,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1572,7 +1628,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "啟明之誓願-赦罪",
+            "skill_id": "啟明之誓願-暖燈與枕邊的祝願-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -1638,6 +1694,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1727,6 +1790,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1816,6 +1886,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1905,6 +1982,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1921,7 +2005,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -1978,7 +2062,7 @@
                     "name": "[重擊]和光回唱-1諧振",
                     "type": "加成",
                     "value": "0.14",
-                    "stack": "3",
+                    "stack": "1",
                     "duration": "6"
                 },
                 {
@@ -2008,6 +2092,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2144,6 +2235,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2233,6 +2331,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2322,6 +2427,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2338,7 +2450,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2395,7 +2507,7 @@
                     "name": "[重擊]和光回唱-1諧振",
                     "type": "加成",
                     "value": "0.14",
-                    "stack": "3",
+                    "stack": "1",
                     "duration": "6"
                 },
                 {
@@ -2425,6 +2537,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2561,6 +2680,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2650,6 +2776,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2739,6 +2872,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2755,7 +2895,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2812,7 +2952,7 @@
                     "name": "[重擊]和光回唱-1諧振",
                     "type": "加成",
                     "value": "0.14",
-                    "stack": "3",
+                    "stack": "1",
                     "duration": "6"
                 },
                 {
@@ -2842,6 +2982,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2978,6 +3125,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3067,6 +3221,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3156,6 +3317,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3172,7 +3340,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -3229,7 +3397,7 @@
                     "name": "[重擊]和光回唱-1諧振",
                     "type": "加成",
                     "value": "0.14",
-                    "stack": "3",
+                    "stack": "1",
                     "duration": "6"
                 },
                 {
@@ -3259,6 +3427,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3334,6 +3509,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]菲比-共鳴鏈2-赦罪狀態-延奏",
+                    "type": "加深",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3402,6 +3591,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]菲比-共鳴鏈2-赦罪狀態-延奏",
+                    "type": "加深",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3449,6 +3652,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]菲比-共鳴鏈2-赦罪狀態-延奏",
+                    "type": "加深",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3489,6 +3706,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[加深-全部]菲比-共鳴鏈2-赦罪狀態-延奏",
+                    "type": "加深",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3569,6 +3800,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3630,6 +3868,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3691,6 +3936,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3745,6 +3997,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3806,6 +4065,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3846,6 +4112,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4232,6 +4505,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4300,6 +4580,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4422,6 +4709,13 @@
                     "value": "0.4",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4490,6 +4784,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4558,6 +4859,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4937,6 +5245,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5033,6 +5348,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5096,7 +5418,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "共鳴解放",
-            "skill_id": "啟明之誓願-赦罪",
+            "skill_id": "啟明之誓願-暖燈與枕邊的祝願-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -5162,6 +5484,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5251,6 +5580,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5340,6 +5676,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5429,6 +5772,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5445,7 +5795,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -5532,6 +5882,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5668,6 +6025,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5757,6 +6121,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5846,6 +6217,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5862,7 +6240,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -5949,6 +6327,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6085,6 +6470,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6174,6 +6566,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6263,6 +6662,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6279,7 +6685,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -6366,6 +6772,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6502,6 +6915,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6591,6 +7011,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6673,6 +7100,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6689,7 +7123,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "重擊",
-            "skill_id": "重擊·星輝傷害",
+            "skill_id": "重擊·星輝傷害-雛菊編織花環與夢-赦罪",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -6762,6 +7196,13 @@
                     "value": "0.38",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[衍射-全部]菲比-共鳴鏈4-再次敲響振翅的鐘聲",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
