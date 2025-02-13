@@ -143,7 +143,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:06",
@@ -175,6 +183,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -208,6 +230,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -241,6 +277,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -274,6 +324,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -662,6 +733,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -688,6 +780,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -742,6 +841,34 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴解放-自己]漂泊者·衍射(男)-共鳴鏈5-回聲流轉",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -796,6 +923,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -850,6 +991,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3407,6 +3562,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3454,6 +3616,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3501,6 +3677,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3541,6 +3731,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3581,6 +3785,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4054,6 +4279,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4087,6 +4333,13 @@
                     "value": "0.06",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4141,6 +4394,34 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-自己]漂泊者·衍射(男)-固有技能2-靜聆",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[共鳴解放-自己]漂泊者·衍射(男)-共鳴鏈5-回聲流轉",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4195,6 +4476,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4249,6 +4544,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-自己]漂泊者·衍射(男)-共鳴鏈1-始源紀行",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "7"
+                },
+                {
+                    "name": "[衍射-自己]漂泊者·衍射(男)-共鳴鏈2-微物細語",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
