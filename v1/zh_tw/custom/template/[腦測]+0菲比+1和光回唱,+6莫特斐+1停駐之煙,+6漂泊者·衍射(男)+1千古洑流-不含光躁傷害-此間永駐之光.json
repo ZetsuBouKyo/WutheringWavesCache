@@ -161,7 +161,15 @@
             "skill_id": "浮聲千斬",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:34",
@@ -179,7 +187,15 @@
             "skill_id": "重擊傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -197,7 +213,15 @@
             "skill_id": "鳴奏傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -215,7 +239,15 @@
             "skill_id": "餘音傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -233,7 +265,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:03:58",
@@ -512,6 +552,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "2",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -538,6 +585,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -604,6 +658,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -644,6 +705,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -684,6 +752,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1050,6 +1125,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1104,6 +1186,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "2",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1198,6 +1294,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1252,6 +1355,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1306,6 +1423,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1360,6 +1491,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1421,6 +1566,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1515,6 +1674,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1569,6 +1742,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1623,6 +1810,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1684,6 +1885,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1778,6 +1993,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1832,6 +2061,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1886,6 +2129,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1947,6 +2204,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2041,6 +2312,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2095,6 +2380,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2149,6 +2448,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2210,6 +2523,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2228,7 +2555,61 @@
             "action": "延奏",
             "skill_id": "傾聽之心-赦罪-1",
             "skill_bonus_type": "",
-            "hit": "5",
+            "hit": "4",
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]莫特斐-共鳴鏈6-盛怒的無言歌",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "菲比",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "傾聽之心-赦罪-1",
+            "skill_bonus_type": "",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2415,6 +2796,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2448,6 +2836,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2474,6 +2869,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2500,6 +2902,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2526,6 +2935,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2877,6 +3293,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "2",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2910,6 +3333,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2936,6 +3366,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2976,6 +3413,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3016,6 +3460,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3056,6 +3507,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3400,6 +3858,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3454,6 +3919,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "2",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3548,6 +4027,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3602,6 +4088,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3656,6 +4156,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3710,6 +4224,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3771,6 +4299,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3865,6 +4407,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3919,6 +4475,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3973,6 +4543,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4034,6 +4618,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4128,6 +4726,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4182,6 +4794,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4236,6 +4862,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4297,6 +4937,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4391,6 +5045,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4445,6 +5113,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4492,6 +5174,20 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]停駐之煙-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4546,6 +5242,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[重擊]和光回唱-1諧振",
+                    "type": "加成",
+                    "value": "0.14",
+                    "stack": "3",
+                    "duration": "6"
                 }
             ],
             "resonating_spin_concerto_regen": "",
