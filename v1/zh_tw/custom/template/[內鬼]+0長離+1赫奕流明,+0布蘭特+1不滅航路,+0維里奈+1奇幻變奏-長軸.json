@@ -534,7 +534,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "空中攻擊",
-            "skill_id": "空中攻擊第一段跳躍傷害",
+            "skill_id": "空中攻擊第一段空翻傷害",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -684,7 +684,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "空中攻擊",
-            "skill_id": "空中攻擊第二段跳躍傷害",
+            "skill_id": "空中攻擊第二段空翻傷害",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2217,7 +2217,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "空中攻擊",
-            "skill_id": "空中攻擊第一段跳躍傷害",
+            "skill_id": "空中攻擊第一段空翻傷害",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -2381,7 +2381,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "空中攻擊",
-            "skill_id": "空中攻擊第二段跳躍傷害",
+            "skill_id": "空中攻擊第二段空翻傷害",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [

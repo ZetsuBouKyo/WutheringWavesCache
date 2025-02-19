@@ -1,5 +1,5 @@
 {
-    "id": "[內鬼]+0長離+1赫奕流明,+0布蘭特+1不滅航路,+0維里奈+1奇幻變奏-長軸-輕雲",
+    "id": "[內鬼]+0長離+1赫奕流明,+0布蘭特+1不滅航路,+0維里奈+1奇幻變奏-長軸-220共校",
     "labels": [
         {
             "name": "",
@@ -52,22 +52,22 @@
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
             "resonator_energy_regen": "280.00%",
-            "resonator_echo_1": "無常凶鷺",
-            "resonator_echo_sonata_1": "輕雲出月",
-            "resonator_echo_sonata_2": "輕雲出月",
-            "resonator_echo_sonata_3": "輕雲出月",
-            "resonator_echo_sonata_4": "輕雲出月",
-            "resonator_echo_sonata_5": "輕雲出月",
-            "resonator_echo_cost_1": "4",
-            "resonator_echo_cost_2": "3",
-            "resonator_echo_cost_3": "3",
-            "resonator_echo_cost_4": "1",
-            "resonator_echo_cost_5": "1",
-            "resonator_echo_affix_1": "暴傷",
-            "resonator_echo_affix_2": "共效",
-            "resonator_echo_affix_3": "熱熔",
-            "resonator_echo_affix_4": "攻",
-            "resonator_echo_affix_5": "攻"
+            "resonator_echo_1": "嘆息古龍",
+            "resonator_echo_sonata_1": "無懼浪濤之勇",
+            "resonator_echo_sonata_2": "無懼浪濤之勇",
+            "resonator_echo_sonata_3": "無懼浪濤之勇",
+            "resonator_echo_sonata_4": "無懼浪濤之勇",
+            "resonator_echo_sonata_5": "無懼浪濤之勇",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
         },
         {
             "resonator_name": "維里奈",
@@ -349,9 +349,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -368,6 +375,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -396,9 +410,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -415,6 +436,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -443,9 +471,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -462,6 +497,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -504,9 +546,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -523,6 +572,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -565,9 +621,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -584,6 +647,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -626,9 +696,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -645,6 +722,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -687,9 +771,16 @@
                     "duration": "15"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -706,6 +797,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -1238,11 +1336,18 @@
             "resonator_name": "布蘭特",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 無常凶鷺-1",
+            "action": "共鳴技能",
+            "skill_id": "起錨！",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
@@ -1253,7 +1358,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1270,6 +1375,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1340,20 +1452,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1431,20 +1529,6 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1497,20 +1581,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1595,20 +1665,6 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1677,20 +1733,6 @@
                     "value": "0.04",
                     "stack": "6",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1757,20 +1799,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1862,20 +1890,6 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1915,6 +1929,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -1924,7 +1945,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1941,6 +1962,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
@@ -1969,6 +1997,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -1978,7 +2013,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1995,6 +2030,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
@@ -2030,6 +2072,13 @@
                     "duration": "10"
                 },
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2039,7 +2088,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1560",
+                    "value": "840",
                     "stack": "1",
                     "duration": ""
                 },
@@ -2056,6 +2105,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
@@ -2084,6 +2140,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2093,7 +2156,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2110,6 +2173,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -2152,6 +2222,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2161,7 +2238,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2178,6 +2255,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -2220,6 +2304,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2229,7 +2320,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2246,6 +2337,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -2288,6 +2386,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2297,7 +2402,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2314,6 +2419,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -2356,6 +2468,13 @@
             "hit": "1",
             "buffs": [
                 {
+                    "name": "[加成-自己]無懼浪濤之勇",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2365,7 +2484,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2600",
+                    "value": "1400",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2382,6 +2501,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
                 },
                 {
                     "name": "[普攻]不滅航路-1諧振-共鳴解放後",
@@ -3033,60 +3159,6 @@
             "resonator_name": "布蘭特",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "聲骸",
-            "skill_id": "五星 無常凶鷺-1",
-            "skill_bonus_type": "",
-            "hit": "1",
-            "buffs": [
-                {
-                    "name": "[加深-全部]維里奈-延奏技能-盛放",
-                    "type": "加深",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
-                    "type": "攻擊",
-                    "value": "1560",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
-                    "type": "攻擊百分比",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "20"
-                },
-                {
-                    "name": "[攻擊百分比-全部]隱世回光-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.15",
-                    "stack": "1",
-                    "duration": "30"
-                },
-                {
-                    "name": "[加成-全部]鳴鐘之龜",
-                    "type": "加成",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "15"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "布蘭特",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
             "action": "延奏",
             "skill_id": "",
             "skill_bonus_type": "",
@@ -3149,20 +3221,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3247,20 +3305,6 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3320,20 +3364,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3425,20 +3455,6 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3514,20 +3530,6 @@
                     "value": "0.04",
                     "stack": "6",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3601,20 +3603,6 @@
                     "name": "[熱熔-自己]熔山裂谷-5/5",
                     "type": "加成",
                     "value": "0.3",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -3713,20 +3701,6 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
-                },
-                {
-                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
-                    "type": "攻擊百分比",
-                    "value": "0.225",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[加成-下一位]無常凶鷺",
-                    "type": "加成",
-                    "value": "0.12",
-                    "stack": "1",
-                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
