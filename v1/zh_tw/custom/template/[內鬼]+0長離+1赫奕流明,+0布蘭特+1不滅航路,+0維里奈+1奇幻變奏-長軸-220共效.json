@@ -51,7 +51,7 @@
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
-            "resonator_energy_regen": "280.00%",
+            "resonator_energy_regen": "220.00%",
             "resonator_echo_1": "嘆息古龍",
             "resonator_echo_sonata_1": "無懼浪濤之勇",
             "resonator_echo_sonata_2": "無懼浪濤之勇",
@@ -349,13 +349,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
                     "value": "840",
@@ -410,13 +403,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
                     "value": "840",
@@ -469,13 +455,6 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
@@ -546,13 +525,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
                     "value": "1400",
@@ -619,13 +591,6 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
@@ -696,13 +661,6 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
                     "value": "1400",
@@ -769,13 +727,6 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
-                },
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
                 },
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
@@ -1341,13 +1292,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
@@ -1929,13 +1873,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -1996,13 +1933,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
@@ -2072,13 +2002,6 @@
                     "duration": "10"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2139,13 +2062,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
@@ -2222,13 +2138,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2303,13 +2212,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
@@ -2386,13 +2288,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2467,13 +2362,6 @@
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
-                {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
                 {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
