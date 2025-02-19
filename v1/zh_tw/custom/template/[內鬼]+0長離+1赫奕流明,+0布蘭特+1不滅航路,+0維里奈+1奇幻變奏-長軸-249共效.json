@@ -1,5 +1,5 @@
 {
-    "id": "[內鬼]+0長離+1赫奕流明,+0布蘭特+1不滅航路,+0維里奈+1奇幻變奏-長軸-250共效",
+    "id": "[內鬼]+0長離+1赫奕流明,+0布蘭特+1不滅航路,+0維里奈+1奇幻變奏-長軸-249共效",
     "labels": [
         {
             "name": "",
@@ -51,23 +51,23 @@
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
             "resonator_skill_bonus": "普攻",
-            "resonator_energy_regen": "250.00%",
+            "resonator_energy_regen": "249.00%",
             "resonator_echo_1": "嘆息古龍",
             "resonator_echo_sonata_1": "無懼浪濤之勇",
             "resonator_echo_sonata_2": "無懼浪濤之勇",
             "resonator_echo_sonata_3": "無懼浪濤之勇",
             "resonator_echo_sonata_4": "無懼浪濤之勇",
             "resonator_echo_sonata_5": "無懼浪濤之勇",
-            "resonator_echo_cost_1": "4",
-            "resonator_echo_cost_2": "3",
-            "resonator_echo_cost_3": "3",
-            "resonator_echo_cost_4": "1",
-            "resonator_echo_cost_5": "1",
-            "resonator_echo_affix_1": "暴傷",
-            "resonator_echo_affix_2": "共效",
-            "resonator_echo_affix_3": "熱熔",
-            "resonator_echo_affix_4": "攻",
-            "resonator_echo_affix_5": "攻"
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
         },
         {
             "resonator_name": "維里奈",
@@ -349,16 +349,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -410,16 +403,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -471,16 +457,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -546,16 +525,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -621,16 +593,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -696,16 +661,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -771,16 +729,9 @@
                     "duration": "15"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -1342,13 +1293,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -1358,7 +1302,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1929,13 +1873,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -1945,7 +1882,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -1997,13 +1934,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2013,7 +1943,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -2072,13 +2002,6 @@
                     "duration": "10"
                 },
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2088,7 +2011,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
                     "type": "攻擊",
-                    "value": "1200",
+                    "value": "1560",
                     "stack": "1",
                     "duration": ""
                 },
@@ -2140,13 +2063,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2156,7 +2072,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2222,13 +2138,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2238,7 +2147,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2304,13 +2213,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2320,7 +2222,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2386,13 +2288,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2402,7 +2297,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
@@ -2468,13 +2363,6 @@
             "hit": "1",
             "buffs": [
                 {
-                    "name": "[加成-自己]無懼浪濤之勇",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[加深-全部]維里奈-延奏技能-盛放",
                     "type": "加深",
                     "value": "0.15",
@@ -2484,7 +2372,7 @@
                 {
                     "name": "[攻擊-自己]布蘭特-共鳴回路-「我」的人生",
                     "type": "攻擊",
-                    "value": "2000",
+                    "value": "2600",
                     "stack": "1",
                     "duration": "12"
                 },
