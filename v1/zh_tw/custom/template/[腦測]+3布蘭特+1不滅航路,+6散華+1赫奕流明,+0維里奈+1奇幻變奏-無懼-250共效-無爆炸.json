@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+2布蘭特+1不滅航路,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-無懼-250共效",
+    "id": "[腦測]+3布蘭特+1不滅航路,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-無懼-250共效-無爆炸",
     "labels": [
         {
             "name": "",
@@ -17,7 +17,7 @@
     "resonators": [
         {
             "resonator_name": "布蘭特",
-            "resonator_chain": "2",
+            "resonator_chain": "3",
             "resonator_weapon_name": "不滅航路",
             "resonator_weapon_rank": "1",
             "resonator_inherent_skill_1": true,
@@ -780,6 +780,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -869,6 +876,13 @@
                     "value": "0.2",
                     "stack": "2",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1554,6 +1568,13 @@
                     "value": "0.2",
                     "stack": "2",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1835,6 +1856,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1945,6 +1973,13 @@
                     "value": "0.2",
                     "stack": "2",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2055,6 +2090,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2165,6 +2207,13 @@
                     "value": "0.2",
                     "stack": "2",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2275,6 +2324,13 @@
                     "value": "0.2",
                     "stack": "2",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2385,6 +2441,13 @@
                     "value": "0.2",
                     "stack": "3",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2495,6 +2558,13 @@
                     "value": "0.2",
                     "stack": "3",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2623,6 +2693,13 @@
                     "value": "0.2",
                     "stack": "3",
                     "duration": "5"
+                },
+                {
+                    "name": "[暴擊-自己]布蘭特-共鳴鏈2-掠奪歡聲與笑顏",
+                    "type": "暴擊",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
