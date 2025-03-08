@@ -1,5 +1,5 @@
 {
-    "id": "[腦測]+5布蘭特+1不滅航路,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-無懼-250共效-無爆炸",
+    "id": "[腦測]+6布蘭特+5不滅航路,+6散華+1赫奕流明,+0維里奈+1奇幻變奏-無懼-250共效-無爆炸",
     "labels": [
         {
             "name": "",
@@ -17,9 +17,9 @@
     "resonators": [
         {
             "resonator_name": "布蘭特",
-            "resonator_chain": "5",
+            "resonator_chain": "6",
             "resonator_weapon_name": "不滅航路",
-            "resonator_weapon_rank": "1",
+            "resonator_weapon_rank": "5",
             "resonator_inherent_skill_1": true,
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "攻擊",
@@ -754,9 +754,9 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -794,6 +794,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -857,9 +864,9 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -897,6 +904,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1325,9 +1339,9 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -1358,6 +1372,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1435,9 +1456,9 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -1468,6 +1489,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1570,9 +1598,9 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -1622,6 +1650,123 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:63",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "船長答：狂歡即世界！",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-全部]鳴鐘之龜",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
+                    "type": "攻擊",
+                    "value": "1200",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]布蘭特-共鳴鏈1-跟隨洋流和信風",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "2",
+                    "duration": "5"
+                },
+                {
+                    "name": "[普攻-自己]布蘭特-共鳴鏈5-演員說：生活皆舞台",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
@@ -1865,16 +2010,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -1912,6 +2057,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1989,16 +2141,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2036,6 +2188,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2113,16 +2272,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2160,6 +2319,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2237,16 +2403,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2284,6 +2450,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2361,16 +2534,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2408,6 +2581,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2485,16 +2665,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2532,6 +2712,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2609,16 +2796,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2656,6 +2843,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "10"
+                },
+                {
+                    "name": "[倍率-自己]布蘭特-共鳴鏈6-船長答：狂歡即世界！",
+                    "type": "倍率",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2751,16 +2945,16 @@
                     "duration": "14"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "10"
                 },
                 {
-                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
                     "type": "加成",
-                    "value": "0.24",
+                    "value": "0.48",
                     "stack": "1",
                     "duration": "4"
                 },
@@ -2810,6 +3004,123 @@
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:24:12",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "船長答：狂歡即世界！",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]維里奈-延奏技能-盛放",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]維里奈-固有技能1-自然的獻禮",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]散華-延奏技能-凜絜",
+                    "type": "加深",
+                    "value": "0.38",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-5諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-5諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[加成-自己]布蘭特-共鳴鏈1-跟隨洋流和信風",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "3",
+                    "duration": "5"
+                },
+                {
+                    "name": "[普攻-自己]布蘭特-共鳴鏈5-演員說：生活皆舞台",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "10"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
