@@ -2747,7 +2747,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第一段傷害",
             "skill_bonus_type": "",
-            "hit": "7",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-下一位]無常凶鷺",
@@ -2864,7 +2864,7 @@
             "action": "普攻",
             "skill_id": "蔓舞第二段傷害",
             "skill_bonus_type": "",
-            "hit": "6",
+            "hit": "1",
             "buffs": [
                 {
                     "name": "[加成-下一位]無常凶鷺",
