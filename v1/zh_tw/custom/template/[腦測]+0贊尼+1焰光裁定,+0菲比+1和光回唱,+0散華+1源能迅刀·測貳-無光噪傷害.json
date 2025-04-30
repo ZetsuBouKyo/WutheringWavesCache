@@ -197,7 +197,15 @@
             "skill_id": "啟明之誓願-暖燈與枕邊的祝願-告解",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:71",
@@ -215,7 +223,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -233,7 +249,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -251,7 +275,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -269,7 +301,15 @@
             "skill_id": "顯明告解傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -341,7 +381,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -359,7 +414,29 @@
             "skill_id": "冰棱爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -377,7 +454,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -395,7 +494,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -413,7 +534,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -431,7 +567,22 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:05:17",
@@ -449,7 +600,22 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -485,7 +651,29 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -503,7 +691,29 @@
             "skill_id": "顯明告解傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -521,7 +731,22 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:45",
@@ -539,7 +764,22 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -608,6 +848,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -634,6 +888,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -660,6 +928,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -686,6 +975,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -712,6 +1022,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -738,6 +1069,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -764,6 +1116,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -790,6 +1156,34 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -821,6 +1215,55 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -870,6 +1313,55 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -901,6 +1393,55 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -957,6 +1498,62 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1009,6 +1606,62 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1070,6 +1723,62 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1126,6 +1835,62 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1171,6 +1936,62 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1227,6 +2048,62 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1251,6 +2128,62 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -1300,6 +2233,69 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]贊尼-延奏技能-來日道標",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1319,7 +2315,43 @@
             "skill_id": "金色恩典",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:25:49",
@@ -1355,7 +2387,36 @@
             "skill_id": "啟明之誓願-暖燈與枕邊的祝願-告解",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:49",
@@ -1373,7 +2434,36 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1391,7 +2481,36 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1409,7 +2528,36 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1427,7 +2575,36 @@
             "skill_id": "顯明告解傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1445,7 +2622,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:29:65",
@@ -1463,7 +2648,15 @@
             "skill_id": "朔雪永凍",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:30:27",
@@ -1481,7 +2674,15 @@
             "skill_id": "焦瞑凍土",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1499,7 +2700,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1517,7 +2733,29 @@
             "skill_id": "冰棱爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1535,7 +2773,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1553,7 +2813,29 @@
             "skill_id": "冰川爆炸傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]散華-共鳴鏈5-顛覆無常",
+                    "type": "暴擊傷害",
+                    "value": "1.0",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1571,7 +2853,22 @@
             "skill_id": "爆裂傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加成-自己]散華-共鳴鏈4-劍修五蘊",
+                    "type": "加成",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": "5"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1589,7 +2886,36 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:30:93",
@@ -1607,7 +2933,36 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1643,7 +2998,43 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1661,7 +3052,43 @@
             "skill_id": "顯明告解傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1679,7 +3106,22 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:33:35",
@@ -1697,7 +3139,22 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1766,6 +3223,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1792,6 +3270,27 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1818,6 +3317,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1844,6 +3378,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1870,6 +3439,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1896,6 +3500,20 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1922,6 +3540,41 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-自己]菲比-固有技能2-啟示",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[衍射-自己以外]贊尼-延奏技能-來日道標",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1953,6 +3606,55 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2002,6 +3704,55 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2033,6 +3784,55 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2089,6 +3889,62 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2141,6 +3997,62 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2202,6 +4114,62 @@
                     "name": "[加成-全部]鳴鐘之龜",
                     "type": "加成",
                     "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2258,6 +4226,62 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2303,6 +4327,62 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2359,6 +4439,62 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2383,6 +4519,62 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
@@ -2430,6 +4622,69 @@
                     "name": "[加成-下一位]無常凶鷺",
                     "type": "加成",
                     "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-自己]贊尼-延奏技能-來日道標",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦]焰光裁定-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]輕雲出月-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.225",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比-全部]散華-共鳴鏈6-曙色天光",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比-全部]隱世回光-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-自己]此間永駐之光-5/5",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[衍射-全部]菲比-延奏技能-傾聽之心",
+                    "type": "抗性降低",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[衍射-無]贊尼-固有技能1-快速響應",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[衍射-自己]此間永駐之光-5/5",
+                    "type": "加成",
+                    "value": "0.15",
                     "stack": "1",
                     "duration": "15"
                 }
