@@ -683,7 +683,22 @@
             "skill_id": "集中壓制傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -719,7 +734,29 @@
             "skill_id": "重斬·破曉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -737,7 +774,29 @@
             "skill_id": "重斬·將明傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -755,7 +814,36 @@
             "skill_id": "重斬·終夜傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]贊尼-共鳴回路-焰光-LV10",
+                    "type": "倍率",
+                    "value": "0.0995",
+                    "stack": "40",
+                    "duration": ""
+                },
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -773,7 +861,29 @@
             "skill_id": "重斬·破曉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -791,7 +901,29 @@
             "skill_id": "重斬·將明傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -809,7 +941,36 @@
             "skill_id": "重斬·終夜傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]贊尼-共鳴回路-焰光-LV10",
+                    "type": "倍率",
+                    "value": "0.0995",
+                    "stack": "40",
+                    "duration": ""
+                },
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -845,7 +1006,29 @@
             "skill_id": "來日道標",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1367,7 +1550,22 @@
             "skill_id": "集中壓制傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1403,7 +1601,29 @@
             "skill_id": "重斬·破曉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1421,7 +1641,29 @@
             "skill_id": "重斬·將明傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1439,7 +1681,36 @@
             "skill_id": "重斬·終夜傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]贊尼-共鳴回路-焰光-LV10",
+                    "type": "倍率",
+                    "value": "0.0995",
+                    "stack": "40",
+                    "duration": ""
+                },
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1457,7 +1728,29 @@
             "skill_id": "重斬·破曉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1475,7 +1768,29 @@
             "skill_id": "重斬·將明傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1493,7 +1808,36 @@
             "skill_id": "重斬·終夜傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[倍率-自己]贊尼-共鳴回路-焰光-LV10",
+                    "type": "倍率",
+                    "value": "0.0995",
+                    "stack": "40",
+                    "duration": ""
+                },
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1529,7 +1873,29 @@
             "skill_id": "來日道標",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[光噪效應-全部]菲比-延奏技能-傾聽之心",
+                    "type": "加深",
+                    "value": "1",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]和光回唱-1諧振-光躁效應",
+                    "type": "加深",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[光噪效應]焰光裁定-1諧振",
+                    "type": "加深",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "6"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:50:80",
