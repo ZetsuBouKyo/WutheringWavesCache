@@ -458,7 +458,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "共鳴技能建議連按，有時候主角不會起飛，連按到確定主角飛起再普攻。不太確定是模組被敵人壓到，還是卡提希婭的切人按太慢，變成空中入場。"
         },
         {
             "labels": [],
@@ -599,7 +599,7 @@
             "resonator_name": "夏空",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "入場",
+            "action": "空中入場",
             "skill_id": "空中攻擊第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
@@ -934,7 +934,7 @@
             "resonator_name": "夏空",
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
-            "action": "入場",
+            "action": "空中入場",
             "skill_id": "空中攻擊第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
@@ -1199,7 +1199,7 @@
             "time_end": "",
             "cumulative_time": "",
             "frame": "",
-            "comment": ""
+            "comment": "卡提希婭第三段普攻，人消失出範圍傷害動畫的剎那就可以切人了，太晚切，切回來會沒辦法接第四段普攻。"
         },
         {
             "labels": [],
