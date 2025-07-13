@@ -1,0 +1,4992 @@
+{
+    "id": "[腦測]+0長離+1赫奕流明,+0露帕+1焰痕,+0布蘭特+1不滅航路-熔夢熔無-一般",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
+    "test_resonator_id_1": "",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "",
+    "duration_1": "63",
+    "duration_2": "66",
+    "monster_id": "90等抗性20白板",
+    "description": "https://youtu.be/3mwJo_ELfuw\nhttps://youtu.be/GEUE7l5_-I8\nhttps://youtu.be/1RDxc1cswqY\n\n長離第二輪進場協奏\n變奏+衝+劫+征+劫+征+焚+離+焚\n10+6+14+7+14+7+10+20+10",
+    "resonators": [
+        {
+            "resonator_name": "長離",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "赫奕流明",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴技能",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "夢魘·燎照之騎",
+            "resonator_echo_sonata_1": "熔山裂谷",
+            "resonator_echo_sonata_2": "熔山裂谷",
+            "resonator_echo_sonata_3": "熔山裂谷",
+            "resonator_echo_sonata_4": "熔山裂谷",
+            "resonator_echo_sonata_5": "熔山裂谷",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
+        },
+        {
+            "resonator_name": "露帕",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "焰痕",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴解放",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "夢魘·燎照之騎",
+            "resonator_echo_sonata_1": "熔山裂谷",
+            "resonator_echo_sonata_2": "熔山裂谷",
+            "resonator_echo_sonata_3": "熔山裂谷",
+            "resonator_echo_sonata_4": "熔山裂谷",
+            "resonator_echo_sonata_5": "熔山裂谷",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
+        },
+        {
+            "resonator_name": "布蘭特",
+            "resonator_chain": "0",
+            "resonator_weapon_name": "不滅航路",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "普攻",
+            "resonator_energy_regen": "250.00%",
+            "resonator_echo_1": "嘆息古龍",
+            "resonator_echo_sonata_1": "無懼浪濤之勇",
+            "resonator_echo_sonata_2": "無懼浪濤之勇",
+            "resonator_echo_sonata_3": "無懼浪濤之勇",
+            "resonator_echo_sonata_4": "無懼浪濤之勇",
+            "resonator_echo_sonata_5": "無懼浪濤之勇",
+            "resonator_echo_cost_1": "4",
+            "resonator_echo_cost_2": "3",
+            "resonator_echo_cost_3": "3",
+            "resonator_echo_cost_4": "1",
+            "resonator_echo_cost_5": "1",
+            "resonator_echo_affix_1": "暴傷",
+            "resonator_echo_affix_2": "共效",
+            "resonator_echo_affix_3": "熱熔",
+            "resonator_echo_affix_4": "攻",
+            "resonator_echo_affix_5": "攻"
+        }
+    ],
+    "rows": [
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "6",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "離火照丹心",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "開始下落後即可開共鳴解放。"
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "焚身以火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "7",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "必須預重擊，不然會把【心眼·征】打出來。"
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "13",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "入場",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:06:57",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "榮光歡酣於火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:06:64",
+            "time_end": "00:06:66",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "破敵傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:06:75",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊·焰襲傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:09:28",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "重擊·銳爪傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "00:12:39",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "補一下普攻湊協奏能量。"
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "狼舞的決意·極傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:13:91",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:16:18",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "為我！",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
+                    "type": "攻擊",
+                    "value": "1200",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "直到世界盡頭",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
+                    "type": "攻擊",
+                    "value": "1200",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:18:22",
+            "time_end": "00:18:25",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "此刻，讓火焰延燃賽場傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "起錨！",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "火焰歸亡曲傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:24:14",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:26:47",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "天道持樞",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "心眼·衝傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:27:90",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "焚身以火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "12",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:32:17",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "離火照丹心",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:33:64",
+            "time_end": "00:33:64",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "焚身以火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:35:64",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "你無法逃離！傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "榮光歡酣於火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:36:49",
+            "time_end": "00:36:53",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "破敵傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:36:61",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊·焰襲傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:39:09",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "重擊·銳爪傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:40:32",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "狼舞的決意·極傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:42:69",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:45:09",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "為我！",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
+                    "type": "攻擊",
+                    "value": "1200",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "直到世界盡頭",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴回路-戲中人生",
+                    "type": "攻擊",
+                    "value": "1200",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:47:12",
+            "time_end": "00:47:12",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "此刻，讓火焰延燃賽場傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-下一位]露帕-共鳴回路-燃旗",
+                    "type": "攻擊百分比",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "空中攻擊第四段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:53:18",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "火焰歸亡曲傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[加成-自己]無懼浪濤之勇-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊-自己]布蘭特-共鳴解放-「我」的人生",
+                    "type": "攻擊",
+                    "value": "2000",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]無懼浪濤之勇-5/5",
+                    "type": "攻擊百分比",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[普攻-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-共鳴解放後",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[普攻]不滅航路-1諧振-普攻傷害時",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "4"
+                },
+                {
+                    "name": "[熱熔-下一位]露帕-延奏技能-搭檔啊，與我並肩",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "布蘭特",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:55:90",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "天道持樞",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "空中攻擊",
+            "skill_id": "心眼·衝傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "2",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:56:70",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "8",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "00:57:36",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "9",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "3",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴技能",
+            "skill_id": "心眼·劫傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:00:18",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "普攻",
+            "skill_id": "心眼·征傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能1-離火",
+                    "type": "加成",
+                    "value": "0.05",
+                    "stack": "4",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "焚身以火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:03:00",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "共鳴解放",
+            "skill_id": "離火照丹心",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "01:04:31",
+            "time_end": "01:04:33",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "焚身以火",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]赫奕流明-1諧振-灼羽",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "14",
+                    "duration": ""
+                },
+                {
+                    "name": "[忽視防禦-自己]長離-固有技能2-散勢",
+                    "type": "忽視防禦",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[攻擊百分比-自己]長離-共鳴解放-焰羽",
+                    "type": "攻擊百分比",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔-自己]長離-固有技能2-散勢",
+                    "type": "加成",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "01:05:51",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "重擊",
+            "skill_id": "重擊",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]布蘭特-延奏技能-航向確定！",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-自己]熔山裂谷-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": "這一輪協奏能量會剛好少2點協奏能量，所以最後要補一個重擊湊協奏能量，或是可以在前面的動作自己插入任何高於2點協奏能量的操作。"
+        },
+        {
+            "labels": [],
+            "resonator_name": "長離",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "延奏",
+            "skill_id": "",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "露帕",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "變奏",
+            "skill_id": "你無法逃離！傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[共鳴解放]焰痕-1諧振",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-全部]露帕-共鳴解放-追獵",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-下一位]長離-延奏技能-奇正相生",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-共鳴解放-追獵",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎",
+                    "type": "抗性降低",
+                    "value": "0.03",
+                    "stack": "3",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔-全部]露帕-固有技能2-勝利為我呼嚎-額外",
+                    "type": "抗性降低",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        }
+    ]
+}

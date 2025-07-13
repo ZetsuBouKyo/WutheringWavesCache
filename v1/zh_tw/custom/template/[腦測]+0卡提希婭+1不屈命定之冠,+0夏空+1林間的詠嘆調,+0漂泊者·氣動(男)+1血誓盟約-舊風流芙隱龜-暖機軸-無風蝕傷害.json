@@ -25,7 +25,7 @@
             "resonator_base_attr": "生命",
             "resonator_skill_bonus": "普攻",
             "resonator_energy_regen": "",
-            "resonator_echo_1": "飛廉之猩",
+            "resonator_echo_1": "夢魘·飛廉之猩",
             "resonator_echo_sonata_1": "嘯谷長風",
             "resonator_echo_sonata_2": "嘯谷長風",
             "resonator_echo_sonata_3": "嘯谷長風",
@@ -122,61 +122,7 @@
             "real_dmg_no_crit": "",
             "real_dmg_crit": "",
             "action": "聲骸",
-            "skill_id": "五星 共鳴迴響·芙露德莉斯-1",
-            "skill_bonus_type": "",
-            "hit": "8",
-            "buffs": [
-                {
-                    "name": "[加成-自己]卡提希婭-固有技能2-以風刻痕留蝕",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
-                    "name": "[加深]不屈命定之冠-1諧振",
-                    "type": "加深",
-                    "value": "0.2",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[忽視防禦]不屈命定之冠-1諧振",
-                    "type": "忽視防禦",
-                    "value": "0.08",
-                    "stack": "1",
-                    "duration": "15"
-                },
-                {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                }
-            ],
-            "resonating_spin_concerto_regen": "",
-            "accumulated_resonating_spin_concerto_regen": "",
-            "time_start": "",
-            "time_end": "",
-            "cumulative_time": "",
-            "frame": "",
-            "comment": ""
-        },
-        {
-            "labels": [],
-            "resonator_name": "卡提希婭",
-            "real_dmg_no_crit": "",
-            "real_dmg_crit": "",
-            "action": "",
-            "skill_id": "五星 共鳴迴響·芙露德莉斯-2",
+            "skill_id": "五星 夢魘·飛廉之猩-1",
             "skill_bonus_type": "",
             "hit": "1",
             "buffs": [
@@ -200,20 +146,46 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "15"
-                },
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "卡提希婭",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "五星 夢魘·飛廉之猩-2",
+            "skill_bonus_type": "",
+            "hit": "5",
+            "buffs": [
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
+                    "name": "[加成-自己]卡提希婭-固有技能2-以風刻痕留蝕",
                     "type": "加成",
                     "value": "0.3",
                     "stack": "1",
-                    "duration": "10"
+                    "duration": ""
+                },
+                {
+                    "name": "[加深]不屈命定之冠-1諧振",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[忽視防禦]不屈命定之冠-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1090,13 +1062,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -1109,13 +1074,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "20"
-                },
-                {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1165,13 +1123,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -1184,13 +1135,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "20"
-                },
-                {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1356,13 +1300,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -1375,13 +1312,6 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "20"
-                },
-                {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2179,13 +2109,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2200,18 +2123,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2275,13 +2198,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2296,18 +2212,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2371,13 +2287,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2392,13 +2301,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
@@ -2411,6 +2313,13 @@
                     "value": "1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2492,13 +2401,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2513,18 +2415,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2588,13 +2490,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2609,18 +2504,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2684,13 +2579,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2705,18 +2593,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2780,13 +2668,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2801,18 +2682,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2876,13 +2757,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2897,18 +2771,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2965,13 +2839,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -2986,18 +2853,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3054,13 +2921,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -3075,18 +2935,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3143,13 +3003,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -3164,18 +3017,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3232,13 +3085,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -3253,18 +3099,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3321,13 +3167,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -3342,18 +3181,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3417,13 +3256,6 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[暴擊-自己]願戴榮光之旅-5/5",
-                    "type": "暴擊",
-                    "value": "0.1",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動-全部]夏空-常態攻擊-音律獨奏",
                     "type": "加成",
                     "value": "0.24",
@@ -3438,18 +3270,18 @@
                     "duration": "20"
                 },
                 {
-                    "name": "[氣動-自己]願戴榮光之旅-5/5",
-                    "type": "加成",
-                    "value": "0.3",
-                    "stack": "1",
-                    "duration": "10"
-                },
-                {
                     "name": "[氣動]血誓盟約-1諧振",
                     "type": "加深",
                     "value": "0.1",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[氣動-自己]嘯谷長風-5/5",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
