@@ -1,0 +1,467 @@
+{
+    "id": "[腦測]+6丹瑾+1千古洑流-快速延奏",
+    "labels": [
+        {
+            "name": "",
+            "duration_1": "",
+            "duration_2": ""
+        }
+    ],
+    "test_resonator_id_1": "",
+    "test_resonator_id_2": "",
+    "test_resonator_id_3": "",
+    "duration_1": "20",
+    "duration_2": "40",
+    "monster_id": "90等抗性20白板",
+    "description": "",
+    "resonators": [
+        {
+            "resonator_name": "丹瑾",
+            "resonator_chain": "6",
+            "resonator_weapon_name": "千古洑流",
+            "resonator_weapon_rank": "1",
+            "resonator_inherent_skill_1": true,
+            "resonator_inherent_skill_2": true,
+            "resonator_base_attr": "攻擊",
+            "resonator_skill_bonus": "共鳴技能",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "無常凶鷺",
+            "resonator_echo_sonata_1": "輕雲出月",
+            "resonator_echo_sonata_2": "輕雲出月",
+            "resonator_echo_sonata_3": "輕雲出月",
+            "resonator_echo_sonata_4": "輕雲出月",
+            "resonator_echo_sonata_5": "輕雲出月",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": "",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
+        },
+        {
+            "resonator_name": "",
+            "resonator_chain": "",
+            "resonator_weapon_name": "",
+            "resonator_weapon_rank": "",
+            "resonator_inherent_skill_1": null,
+            "resonator_inherent_skill_2": null,
+            "resonator_base_attr": "",
+            "resonator_skill_bonus": "",
+            "resonator_energy_regen": "",
+            "resonator_echo_1": "",
+            "resonator_echo_sonata_1": "",
+            "resonator_echo_sonata_2": "",
+            "resonator_echo_sonata_3": "",
+            "resonator_echo_sonata_4": "",
+            "resonator_echo_sonata_5": "",
+            "resonator_echo_cost_1": "",
+            "resonator_echo_cost_2": "",
+            "resonator_echo_cost_3": "",
+            "resonator_echo_cost_4": "",
+            "resonator_echo_cost_5": "",
+            "resonator_echo_affix_1": "",
+            "resonator_echo_affix_2": "",
+            "resonator_echo_affix_3": "",
+            "resonator_echo_affix_4": "",
+            "resonator_echo_affix_5": ""
+        }
+    ],
+    "rows": [
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "赤華傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼滅第一段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼滅第二段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "燼滅第三段傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "緋紅綻放-連續攻擊傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-自己]丹瑾-共鳴鏈3-剎那芳華不長久",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "緋剎爆發傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[共鳴解放-自己]丹瑾-共鳴鏈3-剎那芳華不長久",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "赤華傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "丹瑾",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "繚亂傷害",
+            "skill_bonus_type": "",
+            "hit": "1",
+            "buffs": [
+                {
+                    "name": "[攻擊百分比-全部]丹瑾-共鳴鏈6-緋染碧玉豈堪留",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "20"
+                },
+                {
+                    "name": "[攻擊百分比]千古洑流-1諧振",
+                    "type": "攻擊百分比",
+                    "value": "0.06",
+                    "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[暴擊-自己]丹瑾-共鳴鏈4-孤艷難紅",
+                    "type": "暴擊",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-自己]丹瑾-共鳴鏈5-劍掃春秋",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[重擊-自己]丹瑾-固有技能2-盈溢",
+                    "type": "加成",
+                    "value": "0.3",
+                    "stack": "1",
+                    "duration": "5"
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        }
+    ]
+}
