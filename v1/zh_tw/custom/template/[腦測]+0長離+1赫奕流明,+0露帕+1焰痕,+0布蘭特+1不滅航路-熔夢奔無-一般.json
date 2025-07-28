@@ -665,6 +665,13 @@
                     "value": "0.06",
                     "stack": "1",
                     "duration": "35"
+                },
+                {
+                    "name": "[熱熔]焰痕-1諧振-延長-隊伍",
+                    "type": "加成",
+                    "value": "0.24",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
