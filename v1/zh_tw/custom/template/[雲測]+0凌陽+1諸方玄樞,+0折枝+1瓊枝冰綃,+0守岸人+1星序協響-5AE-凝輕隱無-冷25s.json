@@ -10,8 +10,8 @@
     "test_resonator_id_1": "",
     "test_resonator_id_2": "",
     "test_resonator_id_3": "",
-    "duration_1": "74",
-    "duration_2": "76",
+    "duration_1": "75",
+    "duration_2": "77",
     "monster_id": "90等抗性20白板",
     "description": "凌陽化形冰蚊子的傷害無法觸發折枝大絕的墨鶴\n\nhttps://www.bilibili.com/video/BV1ZWSRYUErx/?vd_source=17cf8ccd38da503b999771df1487e22c",
     "resonators": [
@@ -1209,6 +1209,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1270,6 +1277,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1352,6 +1366,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1434,6 +1455,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1495,6 +1523,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1577,6 +1612,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1638,6 +1680,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1734,6 +1783,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1830,6 +1886,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1891,6 +1954,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1973,6 +2043,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2034,6 +2111,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2130,6 +2214,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2226,6 +2317,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2287,6 +2385,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2348,6 +2453,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2430,6 +2542,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2491,6 +2610,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2587,6 +2713,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2683,6 +2816,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2744,6 +2884,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2805,6 +2952,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2887,6 +3041,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2975,6 +3136,13 @@
                     "type": "攻擊百分比",
                     "value": "0.14",
                     "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
                     "duration": "30"
                 }
             ],
@@ -3065,6 +3233,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3119,6 +3294,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3194,6 +3376,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3282,6 +3471,13 @@
                     "type": "攻擊百分比",
                     "value": "0.14",
                     "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
                     "duration": "30"
                 }
             ],
@@ -3372,6 +3568,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3439,6 +3642,13 @@
                     "type": "攻擊百分比",
                     "value": "0.14",
                     "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
                     "duration": "30"
                 }
             ],
@@ -3508,6 +3718,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3562,6 +3779,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3601,6 +3825,13 @@
                     "type": "攻擊百分比",
                     "value": "0.14",
                     "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
                     "duration": "30"
                 }
             ],
@@ -3649,6 +3880,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3696,6 +3934,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3743,6 +3988,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3794,6 +4046,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3826,6 +4085,13 @@
                     "type": "攻擊百分比",
                     "value": "0.14",
                     "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
                     "duration": "30"
                 }
             ],
@@ -3881,6 +4147,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3900,7 +4173,15 @@
             "skill_id": "五星 無歸的謬誤-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:26:74",
@@ -3960,6 +4241,13 @@
                     "value": "0.1",
                     "stack": "1",
                     "duration": "20"
+                },
+                {
+                    "name": "[暴擊-全部]守岸人-共鳴解放-深潛星域",
+                    "type": "暴擊",
+                    "value": "0.0001",
+                    "stack": "1250",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
