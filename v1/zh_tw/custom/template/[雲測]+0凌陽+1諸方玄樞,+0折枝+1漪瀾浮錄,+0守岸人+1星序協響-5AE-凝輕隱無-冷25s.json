@@ -521,7 +521,15 @@
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -539,7 +547,15 @@
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -665,7 +681,36 @@
             "skill_id": "出洞·睡獅蟄醒",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -701,7 +746,43 @@
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -719,7 +800,43 @@
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -755,7 +872,43 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -791,7 +944,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -809,7 +1012,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -845,7 +1098,43 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -881,7 +1170,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -899,7 +1238,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -953,7 +1342,43 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -989,7 +1414,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1007,7 +1482,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1061,7 +1586,43 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1079,7 +1640,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1097,7 +1708,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1133,7 +1794,43 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1151,7 +1848,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1169,7 +1916,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1187,7 +1984,36 @@
             "skill_id": "凌雲式·腿打連環傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1205,7 +2031,36 @@
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:23:11",
@@ -1457,7 +2312,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1475,7 +2338,15 @@
             "skill_id": "柔翰生輝",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1493,7 +2364,15 @@
             "skill_id": "以形寫神",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:29:03",
@@ -1511,7 +2390,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1529,7 +2416,15 @@
             "skill_id": "群星漫響-耀星·蝶傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1547,7 +2442,15 @@
             "skill_id": "重擊·構形傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1565,7 +2468,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1583,7 +2494,15 @@
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:30:60",
@@ -1619,7 +2538,22 @@
             "skill_id": "五星 輝螢軍勢-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1637,7 +2571,29 @@
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1655,7 +2611,29 @@
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1691,7 +2669,15 @@
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:33:10",
@@ -1709,7 +2695,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1727,7 +2721,15 @@
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:04",
@@ -1745,7 +2747,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1763,7 +2773,15 @@
             "skill_id": "極意·神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:34:86",
@@ -1799,7 +2817,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1817,7 +2843,43 @@
             "skill_id": "出洞·睡獅蟄醒",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1835,7 +2897,50 @@
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1853,7 +2958,50 @@
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1871,7 +3019,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1889,7 +3045,50 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1907,7 +3106,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1925,7 +3181,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1943,7 +3256,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1961,7 +3282,50 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1979,7 +3343,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1997,7 +3369,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2015,7 +3444,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2033,7 +3519,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2051,7 +3545,50 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2069,7 +3606,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2087,7 +3632,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2105,7 +3707,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2123,7 +3782,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2141,7 +3808,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2159,7 +3834,50 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2177,7 +3895,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2195,7 +3921,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2213,7 +3989,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2231,7 +4057,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2249,7 +4083,43 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2267,7 +4137,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2285,7 +4205,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2303,7 +4273,36 @@
             "skill_id": "凌雲式·腿打連環傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2321,7 +4320,36 @@
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:46:87",
@@ -2339,7 +4367,15 @@
             "skill_id": "故此證明-洞悉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2357,7 +4393,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2375,7 +4419,15 @@
             "skill_id": "普攻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2393,7 +4445,15 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2411,7 +4471,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2429,7 +4497,15 @@
             "skill_id": "普攻第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2447,7 +4523,15 @@
             "skill_id": "混沌理論-黯星·蝶傷害",
             "skill_bonus_type": "",
             "hit": "5",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:49:64",
@@ -2465,7 +4549,15 @@
             "skill_id": "五星 無歸的謬誤-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:49:73",
@@ -2483,7 +4575,15 @@
             "skill_id": "普攻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2501,7 +4601,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:50:09",
@@ -2519,7 +4627,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2555,7 +4671,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2573,7 +4697,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2591,7 +4723,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2609,7 +4749,15 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2645,7 +4793,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2663,7 +4819,15 @@
             "skill_id": "群星漫響-演繹傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2681,7 +4845,15 @@
             "skill_id": "群星漫響-耀星·蝶傷害-1",
             "skill_bonus_type": "",
             "hit": "4",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2735,7 +4907,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2753,7 +4933,15 @@
             "skill_id": "柔翰生輝",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2771,7 +4959,15 @@
             "skill_id": "以形寫神",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:55:42",
@@ -2789,7 +4985,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2807,7 +5011,15 @@
             "skill_id": "重擊·構形傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2825,7 +5037,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2843,7 +5063,15 @@
             "skill_id": "五星 無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:56:94",
@@ -2879,7 +5107,22 @@
             "skill_id": "五星 輝螢軍勢-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2897,7 +5140,29 @@
             "skill_id": "五星 輝螢軍勢-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2915,7 +5180,29 @@
             "skill_id": "五星 輝螢軍勢-3",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2951,7 +5238,15 @@
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:59:49",
@@ -2969,7 +5264,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2987,7 +5290,15 @@
             "skill_id": "神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:00:51",
@@ -3005,7 +5316,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3023,7 +5342,15 @@
             "skill_id": "極意·神來之筆傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:01:29",
@@ -3059,7 +5386,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3077,7 +5412,43 @@
             "skill_id": "出洞·睡獅蟄醒",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-固有技能1-獅班免掠，逢場避讓",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "0"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3095,7 +5466,50 @@
             "skill_id": "奮進·獅子奮迅，俱足萬行",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴解放]諸方玄樞-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "8"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3113,7 +5527,50 @@
             "skill_id": "起勢·縱地金光傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3131,7 +5588,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3149,7 +5614,50 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3167,7 +5675,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3185,7 +5750,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "2",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3203,7 +5825,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3221,7 +5851,50 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3239,7 +5912,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3257,7 +5938,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3275,7 +6013,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3293,7 +6088,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3311,7 +6114,50 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3329,7 +6175,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3347,7 +6201,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3365,7 +6276,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3383,7 +6351,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3401,7 +6377,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3419,7 +6403,50 @@
             "skill_id": "狂態·搖光金獅舞第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3437,7 +6464,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3455,7 +6490,64 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3473,7 +6565,64 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3491,7 +6640,15 @@
             "skill_id": "墨鶴傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3509,7 +6666,43 @@
             "skill_id": "狂態·搖光金獅舞第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3527,7 +6720,57 @@
             "skill_id": "飛身式·翻山越澗傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3545,7 +6788,57 @@
             "skill_id": "飛身式·翻山越澗傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能-自己]輝螢軍勢",
+                    "type": "加成",
+                    "value": "0.04",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[冷凝-下一位]折枝-延奏技能-提白",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3563,7 +6856,36 @@
             "skill_id": "凌雲式·腿打連環傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3581,7 +6903,36 @@
             "skill_id": "留痕·踏雪點星",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[冷凝-自己]凌陽-共鳴解放-獅子奮迅",
+                    "type": "加成",
+                    "value": "0.5",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[冷凝-自己]凝夜白霜-5/5",
+                    "type": "加成",
+                    "value": "0.1",
+                    "stack": "3",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加成-下一位]無常凶鷺",
+                    "type": "加成",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "01:13:20",
@@ -3599,7 +6950,15 @@
             "skill_id": "故此證明-洞悉傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[加深-全部]守岸人-延奏技能-雙聯合相",
+                    "type": "加深",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
