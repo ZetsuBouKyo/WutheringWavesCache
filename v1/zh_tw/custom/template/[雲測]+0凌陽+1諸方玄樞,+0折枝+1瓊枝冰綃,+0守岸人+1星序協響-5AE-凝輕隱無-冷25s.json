@@ -79,7 +79,7 @@
             "resonator_base_attr": "生命",
             "resonator_skill_bonus": "共鳴解放",
             "resonator_energy_regen": "250.00%",
-            "resonator_echo_1": "異構武裝",
+            "resonator_echo_1": "無歸的謬誤",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
             "resonator_echo_sonata_3": "隱世回光",
@@ -316,6 +316,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -349,6 +356,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -382,6 +396,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -415,6 +436,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -448,6 +476,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -481,6 +516,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -514,6 +556,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -547,6 +596,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -580,6 +636,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -613,6 +676,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -664,6 +734,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -697,6 +774,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -737,6 +821,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -777,6 +868,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -842,6 +940,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -889,6 +994,13 @@
                     "value": "0.12",
                     "stack": "2",
                     "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -936,6 +1048,13 @@
                     "value": "0.12",
                     "stack": "2",
                     "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -990,6 +1109,13 @@
                     "value": "0.12",
                     "stack": "3",
                     "duration": "6"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1076,6 +1202,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1130,6 +1263,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1205,6 +1345,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1280,6 +1427,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1334,6 +1488,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1409,6 +1570,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1463,6 +1631,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1552,6 +1727,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1641,6 +1823,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1695,6 +1884,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1770,6 +1966,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1824,6 +2027,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1913,6 +2123,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2002,6 +2219,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2056,6 +2280,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2110,6 +2341,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2185,6 +2423,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2239,6 +2484,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2328,6 +2580,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2417,6 +2676,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2471,6 +2737,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2525,6 +2798,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2600,6 +2880,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3666,6 +3953,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3763,6 +4057,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3817,6 +4118,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3871,6 +4179,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3932,6 +4247,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3979,6 +4301,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4033,6 +4362,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4094,6 +4430,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4148,6 +4491,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4220,6 +4570,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4281,6 +4638,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4342,6 +4706,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4428,6 +4799,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4496,6 +4874,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4564,6 +4949,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4632,6 +5024,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4700,6 +5099,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4793,6 +5199,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4882,6 +5295,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4978,6 +5398,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5074,6 +5501,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5149,6 +5583,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5245,6 +5686,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5355,6 +5803,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5465,6 +5920,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5540,6 +6002,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5636,6 +6105,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5711,6 +6187,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5821,6 +6304,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5931,6 +6421,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6006,6 +6503,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6102,6 +6606,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6177,6 +6688,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6287,6 +6805,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6397,6 +6922,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6472,6 +7004,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6547,6 +7086,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6643,6 +7189,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6718,6 +7271,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6821,6 +7381,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6924,6 +7491,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6999,6 +7573,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7088,6 +7669,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7846,6 +8434,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7900,6 +8495,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -7954,6 +8556,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8026,6 +8635,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8080,6 +8696,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8134,6 +8757,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8188,6 +8818,13 @@
                     "value": "0.18",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8267,6 +8904,13 @@
                     "value": "0.52",
                     "stack": "1",
                     "duration": "27"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8307,6 +8951,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8347,6 +8998,13 @@
                     "value": "0.14",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8444,6 +9102,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8498,6 +9163,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8552,6 +9224,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8613,6 +9292,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8667,6 +9353,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8728,6 +9421,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8782,6 +9482,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8854,6 +9561,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8915,6 +9629,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -8976,6 +9697,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9062,6 +9790,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9130,6 +9865,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9198,6 +9940,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9266,6 +10015,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9334,6 +10090,13 @@
                     "value": "0.0001",
                     "stack": "1250",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9427,6 +10190,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9516,6 +10286,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9612,6 +10389,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9708,6 +10492,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9783,6 +10574,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9879,6 +10677,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -9989,6 +10794,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10099,6 +10911,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10174,6 +10993,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10270,6 +11096,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10345,6 +11178,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10455,6 +11295,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10565,6 +11412,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10640,6 +11494,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10736,6 +11597,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10811,6 +11679,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -10921,6 +11796,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -11031,6 +11913,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -11106,6 +11995,13 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",

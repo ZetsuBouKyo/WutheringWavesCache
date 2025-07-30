@@ -78,23 +78,23 @@
             "resonator_inherent_skill_2": true,
             "resonator_base_attr": "生命",
             "resonator_skill_bonus": "共鳴解放",
-            "resonator_energy_regen": "",
-            "resonator_echo_1": "異構武裝",
+            "resonator_energy_regen": "250.00%",
+            "resonator_echo_1": "無歸的謬誤",
             "resonator_echo_sonata_1": "隱世回光",
             "resonator_echo_sonata_2": "隱世回光",
             "resonator_echo_sonata_3": "隱世回光",
             "resonator_echo_sonata_4": "隱世回光",
             "resonator_echo_sonata_5": "隱世回光",
-            "resonator_echo_cost_1": "",
-            "resonator_echo_cost_2": "",
-            "resonator_echo_cost_3": "",
-            "resonator_echo_cost_4": "",
-            "resonator_echo_cost_5": "",
-            "resonator_echo_affix_1": "",
-            "resonator_echo_affix_2": "",
-            "resonator_echo_affix_3": "",
-            "resonator_echo_affix_4": "",
-            "resonator_echo_affix_5": ""
+            "resonator_echo_cost_1": "4",
+            "resonator_echo_cost_2": "3",
+            "resonator_echo_cost_3": "3",
+            "resonator_echo_cost_4": "1",
+            "resonator_echo_cost_5": "1",
+            "resonator_echo_affix_1": "暴傷",
+            "resonator_echo_affix_2": "共效",
+            "resonator_echo_affix_3": "衍射",
+            "resonator_echo_affix_4": "生",
+            "resonator_echo_affix_5": "生"
         }
     ],
     "rows": [
@@ -130,6 +130,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -190,6 +197,13 @@
                     "value": "0.04",
                     "stack": "6",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -241,6 +255,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -265,6 +286,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -293,6 +321,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -319,6 +354,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -343,6 +385,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -425,6 +474,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -476,6 +532,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -509,6 +572,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -542,6 +612,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -604,6 +681,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -630,6 +714,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -654,6 +745,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -718,6 +816,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -758,6 +863,13 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -782,6 +894,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -822,6 +941,13 @@
                     "name": "[攻擊百分比-全部]隱世回光-5/5",
                     "type": "攻擊百分比",
                     "value": "0.15",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
                     "stack": "1",
                     "duration": "30"
                 }
@@ -932,6 +1058,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1000,6 +1140,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1093,6 +1247,20 @@
                     "value": "0.04",
                     "stack": "9",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1175,6 +1343,20 @@
                     "value": "0.04",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1261,6 +1443,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1329,6 +1525,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1397,6 +1607,20 @@
                     "value": "0.05",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1501,6 +1725,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1569,6 +1807,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1637,6 +1889,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1705,6 +1971,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1784,6 +2064,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1859,6 +2153,20 @@
                     "value": "0.05",
                     "stack": "2",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1927,6 +2235,20 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2017,6 +2339,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2071,6 +2407,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2146,6 +2496,20 @@
                     "value": "0.05",
                     "stack": "3",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2229,6 +2593,20 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2319,6 +2697,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2398,6 +2790,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2473,6 +2879,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2534,6 +2954,20 @@
                     "value": "0.12",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2613,6 +3047,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2681,6 +3129,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2735,6 +3197,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2789,6 +3265,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2875,6 +3365,20 @@
                     "value": "0.05",
                     "stack": "4",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2940,6 +3444,20 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3012,6 +3530,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3091,6 +3623,20 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3174,6 +3720,20 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3246,6 +3806,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3300,6 +3874,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3354,6 +3942,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3408,6 +4010,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3501,6 +4117,20 @@
                     "value": "0.04",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3584,6 +4214,20 @@
                     "value": "0.0001",
                     "stack": "2500",
                     "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3656,6 +4300,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3728,6 +4386,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3782,6 +4454,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3854,6 +4540,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3929,6 +4629,20 @@
                     "value": "0.04",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4022,6 +4736,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4097,6 +4825,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4151,6 +4893,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4226,6 +4982,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4301,6 +5071,13 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4445,6 +5222,20 @@
                     "value": "0.04",
                     "stack": "7",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4513,6 +5304,20 @@
                     "value": "0.04",
                     "stack": "8",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4581,6 +5386,20 @@
                     "value": "0.04",
                     "stack": "8",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4663,6 +5482,20 @@
                     "value": "0.04",
                     "stack": "9",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4752,6 +5585,20 @@
                     "value": "0.04",
                     "stack": "9",
                     "duration": ""
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4845,6 +5692,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4920,6 +5781,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4995,6 +5870,20 @@
                     "value": "0.3",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[攻擊百分比]星序協響-1諧振-隊伍",
+                    "type": "攻擊百分比",
+                    "value": "0.14",
+                    "stack": "1",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-全部]無歸的謬誤",
+                    "type": "攻擊百分比",
+                    "value": "0.1",
+                    "stack": "1",
+                    "duration": "20"
                 }
             ],
             "resonating_spin_concerto_regen": "",
