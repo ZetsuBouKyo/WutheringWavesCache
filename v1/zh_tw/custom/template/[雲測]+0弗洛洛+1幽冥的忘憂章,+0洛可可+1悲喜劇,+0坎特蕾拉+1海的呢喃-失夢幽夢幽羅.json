@@ -107,7 +107,15 @@
             "skill_id": "稍縱即逝的夢囈",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:00:42",
@@ -125,7 +133,15 @@
             "skill_id": "永不消逝的夢囈傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -161,7 +177,15 @@
             "skill_id": "即興喜劇，開場",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -179,7 +203,22 @@
             "skill_id": "高難度設計",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:00:96",
@@ -197,7 +236,22 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:01:30",
@@ -215,7 +269,22 @@
             "skill_id": "第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -233,7 +302,22 @@
             "skill_id": "五星 夢魘·赫卡忒-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:03:13",
@@ -265,6 +349,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -309,6 +407,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -335,6 +447,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -361,6 +487,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -412,6 +552,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -445,6 +599,20 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -507,6 +675,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "11",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -526,7 +715,29 @@
             "skill_id": "佩洛，來幫忙",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:11:23",
@@ -544,7 +755,29 @@
             "skill_id": "高難度設計",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:12:23",
@@ -569,6 +802,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "12",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -595,6 +849,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "12",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -614,7 +889,29 @@
             "skill_id": "普攻·幻想照進現實-第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:14:29",
@@ -639,6 +936,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "12",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -658,7 +976,29 @@
             "skill_id": "普攻·幻想照進現實-第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:15:39",
@@ -676,7 +1016,29 @@
             "skill_id": "普攻·幻想照進現實-第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:16:41",
@@ -694,7 +1056,22 @@
             "skill_id": "五星 夢魘·無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "10",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:16:70",
@@ -719,6 +1096,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "13",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -756,7 +1154,22 @@
             "skill_id": "幽夜隱匿之帷5/5-延奏",
             "skill_bonus_type": "延奏",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -774,7 +1187,29 @@
             "skill_id": "點水傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:16:86",
@@ -792,7 +1227,29 @@
             "skill_id": "翩躚傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:18:13",
@@ -835,6 +1292,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "14",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -872,7 +1350,43 @@
             "skill_id": "陷溺傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -890,7 +1404,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:19:25",
@@ -915,6 +1465,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "15",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -934,7 +1505,29 @@
             "skill_id": "浮潛幻海傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:19:71",
@@ -977,6 +1570,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "16",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -996,7 +1610,43 @@
             "skill_id": "蟄幻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:20:21",
@@ -1014,7 +1664,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1032,7 +1718,43 @@
             "skill_id": "蟄幻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:21:05",
@@ -1050,7 +1772,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1068,7 +1826,43 @@
             "skill_id": "蟄幻第三段傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:21:71",
@@ -1086,7 +1880,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:21:71",
@@ -1104,7 +1934,43 @@
             "skill_id": "蟄幻第三段傷害-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1122,7 +1988,43 @@
             "skill_id": "感知汲取傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:22:19",
@@ -1147,6 +2049,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "17",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1166,7 +2089,43 @@
             "skill_id": "驚醒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1184,7 +2143,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1202,7 +2197,29 @@
             "skill_id": "斑駁幻夢傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:23:51",
@@ -1220,7 +2237,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1245,6 +2298,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1282,7 +2356,22 @@
             "skill_id": "幽夜隱匿之帷5/5-延奏",
             "skill_bonus_type": "延奏",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1300,7 +2389,29 @@
             "skill_id": "驚醒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1339,6 +2450,41 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1358,7 +2504,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:24:75",
@@ -1376,7 +2544,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1394,7 +2584,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1419,6 +2631,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1477,6 +2717,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1517,6 +2785,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1536,7 +2832,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:75",
@@ -1561,6 +2879,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1580,7 +2926,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1619,6 +2987,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1645,6 +3041,13 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1664,7 +3067,22 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1689,6 +3107,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1715,6 +3161,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1734,7 +3201,15 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:31:65",
@@ -1759,6 +3234,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1817,6 +3313,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1893,6 +3410,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1948,7 +3486,15 @@
             "skill_id": "佩洛，來幫忙",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:35:95",
@@ -2009,6 +3555,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "19",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2028,7 +3595,15 @@
             "skill_id": "第四段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:37:81",
@@ -2071,6 +3646,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "20",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2090,7 +3686,22 @@
             "skill_id": "即興喜劇，開場",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2115,6 +3726,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "20",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2134,7 +3773,29 @@
             "skill_id": "高難度設計",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:38:17",
@@ -2159,6 +3820,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "20",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2178,7 +3867,29 @@
             "skill_id": "普攻·幻想照進現實-第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:40:28",
@@ -2196,7 +3907,15 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:40:28",
@@ -2214,7 +3933,29 @@
             "skill_id": "普攻·幻想照進現實-第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:41:27",
@@ -2232,7 +3973,15 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2257,6 +4006,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "20",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2283,6 +4053,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "20",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2302,7 +4093,15 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2320,7 +4119,29 @@
             "skill_id": "普攻·幻想照進現實-第三段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[湮滅-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:42:41",
@@ -2338,7 +4159,22 @@
             "skill_id": "五星 夢魘·無常凶鷺-1",
             "skill_bonus_type": "",
             "hit": "10",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:42:61",
@@ -2363,6 +4199,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "21",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2400,7 +4257,22 @@
             "skill_id": "幽夜隱匿之帷5/5-延奏",
             "skill_bonus_type": "延奏",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]洛可可-固有技能1-沉浸式演出",
+                    "type": "攻擊百分比",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2418,7 +4290,29 @@
             "skill_id": "點水傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:42:81",
@@ -2443,6 +4337,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "21",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2462,7 +4377,29 @@
             "skill_id": "翩躚傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:44:10",
@@ -2505,6 +4442,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "22",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2542,7 +4500,43 @@
             "skill_id": "陷溺傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:20",
@@ -2560,7 +4554,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:20",
@@ -2585,6 +4615,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "23",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2604,7 +4655,29 @@
             "skill_id": "浮潛幻海傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:45:67",
@@ -2640,7 +4713,43 @@
             "skill_id": "蟄幻第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:46:17",
@@ -2658,7 +4767,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2683,6 +4828,27 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "24",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2702,7 +4868,43 @@
             "skill_id": "蟄幻第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:04",
@@ -2720,7 +4922,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2738,7 +4976,43 @@
             "skill_id": "蟄幻第三段傷害-2",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:70",
@@ -2756,7 +5030,43 @@
             "skill_id": "蟄幻第三段傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2774,7 +5084,43 @@
             "skill_id": "感知汲取傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:47:70",
@@ -2799,6 +5145,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "24",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響-上限",
+                    "type": "暴擊傷害",
+                    "value": "0.01",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2818,7 +5192,43 @@
             "skill_id": "驚醒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2836,7 +5246,29 @@
             "skill_id": "斑駁幻夢傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:49:02",
@@ -2854,7 +5286,43 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[湮滅-下一位]洛可可-延奏技能-掌聲鼓勵",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2879,6 +5347,34 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "24",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響-上限",
+                    "type": "暴擊傷害",
+                    "value": "0.01",
+                    "stack": "2",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2916,7 +5412,22 @@
             "skill_id": "幽夜隱匿之帷5/5-延奏",
             "skill_bonus_type": "延奏",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2934,7 +5445,29 @@
             "skill_id": "驚醒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2952,7 +5485,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2970,7 +5525,29 @@
             "skill_id": "瀰漫傷害-1",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[普攻]海的呢喃-1諧振-第1層",
+                    "type": "加成",
+                    "value": "0.4",
+                    "stack": "1",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -3009,6 +5586,41 @@
                     "value": "0.08",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
+                    "type": "攻擊百分比",
+                    "value": "1.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "24",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響-上限",
+                    "type": "暴擊傷害",
+                    "value": "0.01",
+                    "stack": "2",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
                 }
             ],
             "resonating_spin_concerto_regen": "",
