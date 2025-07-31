@@ -696,6 +696,13 @@
                     "value": "0.025",
                     "stack": "11",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -823,6 +830,13 @@
                     "value": "0.025",
                     "stack": "12",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -870,6 +884,13 @@
                     "value": "0.025",
                     "stack": "12",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -910,6 +931,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -957,6 +992,13 @@
                     "value": "0.025",
                     "stack": "12",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -997,6 +1039,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1037,6 +1093,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1117,6 +1187,13 @@
                     "value": "0.025",
                     "stack": "13",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1313,6 +1390,13 @@
                     "value": "0.025",
                     "stack": "14",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1392,6 +1476,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1453,6 +1544,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1500,6 +1598,13 @@
                     "value": "0.025",
                     "stack": "15",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1546,6 +1651,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -1612,6 +1724,13 @@
                     "value": "0.025",
                     "stack": "16",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1672,6 +1791,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -1734,6 +1860,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1794,6 +1927,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -1856,6 +1996,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1917,6 +2064,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1977,6 +2131,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -2039,6 +2200,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2100,6 +2268,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2147,6 +2322,13 @@
                     "value": "0.025",
                     "stack": "17",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2207,6 +2389,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -2269,6 +2458,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2315,6 +2511,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -2377,6 +2580,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2424,6 +2634,13 @@
                     "value": "0.025",
                     "stack": "18",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3026,6 +3243,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3695,6 +3919,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3786,6 +4017,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3819,6 +4057,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3873,6 +4125,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3967,6 +4226,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4007,6 +4273,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4073,6 +4353,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4146,6 +4440,13 @@
                     "value": "0.025",
                     "stack": "20",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4193,6 +4494,13 @@
                     "value": "0.025",
                     "stack": "20",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4259,6 +4567,20 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[重擊-下一位]弗洛洛-延奏技能-未完成的曲目",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[重擊]悲喜劇-1諧振",
+                    "type": "加成",
+                    "value": "0.48",
+                    "stack": "1",
+                    "duration": "3"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4339,6 +4661,13 @@
                     "value": "0.025",
                     "stack": "21",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4477,6 +4806,13 @@
                     "value": "0.025",
                     "stack": "21",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4582,6 +4918,13 @@
                     "value": "0.025",
                     "stack": "22",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4661,6 +5004,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4722,6 +5072,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4769,6 +5126,13 @@
                     "value": "0.025",
                     "stack": "23",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4815,6 +5179,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -4895,6 +5266,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4956,6 +5334,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5003,6 +5388,13 @@
                     "value": "0.025",
                     "stack": "24",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5063,6 +5455,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -5125,6 +5524,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5185,6 +5591,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -5247,6 +5660,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5308,6 +5728,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5362,6 +5789,13 @@
                     "value": "0.01",
                     "stack": "1",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5423,6 +5857,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5469,6 +5910,13 @@
                     "type": "加成",
                     "value": "0.06",
                     "stack": "2",
+                    "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
                     "duration": "10"
                 }
             ],
@@ -5531,6 +5979,13 @@
                     "value": "0.06",
                     "stack": "2",
                     "duration": "10"
+                },
+                {
+                    "name": "[湮滅]海的呢喃-1諧振-第2層",
+                    "type": "抗性降低",
+                    "value": "0.12",
+                    "stack": "1",
+                    "duration": "10"
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5585,6 +6040,13 @@
                     "value": "0.01",
                     "stack": "2",
                     "duration": ""
+                },
+                {
+                    "name": "[聲骸]幽冥的忘憂章-1諧振",
+                    "type": "加深",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
                 }
             ],
             "resonating_spin_concerto_regen": "",
