@@ -251,7 +251,22 @@
             "skill_id": "亡與死的樂章傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:04:11",
@@ -287,7 +302,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -305,7 +328,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -323,7 +354,15 @@
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -359,7 +398,22 @@
             "skill_id": "亡與死的樂章傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:07:67",
@@ -377,7 +431,22 @@
             "skill_id": "譜曲終末傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -431,7 +500,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:11:83",
@@ -485,7 +562,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:13:08",
@@ -503,7 +588,15 @@
             "skill_id": "普攻·赫卡忒第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -539,7 +632,15 @@
             "skill_id": "普攻·赫卡忒第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -611,7 +712,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -719,7 +828,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -791,7 +908,15 @@
             "skill_id": "強化攻擊·弦樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -845,7 +970,15 @@
             "skill_id": "強化攻擊·弦樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1007,7 +1140,15 @@
             "skill_id": "強化攻擊·弦樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1097,7 +1238,15 @@
             "skill_id": "強化攻擊·弦樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1169,7 +1318,29 @@
             "skill_id": "永生組歌傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:24:75",
@@ -1241,7 +1412,15 @@
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:00",
@@ -1277,7 +1456,29 @@
             "skill_id": "亡與死的樂章傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:38",
@@ -1295,7 +1496,29 @@
             "skill_id": "稍縱即逝的夢囈",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:27:75",
@@ -1331,7 +1554,15 @@
             "skill_id": "五星 夢魘·赫卡忒-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:28:24",
@@ -1367,7 +1598,29 @@
             "skill_id": "亡與死的樂章傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:29:39",
@@ -1385,7 +1638,15 @@
             "skill_id": "",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1421,7 +1682,15 @@
             "skill_id": "第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:30:19",
@@ -1439,7 +1708,15 @@
             "skill_id": "第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1475,7 +1752,15 @@
             "skill_id": "第三段傷害-1",
             "skill_bonus_type": "",
             "hit": "3",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:32:30",
@@ -1511,7 +1796,29 @@
             "skill_id": "亡與死的樂章傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:32:57",
@@ -1565,7 +1872,29 @@
             "skill_id": "譜曲終末傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1673,7 +2002,15 @@
             "skill_id": "強化攻擊·彩樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:37:03",
@@ -1727,7 +2064,15 @@
             "skill_id": "強化攻擊·彩樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1763,7 +2108,15 @@
             "skill_id": "普攻·赫卡忒第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1799,7 +2152,15 @@
             "skill_id": "普攻·赫卡忒第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1889,7 +2250,15 @@
             "skill_id": "普攻·赫卡忒第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1907,7 +2276,15 @@
             "skill_id": "普攻·赫卡忒第二段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -1979,7 +2356,15 @@
             "skill_id": "強化攻擊·弦樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2051,7 +2436,15 @@
             "skill_id": "普攻·赫卡忒第一段傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2105,7 +2498,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2177,7 +2578,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2267,7 +2676,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:46:25",
@@ -2375,7 +2792,15 @@
             "skill_id": "強化攻擊·管樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2447,7 +2872,15 @@
             "skill_id": "強化攻擊·彩樂·赫卡忒傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
@@ -2465,15 +2898,7 @@
             "skill_id": "",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [
-                {
-                    "name": "[延奏-自己]幽夜隱匿之帷-5/5",
-                    "type": "招式倍率",
-                    "value": "4.80",
-                    "stack": "1",
-                    "duration": ""
-                }
-            ],
+            "buffs": [],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "00:49:94",
@@ -2563,7 +2988,29 @@
             "skill_id": "永生組歌傷害",
             "skill_bonus_type": "",
             "hit": "1",
-            "buffs": [],
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                }
+            ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
