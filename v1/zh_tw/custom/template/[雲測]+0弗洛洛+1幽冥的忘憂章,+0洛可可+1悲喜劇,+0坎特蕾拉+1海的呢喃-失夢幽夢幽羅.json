@@ -114,6 +114,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -139,6 +146,13 @@
                     "type": "暴擊傷害",
                     "value": "0.025",
                     "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -250,6 +264,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -283,6 +304,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -315,6 +343,20 @@
                     "type": "暴擊傷害",
                     "value": "0.025",
                     "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -362,6 +404,13 @@
                     "type": "暴擊傷害",
                     "value": "0.025",
                     "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -421,6 +470,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -461,6 +517,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -500,6 +563,13 @@
                     "type": "暴擊傷害",
                     "value": "0.025",
                     "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
                     "duration": ""
                 }
             ],
@@ -566,6 +636,13 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -613,12 +690,73 @@
                     "value": "0.025",
                     "stack": "10",
                     "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
             "accumulated_resonating_spin_concerto_regen": "",
             "time_start": "",
             "time_end": "00:10:84",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "弗洛洛",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "每層餘響增加倍率",
+            "skill_bonus_type": "",
+            "hit": "10",
+            "buffs": [
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[攻擊-全部]洛可可-共鳴解放-即興喜劇，開場",
+                    "type": "攻擊",
+                    "value": "1",
+                    "stack": "200",
+                    "duration": "30"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "10",
+                    "duration": ""
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
             "cumulative_time": "",
             "frame": "",
             "comment": ""
@@ -703,6 +841,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -837,6 +989,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -891,6 +1057,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -999,6 +1179,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1194,6 +1388,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1397,6 +1605,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1605,6 +1827,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -1731,6 +1967,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2329,6 +2579,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2641,6 +2905,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2795,13 +3073,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
-                    "type": "攻擊百分比",
-                    "value": "1.2",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
                     "type": "暴擊傷害",
                     "value": "0.025",
@@ -2821,6 +3092,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -2995,6 +3273,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3081,6 +3366,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3149,6 +3441,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3250,6 +3549,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3358,6 +3671,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3478,6 +3798,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3525,6 +3852,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3598,6 +3932,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3677,6 +4018,13 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3774,6 +4122,81 @@
                     "value": "0.15",
                     "stack": "1",
                     "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                }
+            ],
+            "resonating_spin_concerto_regen": "",
+            "accumulated_resonating_spin_concerto_regen": "",
+            "time_start": "",
+            "time_end": "",
+            "cumulative_time": "",
+            "frame": "",
+            "comment": ""
+        },
+        {
+            "labels": [],
+            "resonator_name": "弗洛洛",
+            "real_dmg_no_crit": "",
+            "real_dmg_crit": "",
+            "action": "",
+            "skill_id": "每層餘響增加倍率",
+            "skill_bonus_type": "",
+            "hit": "18",
+            "buffs": [
+                {
+                    "name": "[共鳴技能-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.25",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[共鳴技能]幽冥的忘憂章-1諧振",
+                    "type": "加成",
+                    "value": "0.32",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[忽視防禦]幽冥的忘憂章-1諧振",
+                    "type": "忽視防禦",
+                    "value": "0.08",
+                    "stack": "1",
+                    "duration": "12"
+                },
+                {
+                    "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
+                    "type": "暴擊傷害",
+                    "value": "0.025",
+                    "stack": "18",
+                    "duration": ""
+                },
+                {
+                    "name": "[湮滅-下一位]坎特蕾拉-延奏技能-柔軟觸手",
+                    "type": "加深",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": "14"
+                },
+                {
+                    "name": "[湮滅-下一位]幽夜隱匿之帷-5/5",
+                    "type": "加成",
+                    "value": "0.15",
+                    "stack": "1",
+                    "duration": "15"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -3926,6 +4349,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4024,6 +4461,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4132,6 +4583,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4233,6 +4698,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4447,6 +4926,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4501,6 +4994,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4668,6 +5175,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4813,6 +5334,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -4925,6 +5460,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5133,6 +5682,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5395,6 +5958,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -5796,6 +6373,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6047,6 +6638,20 @@
                     "value": "0.32",
                     "stack": "1",
                     "duration": "12"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
+                },
+                {
+                    "name": "[聲骸-自己]失序彼岸之夢-3/3",
+                    "type": "加成",
+                    "value": "0.35",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
@@ -6274,13 +6879,6 @@
                     "duration": "30"
                 },
                 {
-                    "name": "[攻擊百分比-自己]弗洛洛-共鳴解放-指揮狀態",
-                    "type": "攻擊百分比",
-                    "value": "1.2",
-                    "stack": "1",
-                    "duration": ""
-                },
-                {
                     "name": "[暴擊傷害-自己]弗洛洛-固有技能2-餘響",
                     "type": "暴擊傷害",
                     "value": "0.025",
@@ -6300,6 +6898,13 @@
                     "value": "0.2",
                     "stack": "1",
                     "duration": "14"
+                },
+                {
+                    "name": "[暴擊-自己]失序彼岸之夢-3/3",
+                    "type": "暴擊",
+                    "value": "0.2",
+                    "stack": "1",
+                    "duration": ""
                 }
             ],
             "resonating_spin_concerto_regen": "",
